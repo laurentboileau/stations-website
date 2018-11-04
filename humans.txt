@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Laurent Boileau - @laurentboileau
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    GitHub Pages - https://pages.github.com

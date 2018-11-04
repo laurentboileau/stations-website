@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    
+    <meta name="supported-color-schemes" content="light dark">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/apple-touch-icon-precomposed.png">
+    <link rel="mask-icon" href="assets/favicon.svg" color="#000">
+    <link rel="shortcut icon" href="assets/favicon.ico">
+    <link rel="stylesheet" href="index.css">
+    
+    {% seo title=false %}
+</head>
+<body>
+    <main>
+        <img src="/assets/app-icon.svg" class="app-icon" alt="The Stations Montréal app icon.">
+        {{ content }}
+    </main>
+</body>
+</html>
