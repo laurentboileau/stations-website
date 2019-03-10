@@ -1,4 +1,4 @@
-# stations-website
+# Stations Website
 
 ## Setup
 
