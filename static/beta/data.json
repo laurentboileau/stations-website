@@ -1,0 +1,929 @@
+{
+  "agency": {
+    "agency_id": "STM",
+    "agency_name": "Société de transport de Montréal",
+    "agency_url": "http://www.stm.info",
+    "agency_timezone": "America/Montreal",
+    "agency_fare_url": "http://www.stm.info/fr/infos/titres-et-tarifs",
+    "agency_center": {
+      "latitude": 45.521519,
+      "longitude": -73.6222785
+    },
+    "agency_span": {
+      "latitudeDelta": 0.15010600000000096,
+      "longitudeDelta": 0.2003610000000009
+    }
+  },
+  "routes": [
+    {
+      "route_id": "1",
+      "route_short_name": "verte",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/verte",
+      "route_color": "00B300",
+      "route_text_color": "000000"
+    },
+    {
+      "route_id": "2",
+      "route_short_name": "orange",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/orange",
+      "route_color": "D95700",
+      "route_text_color": "000000"
+    },
+    {
+      "route_id": "4",
+      "route_short_name": "jaune",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune",
+      "route_color": "FFD900",
+      "route_text_color": "000000"
+    },
+    {
+      "route_id": "5",
+      "route_short_name": "bleue",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/bleue",
+      "route_color": "0095E6",
+      "route_text_color": "000000"
+    }
+  ],
+  "stops": [
+    {
+      "stop_id": "1",
+      "stop_name": "Station Henri-Bourassa",
+      "stop_url": "http://www.stm.info/metro/M01.htm",
+      "stop_location": {
+        "latitude": 45.555277,
+        "longitude": -73.668172
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "10",
+      "stop_name": "Station Sherbrooke",
+      "stop_url": "http://www.stm.info/metro/M10.htm",
+      "stop_location": {
+        "latitude": 45.51906,
+        "longitude": -73.569217
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "11",
+      "stop_name": "Station Berri-UQAM",
+      "stop_url": "http://www.stm.info/metro/M11.htm",
+      "stop_location": {
+        "latitude": 45.515116,
+        "longitude": -73.560726
+      },
+      "stop_routes": [
+        "1",
+        "2",
+        "4"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "12",
+      "stop_name": "Station Champ-de-Mars",
+      "stop_url": "http://www.stm.info/metro/M12.htm",
+      "stop_location": {
+        "latitude": 45.510047,
+        "longitude": -73.556596
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "13",
+      "stop_name": "Station Place-d'Armes",
+      "stop_url": "http://www.stm.info/metro/M13.htm",
+      "stop_location": {
+        "latitude": 45.506348,
+        "longitude": -73.559548
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "14",
+      "stop_name": "Station Square-Victoria–OACI",
+      "stop_url": "http://www.stm.info/metro/M14.htm",
+      "stop_location": {
+        "latitude": 45.501937,
+        "longitude": -73.563118
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "15",
+      "stop_name": "Station Bonaventure",
+      "stop_url": "http://www.stm.info/metro/M15.htm",
+      "stop_location": {
+        "latitude": 45.498086,
+        "longitude": -73.567235
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "16",
+      "stop_name": "Station Lucien-L'Allier",
+      "stop_url": "http://www.stm.info/metro/M16.htm",
+      "stop_location": {
+        "latitude": 45.494745,
+        "longitude": -73.571074
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "17",
+      "stop_name": "Station Georges-Vanier",
+      "stop_url": "http://www.stm.info/metro/M17.htm",
+      "stop_location": {
+        "latitude": 45.488897,
+        "longitude": -73.576852
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "18",
+      "stop_name": "Station Honoré-Beaugrand",
+      "stop_url": "http://www.stm.info/metro/M18.htm",
+      "stop_location": {
+        "latitude": 45.596572,
+        "longitude": -73.535376
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "19",
+      "stop_name": "Station Radisson",
+      "stop_url": "http://www.stm.info/metro/M19.htm",
+      "stop_location": {
+        "latitude": 45.589431,
+        "longitude": -73.539269
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "2",
+      "stop_name": "Station Sauvé",
+      "stop_url": "http://www.stm.info/metro/M02.htm",
+      "stop_location": {
+        "latitude": 45.550757,
+        "longitude": -73.656017
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "20",
+      "stop_name": "Station Langelier",
+      "stop_url": "http://www.stm.info/metro/M20.htm",
+      "stop_location": {
+        "latitude": 45.582736,
+        "longitude": -73.543133
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "21",
+      "stop_name": "Station Cadillac",
+      "stop_url": "http://www.stm.info/metro/M21.htm",
+      "stop_location": {
+        "latitude": 45.576843,
+        "longitude": -73.54671
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "22",
+      "stop_name": "Station Assomption",
+      "stop_url": "http://www.stm.info/metro/M22.htm",
+      "stop_location": {
+        "latitude": 45.569285,
+        "longitude": -73.547336
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "23",
+      "stop_name": "Station Viau",
+      "stop_url": "http://www.stm.info/metro/M23.htm",
+      "stop_location": {
+        "latitude": 45.560687,
+        "longitude": -73.54753
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "24",
+      "stop_name": "Station Pie-IX",
+      "stop_url": "http://www.stm.info/metro/M24.htm",
+      "stop_location": {
+        "latitude": 45.553688,
+        "longitude": -73.551757
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "25",
+      "stop_name": "Station Joliette",
+      "stop_url": "http://www.stm.info/metro/M25.htm",
+      "stop_location": {
+        "latitude": 45.546832,
+        "longitude": -73.551391
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "26",
+      "stop_name": "Station Préfontaine",
+      "stop_url": "http://www.stm.info/metro/M26.htm",
+      "stop_location": {
+        "latitude": 45.541717,
+        "longitude": -73.554192
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "27",
+      "stop_name": "Station Frontenac",
+      "stop_url": "http://www.stm.info/metro/M27.htm",
+      "stop_location": {
+        "latitude": 45.533504,
+        "longitude": -73.552196
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "28",
+      "stop_name": "Station Papineau",
+      "stop_url": "http://www.stm.info/metro/M28.htm",
+      "stop_location": {
+        "latitude": 45.523988,
+        "longitude": -73.552703
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "3",
+      "stop_name": "Station Crémazie",
+      "stop_url": "http://www.stm.info/metro/M03.htm",
+      "stop_location": {
+        "latitude": 45.546082,
+        "longitude": -73.639052
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "30",
+      "stop_name": "Station Saint-Laurent",
+      "stop_url": "http://www.stm.info/metro/M30.htm",
+      "stop_location": {
+        "latitude": 45.511033,
+        "longitude": -73.564899
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "31",
+      "stop_name": "Station Place-des-Arts",
+      "stop_url": "http://www.stm.info/metro/M31.htm",
+      "stop_location": {
+        "latitude": 45.50822,
+        "longitude": -73.568433
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "32",
+      "stop_name": "Station McGill",
+      "stop_url": "http://www.stm.info/metro/M32.htm",
+      "stop_location": {
+        "latitude": 45.504064,
+        "longitude": -73.571586
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "33",
+      "stop_name": "Station Peel",
+      "stop_url": "http://www.stm.info/metro/M33.htm",
+      "stop_location": {
+        "latitude": 45.500879,
+        "longitude": -73.574715
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "34",
+      "stop_name": "Station Guy-Concordia",
+      "stop_url": "http://www.stm.info/metro/M34.htm",
+      "stop_location": {
+        "latitude": 45.49557,
+        "longitude": -73.57931
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "35",
+      "stop_name": "Station Atwater",
+      "stop_url": "http://www.stm.info/metro/M35.htm",
+      "stop_location": {
+        "latitude": 45.490068,
+        "longitude": -73.585812
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "36",
+      "stop_name": "Station Lionel-Groulx",
+      "stop_url": "http://www.stm.info/metro/M36.htm",
+      "stop_location": {
+        "latitude": 45.482509,
+        "longitude": -73.58018
+      },
+      "stop_routes": [
+        "1",
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "37",
+      "stop_name": "Station Charlevoix",
+      "stop_url": "http://www.stm.info/metro/M37.htm",
+      "stop_location": {
+        "latitude": 45.478465,
+        "longitude": -73.569336
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "38",
+      "stop_name": "Station LaSalle",
+      "stop_url": "http://www.stm.info/metro/M38.htm",
+      "stop_location": {
+        "latitude": 45.471063,
+        "longitude": -73.566267
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "39",
+      "stop_name": "Station De l'Église",
+      "stop_url": "http://www.stm.info/metro/M39.htm",
+      "stop_location": {
+        "latitude": 45.461894,
+        "longitude": -73.567074
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "4",
+      "stop_name": "Station Jarry",
+      "stop_url": "http://www.stm.info/metro/M04.htm",
+      "stop_location": {
+        "latitude": 45.543191,
+        "longitude": -73.628765
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "40",
+      "stop_name": "Station Verdun",
+      "stop_url": "http://www.stm.info/metro/M40.htm",
+      "stop_location": {
+        "latitude": 45.459441,
+        "longitude": -73.572021
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "41",
+      "stop_name": "Station Jolicoeur",
+      "stop_url": "http://www.stm.info/metro/M41.htm",
+      "stop_location": {
+        "latitude": 45.45701,
+        "longitude": -73.581691
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "42",
+      "stop_name": "Station Monk",
+      "stop_url": "http://www.stm.info/metro/M42.htm",
+      "stop_location": {
+        "latitude": 45.451158,
+        "longitude": -73.593242
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "43",
+      "stop_name": "Station Angrignon",
+      "stop_url": "http://www.stm.info/metro/M43.htm",
+      "stop_location": {
+        "latitude": 45.446466,
+        "longitude": -73.603118
+      },
+      "stop_routes": [
+        "1"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "44",
+      "stop_name": "Station Longueuil–Université-de-Sherbrooke",
+      "stop_url": "http://www.stm.info/metro/M44.htm",
+      "stop_location": {
+        "latitude": 45.52489,
+        "longitude": -73.522098
+      },
+      "stop_routes": [
+        "4"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "45",
+      "stop_name": "Station Jean-Drapeau",
+      "stop_url": "http://www.stm.info/metro/M45.htm",
+      "stop_location": {
+        "latitude": 45.512429,
+        "longitude": -73.533127
+      },
+      "stop_routes": [
+        "4"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "46",
+      "stop_name": "Station Place-Saint-Henri",
+      "stop_url": "http://www.stm.info/metro/M46.htm",
+      "stop_location": {
+        "latitude": 45.47732,
+        "longitude": -73.586629
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "47",
+      "stop_name": "Station Vendôme",
+      "stop_url": "http://www.stm.info/metro/M47.htm",
+      "stop_location": {
+        "latitude": 45.474101,
+        "longitude": -73.603706
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "48",
+      "stop_name": "Station Villa-Maria",
+      "stop_url": "http://www.stm.info/metro/M48.htm",
+      "stop_location": {
+        "latitude": 45.479709,
+        "longitude": -73.619821
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "49",
+      "stop_name": "Station Snowdon",
+      "stop_url": "http://www.stm.info/metro/M49.htm",
+      "stop_location": {
+        "latitude": 45.485562,
+        "longitude": -73.627547
+      },
+      "stop_routes": [
+        "2",
+        "5"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "5",
+      "stop_name": "Station Jean-Talon",
+      "stop_url": "http://www.stm.info/metro/M05.htm",
+      "stop_location": {
+        "latitude": 45.539097,
+        "longitude": -73.613885
+      },
+      "stop_routes": [
+        "2",
+        "5"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "50",
+      "stop_name": "Station Côte-Sainte-Catherine",
+      "stop_url": "http://www.stm.info/metro/M50.htm",
+      "stop_location": {
+        "latitude": 45.492356,
+        "longitude": -73.6331
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "51",
+      "stop_name": "Station Plamondon",
+      "stop_url": "http://www.stm.info/metro/M51.htm",
+      "stop_location": {
+        "latitude": 45.494644,
+        "longitude": -73.63826
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "52",
+      "stop_name": "Station Namur",
+      "stop_url": "http://www.stm.info/metro/M52.htm",
+      "stop_location": {
+        "latitude": 45.494643,
+        "longitude": -73.652828
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "53",
+      "stop_name": "Station De la Savane",
+      "stop_url": "http://www.stm.info/metro/M53.htm",
+      "stop_location": {
+        "latitude": 45.500051,
+        "longitude": -73.661538
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "54",
+      "stop_name": "Station Du Collège",
+      "stop_url": "http://www.stm.info/metro/M54.htm",
+      "stop_location": {
+        "latitude": 45.509258,
+        "longitude": -73.674796
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "55",
+      "stop_name": "Station Côte-des-Neiges",
+      "stop_url": "http://www.stm.info/metro/M55.htm",
+      "stop_location": {
+        "latitude": 45.496846,
+        "longitude": -73.623386
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "56",
+      "stop_name": "Station Université-de-Montréal",
+      "stop_url": "http://www.stm.info/metro/M56.htm",
+      "stop_location": {
+        "latitude": 45.503188,
+        "longitude": -73.617699
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "57",
+      "stop_name": "Station Édouard-Montpetit",
+      "stop_url": "http://www.stm.info/metro/M57.htm",
+      "stop_location": {
+        "latitude": 45.50992,
+        "longitude": -73.612858
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "58",
+      "stop_name": "Station Outremont",
+      "stop_url": "http://www.stm.info/metro/M58.htm",
+      "stop_location": {
+        "latitude": 45.52037,
+        "longitude": -73.614976
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "59",
+      "stop_name": "Station Acadie",
+      "stop_url": "http://www.stm.info/metro/M59.htm",
+      "stop_location": {
+        "latitude": 45.523458,
+        "longitude": -73.623257
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "6",
+      "stop_name": "Station Beaubien",
+      "stop_url": "http://www.stm.info/metro/M06.htm",
+      "stop_location": {
+        "latitude": 45.535354,
+        "longitude": -73.604688
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "60",
+      "stop_name": "Station Parc",
+      "stop_url": "http://www.stm.info/metro/M60.htm",
+      "stop_location": {
+        "latitude": 45.530177,
+        "longitude": -73.624559
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "61",
+      "stop_name": "Station De Castelnau",
+      "stop_url": "http://www.stm.info/metro/M61.htm",
+      "stop_location": {
+        "latitude": 45.535437,
+        "longitude": -73.619873
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "62",
+      "stop_name": "Station Fabre",
+      "stop_url": "http://www.stm.info/metro/M62.htm",
+      "stop_location": {
+        "latitude": 45.546753,
+        "longitude": -73.608106
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "63",
+      "stop_name": "Station D'Iberville",
+      "stop_url": "http://www.stm.info/metro/M63.htm",
+      "stop_location": {
+        "latitude": 45.553618,
+        "longitude": -73.601988
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "64",
+      "stop_name": "Station Saint-Michel",
+      "stop_url": "http://www.stm.info/metro/M64.htm",
+      "stop_location": {
+        "latitude": 45.55956,
+        "longitude": -73.600002
+      },
+      "stop_routes": [
+        "5"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "65",
+      "stop_name": "Station Côte-Vertu",
+      "stop_url": "http://www.stm.info/metro/M65.htm",
+      "stop_location": {
+        "latitude": 45.514237,
+        "longitude": -73.682757
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "66",
+      "stop_name": "Station Cartier",
+      "stop_url": "http://www.stm.info/metro/M66.htm",
+      "stop_location": {
+        "latitude": 45.559997,
+        "longitude": -73.68231
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "67",
+      "stop_name": "Station De la Concorde",
+      "stop_url": "http://www.stm.info/metro/M67.htm",
+      "stop_location": {
+        "latitude": 45.560698,
+        "longitude": -73.709389
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "68",
+      "stop_name": "Station Montmorency",
+      "stop_url": "http://www.stm.info/metro/M68.htm",
+      "stop_location": {
+        "latitude": 45.558436,
+        "longitude": -73.722459
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "7",
+      "stop_name": "Station Rosemont",
+      "stop_url": "http://www.stm.info/metro/M07.htm",
+      "stop_location": {
+        "latitude": 45.531733,
+        "longitude": -73.59778
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 1
+    },
+    {
+      "stop_id": "8",
+      "stop_name": "Station Laurier",
+      "stop_url": "http://www.stm.info/metro/M08.htm",
+      "stop_location": {
+        "latitude": 45.527399,
+        "longitude": -73.586907
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    },
+    {
+      "stop_id": "9",
+      "stop_name": "Station Mont-Royal",
+      "stop_url": "http://www.stm.info/metro/M09.htm",
+      "stop_location": {
+        "latitude": 45.524931,
+        "longitude": -73.581959
+      },
+      "stop_routes": [
+        "2"
+      ],
+      "wheelchair_boarding": 2
+    }
+  ],
+  "metadata": {
+    "created": "2019-03-16T00:48:21Z",
+    "origin": "downloaded"
+  }
+}
