@@ -938,7 +938,7 @@
   "route_stops": {
     "1": [
       {
-        "direction_id": 0,
+        "direction_id": "0",
         "direction_stops": [
           "18",
           "19",
@@ -970,7 +970,7 @@
         ]
       },
       {
-        "direction_id": 1,
+        "direction_id": "1",
         "direction_stops": [
           "43",
           "42",
@@ -1004,7 +1004,7 @@
     ],
     "2": [
       {
-        "direction_id": 0,
+        "direction_id": "0",
         "direction_stops": [
           "68",
           "67",
@@ -1040,7 +1040,7 @@
         ]
       },
       {
-        "direction_id": 1,
+        "direction_id": "1",
         "direction_stops": [
           "65",
           "54",
@@ -1078,7 +1078,7 @@
     ],
     "4": [
       {
-        "direction_id": 0,
+        "direction_id": "0",
         "direction_stops": [
           "11",
           "45",
@@ -1086,7 +1086,7 @@
         ]
       },
       {
-        "direction_id": 1,
+        "direction_id": "1",
         "direction_stops": [
           "44",
           "45",
@@ -1096,7 +1096,7 @@
     ],
     "5": [
       {
-        "direction_id": 0,
+        "direction_id": "0",
         "direction_stops": [
           "64",
           "63",
@@ -1113,7 +1113,7 @@
         ]
       },
       {
-        "direction_id": 1,
+        "direction_id": "1",
         "direction_stops": [
           "49",
           "55",
@@ -1132,7 +1132,7 @@
     ]
   },
   "metadata": {
-    "created": "2019-06-16T19:13:08Z",
+    "created": "2019-06-16T19:45:56Z",
     "origin": "downloaded"
   }
 }
