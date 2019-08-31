@@ -1131,7 +1131,7 @@
       }
     ]
   },
-  "stop_times": [
+  "stop_services": [
     {
       "route_id": "2",
       "stop_id": "10280",
@@ -3480,7 +3480,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-08-31T16:11:10Z",
+    "created": "2019-08-31T22:44:38Z",
     "origin": "downloaded"
   }
 }
