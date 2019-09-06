@@ -46,893 +46,796 @@
   ],
   "stops": [
     {
-      "stop_id": "10280",
-      "stop_name": "Henri-Bourassa",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.555277,
-        "longitude": -73.668172
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10278",
-      "stop_name": "Sauvé",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sauve",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.550757,
-        "longitude": -73.656017
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10276",
-      "stop_name": "Crémazie",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cremazie",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546082,
-        "longitude": -73.639052
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10274",
-      "stop_name": "Jarry",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jarry",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.543191,
-        "longitude": -73.628765
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10270",
-      "stop_name": "Beaubien",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaubien",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.535354,
-        "longitude": -73.604688
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10268",
-      "stop_name": "Rosemont",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/rosemont",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.531733,
-        "longitude": -73.59778
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10266",
-      "stop_name": "Laurier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/laurier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.527399,
-        "longitude": -73.586907
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10264",
-      "stop_name": "Mont-Royal",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.524931,
-        "longitude": -73.581959
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10262",
-      "stop_name": "Sherbrooke",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.51906,
-        "longitude": -73.569217
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10258",
-      "stop_name": "Champ-de-Mars",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.510047,
-        "longitude": -73.556596
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10256",
-      "stop_name": "Place-d’Armes",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.506348,
-        "longitude": -73.559548
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10254",
-      "stop_name": "Square-Victoria-OACI",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.501937,
-        "longitude": -73.563118
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10252",
-      "stop_name": "Bonaventure",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.498086,
-        "longitude": -73.567235
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10250",
-      "stop_name": "Lucien-L’Allier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494745,
-        "longitude": -73.571074
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10248",
-      "stop_name": "Georges-Vanier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.488897,
-        "longitude": -73.576852
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10170",
-      "stop_name": "Honoré-Beaugrand",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.596572,
-        "longitude": -73.535376
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10168",
-      "stop_name": "Radisson",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/radisson",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.589431,
-        "longitude": -73.539269
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10166",
-      "stop_name": "Langelier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/langelier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.582736,
-        "longitude": -73.543133
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10164",
-      "stop_name": "Cadillac",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cadillac",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.576843,
-        "longitude": -73.54671
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10162",
-      "stop_name": "Assomption",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/assomption",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.569285,
-        "longitude": -73.547336
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10160",
-      "stop_name": "Viau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/viau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.560687,
-        "longitude": -73.54753
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10158",
-      "stop_name": "Pie-IX",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.553688,
-        "longitude": -73.551757
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10156",
-      "stop_name": "Joliette",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/joliette",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546832,
-        "longitude": -73.551391
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10154",
-      "stop_name": "Préfontaine",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.541717,
-        "longitude": -73.554192
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10152",
-      "stop_name": "Frontenac",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/frontenac",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.533504,
-        "longitude": -73.552196
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10150",
-      "stop_name": "Papineau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/papineau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.523988,
-        "longitude": -73.552703
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10148",
-      "stop_name": "Beaudry",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaudry",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.518831,
-        "longitude": -73.555837
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10144",
-      "stop_name": "Saint-Laurent",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.511033,
-        "longitude": -73.564899
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10142",
-      "stop_name": "Place-des-Arts",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.50822,
-        "longitude": -73.568433
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10140",
-      "stop_name": "McGill",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mcgill",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.504064,
-        "longitude": -73.571586
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10138",
-      "stop_name": "Peel",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/peel",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.500879,
-        "longitude": -73.574715
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10136",
-      "stop_name": "Guy-Concordia",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.49557,
-        "longitude": -73.57931
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10134",
-      "stop_name": "Atwater",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/atwater",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.490068,
-        "longitude": -73.585812
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10132",
-      "stop_name": "Lionel-Groulx",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.482509,
-        "longitude": -73.58018
-      },
-      "stop_routes": [
-        "1",
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10130",
-      "stop_name": "Charlevoix",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.478465,
-        "longitude": -73.569336
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10128",
-      "stop_name": "LaSalle",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lasalle",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.471063,
-        "longitude": -73.566267
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10126",
-      "stop_name": "De l’Église",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.461894,
-        "longitude": -73.567074
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10124",
-      "stop_name": "Verdun",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/verdun",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.459441,
-        "longitude": -73.572021
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10122",
-      "stop_name": "Jolicoeur",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.45701,
-        "longitude": -73.581691
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10120",
-      "stop_name": "Monk",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/monk",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.451158,
-        "longitude": -73.593242
-      },
-      "stop_routes": [
-        "1"
-      ]
-    },
-    {
-      "stop_id": "10118",
+      "stop_id": "43",
+      "stop_code": "10118",
       "stop_name": "Angrignon",
       "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/angrignon",
       "wheelchair_boarding": 2,
       "stop_location": {
         "latitude": 45.446466,
         "longitude": -73.603118
-      },
-      "stop_routes": [
-        "1"
-      ]
+      }
     },
     {
-      "stop_id": "10454",
-      "stop_name": "Longueuil-Université-de-Sherbrooke",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke",
+      "stop_id": "42",
+      "stop_code": "10120",
+      "stop_name": "Monk",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/monk",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.52489,
-        "longitude": -73.522098
-      },
-      "stop_routes": [
-        "4"
-      ]
+        "latitude": 45.451158,
+        "longitude": -73.593242
+      }
     },
     {
-      "stop_id": "10452",
-      "stop_name": "Jean-Drapeau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau",
+      "stop_id": "41",
+      "stop_code": "10122",
+      "stop_name": "Jolicoeur",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.512429,
-        "longitude": -73.533127
-      },
-      "stop_routes": [
-        "4"
-      ]
+        "latitude": 45.45701,
+        "longitude": -73.581691
+      }
     },
     {
-      "stop_id": "10244",
-      "stop_name": "Place-Saint-Henri",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri",
+      "stop_id": "40",
+      "stop_code": "10124",
+      "stop_name": "Verdun",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/verdun",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.47732,
-        "longitude": -73.586629
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.459441,
+        "longitude": -73.572021
+      }
     },
     {
-      "stop_id": "10242",
-      "stop_name": "Vendôme",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/vendome",
+      "stop_id": "39",
+      "stop_code": "10126",
+      "stop_name": "De l’Église",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.474101,
-        "longitude": -73.603706
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.461894,
+        "longitude": -73.567074
+      }
     },
     {
-      "stop_id": "10238",
-      "stop_name": "Villa-Maria",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria",
+      "stop_id": "38",
+      "stop_code": "10128",
+      "stop_name": "LaSalle",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lasalle",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.479709,
-        "longitude": -73.619821
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.471063,
+        "longitude": -73.566267
+      }
     },
     {
-      "stop_id": "10234",
-      "stop_name": "Côte-Sainte-Catherine",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine",
+      "stop_id": "37",
+      "stop_code": "10130",
+      "stop_name": "Charlevoix",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.492356,
-        "longitude": -73.6331
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.478465,
+        "longitude": -73.569336
+      }
     },
     {
-      "stop_id": "10232",
-      "stop_name": "Plamondon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/plamondon",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494644,
-        "longitude": -73.63826
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10230",
-      "stop_name": "Namur",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/namur",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494643,
-        "longitude": -73.652828
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10228",
-      "stop_name": "De la Savane",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.500051,
-        "longitude": -73.661538
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10224",
-      "stop_name": "Du Collège",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/du-college",
+      "stop_id": "36",
+      "stop_code": "10132",
+      "stop_name": "Lionel-Groulx",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx",
       "wheelchair_boarding": 1,
       "stop_location": {
-        "latitude": 45.509258,
-        "longitude": -73.674796
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.482509,
+        "longitude": -73.58018
+      }
     },
     {
-      "stop_id": "10534",
-      "stop_name": "Côte-des-Neiges",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges",
+      "stop_id": "35",
+      "stop_code": "10134",
+      "stop_name": "Atwater",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/atwater",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.496846,
-        "longitude": -73.623386
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.490068,
+        "longitude": -73.585812
+      }
     },
     {
-      "stop_id": "10536",
-      "stop_name": "Université-de-Montréal",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal",
+      "stop_id": "34",
+      "stop_code": "10136",
+      "stop_name": "Guy-Concordia",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.503188,
-        "longitude": -73.617699
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.49557,
+        "longitude": -73.57931
+      }
     },
     {
-      "stop_id": "10538",
-      "stop_name": "Édouard-Montpetit",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit",
+      "stop_id": "33",
+      "stop_code": "10138",
+      "stop_name": "Peel",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/peel",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.50992,
-        "longitude": -73.612858
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.500879,
+        "longitude": -73.574715
+      }
     },
     {
-      "stop_id": "10540",
-      "stop_name": "Outremont",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/outremont",
+      "stop_id": "32",
+      "stop_code": "10140",
+      "stop_name": "McGill",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mcgill",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.52037,
-        "longitude": -73.614976
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.504064,
+        "longitude": -73.571586
+      }
     },
     {
-      "stop_id": "10542",
-      "stop_name": "Acadie",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/acadie",
+      "stop_id": "31",
+      "stop_code": "10142",
+      "stop_name": "Place-des-Arts",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.523458,
-        "longitude": -73.623257
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.50822,
+        "longitude": -73.568433
+      }
     },
     {
-      "stop_id": "10544",
-      "stop_name": "Parc",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/parc",
+      "stop_id": "30",
+      "stop_code": "10144",
+      "stop_name": "Saint-Laurent",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.530177,
-        "longitude": -73.624559
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.511033,
+        "longitude": -73.564899
+      }
     },
     {
-      "stop_id": "10546",
-      "stop_name": "De Castelnau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau",
+      "stop_id": "9999114",
+      "stop_code": "10146",
+      "stop_name": "Berri-UQAM",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
       "wheelchair_boarding": 2,
       "stop_location": {
-        "latitude": 45.535437,
-        "longitude": -73.619873
-      },
-      "stop_routes": [
-        "5"
-      ]
+        "latitude": 45.515191,
+        "longitude": -73.561013
+      }
     },
     {
-      "stop_id": "10552",
-      "stop_name": "Fabre",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/fabre",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546753,
-        "longitude": -73.608106
-      },
-      "stop_routes": [
-        "5"
-      ]
-    },
-    {
-      "stop_id": "10554",
-      "stop_name": "D’Iberville",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.553618,
-        "longitude": -73.601988
-      },
-      "stop_routes": [
-        "5"
-      ]
-    },
-    {
-      "stop_id": "10556",
-      "stop_name": "Saint-Michel",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.55956,
-        "longitude": -73.600002
-      },
-      "stop_routes": [
-        "5"
-      ]
-    },
-    {
-      "stop_id": "10222",
-      "stop_name": "Côte-Vertu",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu",
+      "stop_id": "9999112",
+      "stop_code": "10146",
+      "stop_name": "Berri-UQAM",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
       "wheelchair_boarding": 1,
       "stop_location": {
-        "latitude": 45.514237,
-        "longitude": -73.682757
-      },
-      "stop_routes": [
-        "2"
-      ]
+        "latitude": 45.515212,
+        "longitude": -73.561051
+      }
     },
     {
-      "stop_id": "10282",
-      "stop_name": "Cartier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cartier",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.559997,
-        "longitude": -73.68231
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10286",
-      "stop_name": "De la Concorde",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.560698,
-        "longitude": -73.709389
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10288",
-      "stop_name": "Montmorency",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/montmorency",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.558436,
-        "longitude": -73.722459
-      },
-      "stop_routes": [
-        "2"
-      ]
-    },
-    {
-      "stop_id": "10272",
-      "stop_name": "Jean-Talon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.539056,
-        "longitude": -73.613902
-      },
-      "stop_routes": [
-        "2",
-        "5"
-      ]
-    },
-    {
-      "stop_id": "10146",
+      "stop_id": "9999111",
+      "stop_code": "10146",
       "stop_name": "Berri-UQAM",
       "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
       "wheelchair_boarding": 2,
       "stop_location": {
         "latitude": 45.515226,
         "longitude": -73.561082
-      },
-      "stop_routes": [
-        "1",
-        "2",
-        "4"
-      ]
+      }
     },
     {
-      "stop_id": "10236",
+      "stop_id": "29",
+      "stop_code": "10148",
+      "stop_name": "Beaudry",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaudry",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.518831,
+        "longitude": -73.555837
+      }
+    },
+    {
+      "stop_id": "28",
+      "stop_code": "10150",
+      "stop_name": "Papineau",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/papineau",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.523988,
+        "longitude": -73.552703
+      }
+    },
+    {
+      "stop_id": "27",
+      "stop_code": "10152",
+      "stop_name": "Frontenac",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/frontenac",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.533504,
+        "longitude": -73.552196
+      }
+    },
+    {
+      "stop_id": "26",
+      "stop_code": "10154",
+      "stop_name": "Préfontaine",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.541717,
+        "longitude": -73.554192
+      }
+    },
+    {
+      "stop_id": "25",
+      "stop_code": "10156",
+      "stop_name": "Joliette",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/joliette",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.546832,
+        "longitude": -73.551391
+      }
+    },
+    {
+      "stop_id": "24",
+      "stop_code": "10158",
+      "stop_name": "Pie-IX",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.553688,
+        "longitude": -73.551757
+      }
+    },
+    {
+      "stop_id": "23",
+      "stop_code": "10160",
+      "stop_name": "Viau",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/viau",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.560687,
+        "longitude": -73.54753
+      }
+    },
+    {
+      "stop_id": "22",
+      "stop_code": "10162",
+      "stop_name": "Assomption",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/assomption",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.569285,
+        "longitude": -73.547336
+      }
+    },
+    {
+      "stop_id": "21",
+      "stop_code": "10164",
+      "stop_name": "Cadillac",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cadillac",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.576843,
+        "longitude": -73.54671
+      }
+    },
+    {
+      "stop_id": "20",
+      "stop_code": "10166",
+      "stop_name": "Langelier",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/langelier",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.582736,
+        "longitude": -73.543133
+      }
+    },
+    {
+      "stop_id": "19",
+      "stop_code": "10168",
+      "stop_name": "Radisson",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/radisson",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.589431,
+        "longitude": -73.539269
+      }
+    },
+    {
+      "stop_id": "18",
+      "stop_code": "10170",
+      "stop_name": "Honoré-Beaugrand",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.596572,
+        "longitude": -73.535376
+      }
+    },
+    {
+      "stop_id": "65",
+      "stop_code": "10222",
+      "stop_name": "Côte-Vertu",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.514237,
+        "longitude": -73.682757
+      }
+    },
+    {
+      "stop_id": "54",
+      "stop_code": "10224",
+      "stop_name": "Du Collège",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/du-college",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.509258,
+        "longitude": -73.674796
+      }
+    },
+    {
+      "stop_id": "53",
+      "stop_code": "10228",
+      "stop_name": "De la Savane",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.500051,
+        "longitude": -73.661538
+      }
+    },
+    {
+      "stop_id": "52",
+      "stop_code": "10230",
+      "stop_name": "Namur",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/namur",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.494643,
+        "longitude": -73.652828
+      }
+    },
+    {
+      "stop_id": "51",
+      "stop_code": "10232",
+      "stop_name": "Plamondon",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/plamondon",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.494644,
+        "longitude": -73.63826
+      }
+    },
+    {
+      "stop_id": "50",
+      "stop_code": "10234",
+      "stop_name": "Côte-Sainte-Catherine",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.492356,
+        "longitude": -73.6331
+      }
+    },
+    {
+      "stop_id": "9999495",
+      "stop_code": "10236",
+      "stop_name": "Snowdon",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.485403,
+        "longitude": -73.627757
+      }
+    },
+    {
+      "stop_id": "9999492",
+      "stop_code": "10236",
       "stop_name": "Snowdon",
       "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
       "wheelchair_boarding": 1,
       "stop_location": {
         "latitude": 45.485433,
         "longitude": -73.62773
-      },
-      "stop_routes": [
-        "2",
-        "5"
-      ]
+      }
+    },
+    {
+      "stop_id": "48",
+      "stop_code": "10238",
+      "stop_name": "Villa-Maria",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.479709,
+        "longitude": -73.619821
+      }
+    },
+    {
+      "stop_id": "47",
+      "stop_code": "10242",
+      "stop_name": "Vendôme",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/vendome",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.474101,
+        "longitude": -73.603706
+      }
+    },
+    {
+      "stop_id": "46",
+      "stop_code": "10244",
+      "stop_name": "Place-Saint-Henri",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.47732,
+        "longitude": -73.586629
+      }
+    },
+    {
+      "stop_id": "17",
+      "stop_code": "10248",
+      "stop_name": "Georges-Vanier",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.488897,
+        "longitude": -73.576852
+      }
+    },
+    {
+      "stop_id": "16",
+      "stop_code": "10250",
+      "stop_name": "Lucien-L’Allier",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.494745,
+        "longitude": -73.571074
+      }
+    },
+    {
+      "stop_id": "15",
+      "stop_code": "10252",
+      "stop_name": "Bonaventure",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.498086,
+        "longitude": -73.567235
+      }
+    },
+    {
+      "stop_id": "14",
+      "stop_code": "10254",
+      "stop_name": "Square-Victoria-OACI",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.501937,
+        "longitude": -73.563118
+      }
+    },
+    {
+      "stop_id": "13",
+      "stop_code": "10256",
+      "stop_name": "Place-d’Armes",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.506348,
+        "longitude": -73.559548
+      }
+    },
+    {
+      "stop_id": "12",
+      "stop_code": "10258",
+      "stop_name": "Champ-de-Mars",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.510047,
+        "longitude": -73.556596
+      }
+    },
+    {
+      "stop_id": "10",
+      "stop_code": "10262",
+      "stop_name": "Sherbrooke",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.51906,
+        "longitude": -73.569217
+      }
+    },
+    {
+      "stop_id": "9",
+      "stop_code": "10264",
+      "stop_name": "Mont-Royal",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.524931,
+        "longitude": -73.581959
+      }
+    },
+    {
+      "stop_id": "8",
+      "stop_code": "10266",
+      "stop_name": "Laurier",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/laurier",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.527399,
+        "longitude": -73.586907
+      }
+    },
+    {
+      "stop_id": "7",
+      "stop_code": "10268",
+      "stop_name": "Rosemont",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/rosemont",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.531733,
+        "longitude": -73.59778
+      }
+    },
+    {
+      "stop_id": "6",
+      "stop_code": "10270",
+      "stop_name": "Beaubien",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaubien",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.535354,
+        "longitude": -73.604688
+      }
+    },
+    {
+      "stop_id": "9999052",
+      "stop_code": "10272",
+      "stop_name": "Jean-Talon",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.539056,
+        "longitude": -73.613902
+      }
+    },
+    {
+      "stop_id": "9999055",
+      "stop_code": "10272",
+      "stop_name": "Jean-Talon",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.539152,
+        "longitude": -73.613856
+      }
+    },
+    {
+      "stop_id": "4",
+      "stop_code": "10274",
+      "stop_name": "Jarry",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jarry",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.543191,
+        "longitude": -73.628765
+      }
+    },
+    {
+      "stop_id": "3",
+      "stop_code": "10276",
+      "stop_name": "Crémazie",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cremazie",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.546082,
+        "longitude": -73.639052
+      }
+    },
+    {
+      "stop_id": "2",
+      "stop_code": "10278",
+      "stop_name": "Sauvé",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sauve",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.550757,
+        "longitude": -73.656017
+      }
+    },
+    {
+      "stop_id": "1",
+      "stop_code": "10280",
+      "stop_name": "Henri-Bourassa",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.555277,
+        "longitude": -73.668172
+      }
+    },
+    {
+      "stop_id": "66",
+      "stop_code": "10282",
+      "stop_name": "Cartier",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cartier",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.559997,
+        "longitude": -73.68231
+      }
+    },
+    {
+      "stop_id": "67",
+      "stop_code": "10286",
+      "stop_name": "De la Concorde",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.560698,
+        "longitude": -73.709389
+      }
+    },
+    {
+      "stop_id": "68",
+      "stop_code": "10288",
+      "stop_name": "Montmorency",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/montmorency",
+      "wheelchair_boarding": 1,
+      "stop_location": {
+        "latitude": 45.558436,
+        "longitude": -73.722459
+      }
+    },
+    {
+      "stop_id": "45",
+      "stop_code": "10452",
+      "stop_name": "Jean-Drapeau",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.512429,
+        "longitude": -73.533127
+      }
+    },
+    {
+      "stop_id": "44",
+      "stop_code": "10454",
+      "stop_name": "Longueuil-Université-de-Sherbrooke",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.52489,
+        "longitude": -73.522098
+      }
+    },
+    {
+      "stop_id": "55",
+      "stop_code": "10534",
+      "stop_name": "Côte-des-Neiges",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.496846,
+        "longitude": -73.623386
+      }
+    },
+    {
+      "stop_id": "56",
+      "stop_code": "10536",
+      "stop_name": "Université-de-Montréal",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.503188,
+        "longitude": -73.617699
+      }
+    },
+    {
+      "stop_id": "57",
+      "stop_code": "10538",
+      "stop_name": "Édouard-Montpetit",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.50992,
+        "longitude": -73.612858
+      }
+    },
+    {
+      "stop_id": "58",
+      "stop_code": "10540",
+      "stop_name": "Outremont",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/outremont",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.52037,
+        "longitude": -73.614976
+      }
+    },
+    {
+      "stop_id": "59",
+      "stop_code": "10542",
+      "stop_name": "Acadie",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/acadie",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.523458,
+        "longitude": -73.623257
+      }
+    },
+    {
+      "stop_id": "60",
+      "stop_code": "10544",
+      "stop_name": "Parc",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/parc",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.530177,
+        "longitude": -73.624559
+      }
+    },
+    {
+      "stop_id": "61",
+      "stop_code": "10546",
+      "stop_name": "De Castelnau",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.535437,
+        "longitude": -73.619873
+      }
+    },
+    {
+      "stop_id": "62",
+      "stop_code": "10552",
+      "stop_name": "Fabre",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/fabre",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.546753,
+        "longitude": -73.608106
+      }
+    },
+    {
+      "stop_id": "63",
+      "stop_code": "10554",
+      "stop_name": "D’Iberville",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.553618,
+        "longitude": -73.601988
+      }
+    },
+    {
+      "stop_id": "64",
+      "stop_code": "10556",
+      "stop_name": "Saint-Michel",
+      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel",
+      "wheelchair_boarding": 2,
+      "stop_location": {
+        "latitude": 45.55956,
+        "longitude": -73.600002
+      }
     }
   ],
   "route_stops": {
@@ -940,65 +843,65 @@
       {
         "direction_id": "0",
         "direction_stops": [
-          "10170",
-          "10168",
-          "10166",
-          "10164",
-          "10162",
-          "10160",
-          "10158",
-          "10156",
-          "10154",
-          "10152",
-          "10150",
-          "10148",
-          "10146",
-          "10144",
-          "10142",
-          "10140",
-          "10138",
-          "10136",
-          "10134",
-          "10132",
-          "10130",
-          "10128",
-          "10126",
-          "10124",
-          "10122",
-          "10120",
-          "10118"
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "9999111",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
         ]
       },
       {
         "direction_id": "1",
         "direction_stops": [
-          "10118",
-          "10120",
-          "10122",
-          "10124",
-          "10126",
-          "10128",
-          "10130",
-          "10132",
-          "10134",
-          "10136",
-          "10138",
-          "10140",
-          "10142",
-          "10144",
-          "10146",
-          "10148",
-          "10150",
-          "10152",
-          "10154",
-          "10156",
-          "10158",
-          "10160",
-          "10162",
-          "10164",
-          "10166",
-          "10168",
-          "10170"
+          "43",
+          "42",
+          "41",
+          "40",
+          "39",
+          "38",
+          "37",
+          "36",
+          "35",
+          "34",
+          "33",
+          "32",
+          "31",
+          "30",
+          "9999111",
+          "29",
+          "28",
+          "27",
+          "26",
+          "25",
+          "24",
+          "23",
+          "22",
+          "21",
+          "20",
+          "19",
+          "18"
         ]
       }
     ],
@@ -1006,73 +909,73 @@
       {
         "direction_id": "0",
         "direction_stops": [
-          "10288",
-          "10286",
-          "10282",
-          "10280",
-          "10278",
-          "10276",
-          "10274",
-          "10272",
-          "10270",
-          "10268",
-          "10266",
-          "10264",
-          "10262",
-          "10146",
-          "10258",
-          "10256",
-          "10254",
-          "10252",
-          "10250",
-          "10248",
-          "10132",
-          "10244",
-          "10242",
-          "10238",
-          "10236",
-          "10234",
-          "10232",
-          "10230",
-          "10228",
-          "10224",
-          "10222"
+          "68",
+          "67",
+          "66",
+          "1",
+          "2",
+          "3",
+          "4",
+          "9999052",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "9999112",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "36",
+          "46",
+          "47",
+          "48",
+          "9999492",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "65"
         ]
       },
       {
         "direction_id": "1",
         "direction_stops": [
-          "10222",
-          "10224",
-          "10228",
-          "10230",
-          "10232",
-          "10234",
-          "10236",
-          "10238",
-          "10242",
-          "10244",
-          "10132",
-          "10248",
-          "10250",
-          "10252",
-          "10254",
-          "10256",
-          "10258",
-          "10146",
-          "10262",
-          "10264",
-          "10266",
-          "10268",
-          "10270",
-          "10272",
-          "10274",
-          "10276",
-          "10278",
-          "10280",
-          "10282",
-          "10286",
-          "10288"
+          "65",
+          "54",
+          "53",
+          "52",
+          "51",
+          "50",
+          "9999492",
+          "48",
+          "47",
+          "46",
+          "36",
+          "17",
+          "16",
+          "15",
+          "14",
+          "13",
+          "12",
+          "9999112",
+          "10",
+          "9",
+          "8",
+          "7",
+          "6",
+          "9999052",
+          "4",
+          "3",
+          "2",
+          "1",
+          "66",
+          "67",
+          "68"
         ]
       }
     ],
@@ -1080,17 +983,17 @@
       {
         "direction_id": "0",
         "direction_stops": [
-          "10146",
-          "10452",
-          "10454"
+          "9999114",
+          "45",
+          "44"
         ]
       },
       {
         "direction_id": "1",
         "direction_stops": [
-          "10454",
-          "10452",
-          "10146"
+          "44",
+          "45",
+          "9999114"
         ]
       }
     ],
@@ -1098,708 +1001,993 @@
       {
         "direction_id": "0",
         "direction_stops": [
-          "10556",
-          "10554",
-          "10552",
-          "10272",
-          "10546",
-          "10544",
-          "10542",
-          "10540",
-          "10538",
-          "10536",
-          "10534",
-          "10236"
+          "64",
+          "63",
+          "62",
+          "9999055",
+          "61",
+          "60",
+          "59",
+          "58",
+          "57",
+          "56",
+          "55",
+          "9999495"
         ]
       },
       {
         "direction_id": "1",
         "direction_stops": [
-          "10236",
-          "10534",
-          "10536",
-          "10538",
-          "10540",
-          "10542",
-          "10544",
-          "10546",
-          "10272",
-          "10552",
-          "10554",
-          "10556"
+          "9999495",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "9999055",
+          "62",
+          "63",
+          "64"
         ]
       }
     ]
   },
   "services": [
     {
-      "route_id": "2",
-      "stop_id": "10280",
-      "direction_id": "0",
+      "route_id": "1",
+      "stop_id": "43",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:29",
-          "00:38"
+          "05:30",
+          "00:35"
         ],
         "saturday": [
-          "05:29",
-          "01:08"
+          "05:30",
+          "01:05"
         ],
         "sunday": [
-          "05:29",
-          "00:38"
+          "05:30",
+          "00:35"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10280",
+      "route_id": "1",
+      "stop_id": "42",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "06:03",
+          "01:15"
+        ],
+        "saturday": [
+          "06:03",
+          "01:45"
+        ],
+        "sunday": [
+          "06:03",
+          "01:15"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "42",
       "direction_id": "1",
       "times": {
         "week": [
-          "06:09",
+          "05:31",
+          "00:36"
+        ],
+        "saturday": [
+          "05:31",
+          "01:06"
+        ],
+        "sunday": [
+          "05:31",
+          "00:36"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "41",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "06:02",
+          "01:14"
+        ],
+        "saturday": [
+          "06:02",
+          "01:44"
+        ],
+        "sunday": [
+          "06:02",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "41",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:32",
+          "00:37"
+        ],
+        "saturday": [
+          "05:32",
+          "01:07"
+        ],
+        "sunday": [
+          "05:32",
+          "00:37"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "40",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "06:00",
           "01:12"
         ],
         "saturday": [
-          "06:09",
+          "06:00",
           "01:42"
         ],
         "sunday": [
-          "06:09",
+          "06:00",
           "01:12"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10278",
-      "direction_id": "0",
+      "route_id": "1",
+      "stop_id": "40",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:30",
+          "05:34",
           "00:39"
         ],
         "saturday": [
-          "05:30",
+          "05:34",
           "01:09"
         ],
         "sunday": [
-          "05:30",
+          "05:34",
           "00:39"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10278",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:07",
-          "01:10"
-        ],
-        "saturday": [
-          "06:07",
-          "01:41"
-        ],
-        "sunday": [
-          "06:07",
-          "01:10"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10276",
+      "route_id": "1",
+      "stop_id": "39",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:33",
-          "00:42"
+          "05:59",
+          "01:11"
         ],
         "saturday": [
-          "05:33",
-          "01:12"
+          "05:59",
+          "01:41"
         ],
         "sunday": [
-          "05:33",
-          "00:42"
+          "05:59",
+          "01:11"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10276",
+      "route_id": "1",
+      "stop_id": "39",
       "direction_id": "1",
       "times": {
         "week": [
-          "06:05",
-          "01:08"
+          "05:35",
+          "00:40"
         ],
         "saturday": [
-          "06:05",
+          "05:35",
+          "01:10"
+        ],
+        "sunday": [
+          "05:35",
+          "00:40"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "38",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:58",
+          "01:09"
+        ],
+        "saturday": [
+          "05:58",
           "01:39"
         ],
         "sunday": [
-          "06:05",
+          "05:58",
+          "01:09"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "38",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:37",
+          "00:42"
+        ],
+        "saturday": [
+          "05:37",
+          "01:12"
+        ],
+        "sunday": [
+          "05:37",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "37",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:56",
+          "01:08"
+        ],
+        "saturday": [
+          "05:56",
+          "01:38"
+        ],
+        "sunday": [
+          "05:56",
           "01:08"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10274",
-      "direction_id": "0",
+      "route_id": "1",
+      "stop_id": "37",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:34",
+          "05:38",
           "00:43"
         ],
         "saturday": [
-          "05:34",
+          "05:38",
           "01:13"
         ],
         "sunday": [
-          "05:34",
+          "05:38",
           "00:43"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10274",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:03",
-          "01:07"
-        ],
-        "saturday": [
-          "06:03",
-          "01:37"
-        ],
-        "sunday": [
-          "06:03",
-          "01:07"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10270",
+      "route_id": "1",
+      "stop_id": "36",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:37",
-          "00:46"
+          "05:55",
+          "01:06"
         ],
         "saturday": [
-          "05:37",
-          "01:16"
+          "05:55",
+          "01:36"
         ],
         "sunday": [
-          "05:37",
-          "00:46"
+          "05:55",
+          "01:06"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "36",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:40",
+          "00:45"
+        ],
+        "saturday": [
+          "05:40",
+          "01:15"
+        ],
+        "sunday": [
+          "05:40",
+          "00:45"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10270",
+      "stop_id": "36",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:52",
+          "01:06"
+        ],
+        "saturday": [
+          "05:52",
+          "01:36"
+        ],
+        "sunday": [
+          "05:52",
+          "01:06"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "36",
       "direction_id": "1",
       "times": {
         "week": [
-          "06:00",
+          "05:45",
+          "00:45"
+        ],
+        "saturday": [
+          "05:45",
+          "01:15"
+        ],
+        "sunday": [
+          "05:45",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "35",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:53",
           "01:04"
         ],
         "saturday": [
-          "06:00",
+          "05:53",
           "01:34"
         ],
         "sunday": [
-          "06:00",
+          "05:53",
           "01:04"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10268",
-      "direction_id": "0",
+      "route_id": "1",
+      "stop_id": "35",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:38",
+          "05:42",
           "00:47"
         ],
         "saturday": [
-          "05:38",
+          "05:42",
           "01:17"
         ],
         "sunday": [
-          "05:38",
+          "05:42",
           "00:47"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10268",
-      "direction_id": "1",
+      "route_id": "1",
+      "stop_id": "34",
+      "direction_id": "0",
       "times": {
         "week": [
-          "05:59",
+          "05:51",
           "01:03"
         ],
         "saturday": [
-          "05:59",
+          "05:51",
           "01:33"
         ],
         "sunday": [
-          "05:59",
+          "05:51",
           "01:03"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10266",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:40",
-          "00:49"
-        ],
-        "saturday": [
-          "05:40",
-          "01:19"
-        ],
-        "sunday": [
-          "05:40",
-          "00:49"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10266",
+      "route_id": "1",
+      "stop_id": "34",
       "direction_id": "1",
       "times": {
         "week": [
-          "05:58",
-          "01:01"
+          "05:43",
+          "00:48"
         ],
         "saturday": [
-          "05:58",
-          "01:31"
+          "05:43",
+          "01:18"
         ],
         "sunday": [
-          "05:58",
-          "01:01"
+          "05:43",
+          "00:48"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10264",
+      "route_id": "1",
+      "stop_id": "33",
       "direction_id": "0",
-      "times": {
-        "week": [
-          "05:41",
-          "00:50"
-        ],
-        "saturday": [
-          "05:41",
-          "01:20"
-        ],
-        "sunday": [
-          "05:41",
-          "00:50"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10264",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:56",
-          "01:00"
-        ],
-        "saturday": [
-          "05:56",
-          "01:30"
-        ],
-        "sunday": [
-          "05:56",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10262",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:42",
-          "00:51"
-        ],
-        "saturday": [
-          "05:42",
-          "01:21"
-        ],
-        "sunday": [
-          "05:42",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10262",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:55",
-          "00:59"
-        ],
-        "saturday": [
-          "05:55",
-          "01:29"
-        ],
-        "sunday": [
-          "05:55",
-          "00:59"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10258",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:45",
-          "00:59"
-        ],
-        "saturday": [
-          "05:45",
-          "01:29"
-        ],
-        "sunday": [
-          "05:45",
-          "00:59"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10258",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:52",
-          "00:52"
-        ],
-        "saturday": [
-          "05:52",
-          "01:22"
-        ],
-        "sunday": [
-          "05:52",
-          "00:52"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10256",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:46",
-          "01:00"
-        ],
-        "saturday": [
-          "05:46",
-          "01:30"
-        ],
-        "sunday": [
-          "05:46",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10256",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:51",
-          "00:51"
-        ],
-        "saturday": [
-          "05:51",
-          "01:21"
-        ],
-        "sunday": [
-          "05:51",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10254",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:48",
-          "01:01"
-        ],
-        "saturday": [
-          "05:48",
-          "01:31"
-        ],
-        "sunday": [
-          "05:48",
-          "01:01"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10254",
-      "direction_id": "1",
       "times": {
         "week": [
           "05:50",
-          "00:50"
-        ],
-        "saturday": [
-          "05:50",
-          "01:20"
-        ],
-        "sunday": [
-          "05:50",
-          "00:50"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10252",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:49",
           "01:02"
         ],
         "saturday": [
-          "05:49",
+          "05:50",
           "01:32"
         ],
         "sunday": [
-          "05:49",
+          "05:50",
           "01:02"
         ]
       }
     },
     {
+      "route_id": "1",
+      "stop_id": "33",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:45",
+          "00:50"
+        ],
+        "saturday": [
+          "05:45",
+          "01:20"
+        ],
+        "sunday": [
+          "05:45",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "32",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:49",
+          "01:01"
+        ],
+        "saturday": [
+          "05:49",
+          "01:31"
+        ],
+        "sunday": [
+          "05:49",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "32",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:46",
+          "00:51"
+        ],
+        "saturday": [
+          "05:46",
+          "01:21"
+        ],
+        "sunday": [
+          "05:46",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "31",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:48",
+          "01:00"
+        ],
+        "saturday": [
+          "05:48",
+          "01:29"
+        ],
+        "sunday": [
+          "05:48",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "31",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:47",
+          "00:52"
+        ],
+        "saturday": [
+          "05:47",
+          "01:22"
+        ],
+        "sunday": [
+          "05:47",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "30",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:47",
+          "00:58"
+        ],
+        "saturday": [
+          "05:47",
+          "01:28"
+        ],
+        "sunday": [
+          "05:47",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "30",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:48",
+          "00:53"
+        ],
+        "saturday": [
+          "05:48",
+          "01:23"
+        ],
+        "sunday": [
+          "05:48",
+          "00:53"
+        ]
+      }
+    },
+    {
+      "route_id": "4",
+      "stop_id": "9999114",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:30",
+          "01:00"
+        ],
+        "saturday": [
+          "05:30",
+          "01:30"
+        ],
+        "sunday": [
+          "05:30",
+          "01:00"
+        ]
+      }
+    },
+    {
       "route_id": "2",
-      "stop_id": "10252",
+      "stop_id": "9999112",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:44",
+          "00:57"
+        ],
+        "saturday": [
+          "05:44",
+          "01:27"
+        ],
+        "sunday": [
+          "05:44",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999112",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:53",
+          "00:57"
+        ],
+        "saturday": [
+          "05:53",
+          "01:27"
+        ],
+        "sunday": [
+          "05:53",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "9999111",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:45",
+          "00:57"
+        ],
+        "saturday": [
+          "05:45",
+          "01:27"
+        ],
+        "sunday": [
+          "05:45",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "9999111",
       "direction_id": "1",
       "times": {
         "week": [
           "05:49",
-          "00:49"
+          "00:57"
         ],
         "saturday": [
           "05:49",
+          "01:27"
+        ],
+        "sunday": [
+          "05:49",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "29",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:44",
+          "00:52"
+        ],
+        "saturday": [
+          "05:44",
+          "01:22"
+        ],
+        "sunday": [
+          "05:44",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "29",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:50",
+          "00:58"
+        ],
+        "saturday": [
+          "05:50",
+          "01:28"
+        ],
+        "sunday": [
+          "05:50",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "28",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:43",
+          "00:51"
+        ],
+        "saturday": [
+          "05:43",
+          "01:21"
+        ],
+        "sunday": [
+          "05:43",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "28",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:51",
+          "01:00"
+        ],
+        "saturday": [
+          "05:51",
+          "01:30"
+        ],
+        "sunday": [
+          "05:51",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "27",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:41",
+          "00:49"
+        ],
+        "saturday": [
+          "05:41",
           "01:19"
         ],
         "sunday": [
-          "05:49",
+          "05:41",
           "00:49"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10250",
+      "route_id": "1",
+      "stop_id": "27",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:53",
+          "01:01"
+        ],
+        "saturday": [
+          "05:53",
+          "01:31"
+        ],
+        "sunday": [
+          "05:53",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "26",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:50",
+          "05:40",
+          "00:48"
+        ],
+        "saturday": [
+          "05:40",
+          "01:18"
+        ],
+        "sunday": [
+          "05:40",
+          "00:48"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "26",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:54",
           "01:03"
         ],
         "saturday": [
-          "05:50",
+          "05:54",
           "01:33"
         ],
         "sunday": [
-          "05:50",
+          "05:54",
           "01:03"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10250",
-      "direction_id": "1",
+      "route_id": "1",
+      "stop_id": "25",
+      "direction_id": "0",
       "times": {
         "week": [
-          "05:47",
+          "05:39",
           "00:47"
         ],
         "saturday": [
-          "05:47",
+          "05:39",
           "01:17"
         ],
         "sunday": [
-          "05:47",
+          "05:39",
           "00:47"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10248",
-      "direction_id": "0",
+      "route_id": "1",
+      "stop_id": "25",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:51",
+          "05:56",
           "01:04"
         ],
         "saturday": [
-          "05:51",
+          "05:56",
           "01:34"
         ],
         "sunday": [
-          "05:51",
+          "05:56",
           "01:04"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10248",
-      "direction_id": "1",
+      "route_id": "1",
+      "stop_id": "24",
+      "direction_id": "0",
       "times": {
         "week": [
-          "05:46",
-          "00:46"
+          "05:37",
+          "00:45"
         ],
         "saturday": [
-          "05:46",
-          "01:16"
+          "05:37",
+          "01:15"
         ],
         "sunday": [
-          "05:46",
-          "00:46"
+          "05:37",
+          "00:45"
         ]
       }
     },
     {
       "route_id": "1",
-      "stop_id": "10170",
+      "stop_id": "24",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:57",
+          "01:05"
+        ],
+        "saturday": [
+          "05:57",
+          "01:35"
+        ],
+        "sunday": [
+          "05:57",
+          "01:05"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "23",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:30",
-          "00:38"
+          "05:36",
+          "00:44"
         ],
         "saturday": [
-          "05:30",
+          "05:36",
+          "01:14"
+        ],
+        "sunday": [
+          "05:36",
+          "00:44"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "23",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:58",
+          "01:07"
+        ],
+        "saturday": [
+          "05:58",
+          "01:37"
+        ],
+        "sunday": [
+          "05:58",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "22",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:34",
+          "00:42"
+        ],
+        "saturday": [
+          "05:34",
+          "01:12"
+        ],
+        "sunday": [
+          "05:34",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "22",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:00",
           "01:08"
         ],
-        "sunday": [
-          "05:30",
-          "00:38"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10168",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:31",
-          "00:39"
-        ],
         "saturday": [
-          "05:31",
-          "01:09"
+          "06:00",
+          "01:38"
         ],
         "sunday": [
-          "05:31",
-          "00:39"
+          "06:00",
+          "01:08"
         ]
       }
     },
     {
       "route_id": "1",
-      "stop_id": "10168",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:04",
-          "01:12"
-        ],
-        "saturday": [
-          "06:04",
-          "01:42"
-        ],
-        "sunday": [
-          "06:04",
-          "01:12"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10166",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:32",
-          "00:40"
-        ],
-        "saturday": [
-          "05:32",
-          "01:10"
-        ],
-        "sunday": [
-          "05:32",
-          "00:40"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10166",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:02",
-          "01:11"
-        ],
-        "saturday": [
-          "06:02",
-          "01:41"
-        ],
-        "sunday": [
-          "06:02",
-          "01:11"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10164",
+      "stop_id": "21",
       "direction_id": "0",
       "times": {
         "week": [
@@ -1818,7 +2006,7 @@
     },
     {
       "route_id": "1",
-      "stop_id": "10164",
+      "stop_id": "21",
       "direction_id": "1",
       "times": {
         "week": [
@@ -1837,1185 +2025,121 @@
     },
     {
       "route_id": "1",
-      "stop_id": "10162",
+      "stop_id": "20",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:34",
-          "00:42"
-        ],
-        "saturday": [
-          "05:34",
-          "01:12"
-        ],
-        "sunday": [
-          "05:34",
-          "00:42"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10162",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:00",
-          "01:08"
-        ],
-        "saturday": [
-          "06:00",
-          "01:38"
-        ],
-        "sunday": [
-          "06:00",
-          "01:08"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10160",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:36",
-          "00:44"
-        ],
-        "saturday": [
-          "05:36",
-          "01:14"
-        ],
-        "sunday": [
-          "05:36",
-          "00:44"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10160",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:58",
-          "01:07"
-        ],
-        "saturday": [
-          "05:58",
-          "01:37"
-        ],
-        "sunday": [
-          "05:58",
-          "01:07"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10158",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:37",
-          "00:45"
-        ],
-        "saturday": [
-          "05:37",
-          "01:15"
-        ],
-        "sunday": [
-          "05:37",
-          "00:45"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10158",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:57",
-          "01:05"
-        ],
-        "saturday": [
-          "05:57",
-          "01:35"
-        ],
-        "sunday": [
-          "05:57",
-          "01:05"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10156",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:39",
-          "00:47"
-        ],
-        "saturday": [
-          "05:39",
-          "01:17"
-        ],
-        "sunday": [
-          "05:39",
-          "00:47"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10156",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:56",
-          "01:04"
-        ],
-        "saturday": [
-          "05:56",
-          "01:34"
-        ],
-        "sunday": [
-          "05:56",
-          "01:04"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10154",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:40",
-          "00:48"
-        ],
-        "saturday": [
-          "05:40",
-          "01:18"
-        ],
-        "sunday": [
-          "05:40",
-          "00:48"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10154",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:54",
-          "01:03"
-        ],
-        "saturday": [
-          "05:54",
-          "01:33"
-        ],
-        "sunday": [
-          "05:54",
-          "01:03"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10152",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:41",
-          "00:49"
-        ],
-        "saturday": [
-          "05:41",
-          "01:19"
-        ],
-        "sunday": [
-          "05:41",
-          "00:49"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10152",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:53",
-          "01:01"
-        ],
-        "saturday": [
-          "05:53",
-          "01:31"
-        ],
-        "sunday": [
-          "05:53",
-          "01:01"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10150",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:43",
-          "00:51"
-        ],
-        "saturday": [
-          "05:43",
-          "01:21"
-        ],
-        "sunday": [
-          "05:43",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10150",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:51",
-          "01:00"
-        ],
-        "saturday": [
-          "05:51",
-          "01:30"
-        ],
-        "sunday": [
-          "05:51",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10148",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:44",
-          "00:52"
-        ],
-        "saturday": [
-          "05:44",
-          "01:22"
-        ],
-        "sunday": [
-          "05:44",
-          "00:52"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10148",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:50",
-          "00:58"
-        ],
-        "saturday": [
-          "05:50",
-          "01:28"
-        ],
-        "sunday": [
-          "05:50",
-          "00:58"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10144",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:47",
-          "00:58"
-        ],
-        "saturday": [
-          "05:47",
-          "01:28"
-        ],
-        "sunday": [
-          "05:47",
-          "00:58"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10144",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:48",
-          "00:53"
-        ],
-        "saturday": [
-          "05:48",
-          "01:23"
-        ],
-        "sunday": [
-          "05:48",
-          "00:53"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10142",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:48",
-          "01:00"
-        ],
-        "saturday": [
-          "05:48",
-          "01:29"
-        ],
-        "sunday": [
-          "05:48",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10142",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:47",
-          "00:52"
-        ],
-        "saturday": [
-          "05:47",
-          "01:22"
-        ],
-        "sunday": [
-          "05:47",
-          "00:52"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10140",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:49",
-          "01:01"
-        ],
-        "saturday": [
-          "05:49",
-          "01:31"
-        ],
-        "sunday": [
-          "05:49",
-          "01:01"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10140",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:46",
-          "00:51"
-        ],
-        "saturday": [
-          "05:46",
-          "01:21"
-        ],
-        "sunday": [
-          "05:46",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10138",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:50",
-          "01:02"
-        ],
-        "saturday": [
-          "05:50",
-          "01:32"
-        ],
-        "sunday": [
-          "05:50",
-          "01:02"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10138",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:45",
-          "00:50"
-        ],
-        "saturday": [
-          "05:45",
-          "01:20"
-        ],
-        "sunday": [
-          "05:45",
-          "00:50"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10136",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:51",
-          "01:03"
-        ],
-        "saturday": [
-          "05:51",
-          "01:33"
-        ],
-        "sunday": [
-          "05:51",
-          "01:03"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10136",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:43",
-          "00:48"
-        ],
-        "saturday": [
-          "05:43",
-          "01:18"
-        ],
-        "sunday": [
-          "05:43",
-          "00:48"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10134",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:53",
-          "01:04"
-        ],
-        "saturday": [
-          "05:53",
-          "01:34"
-        ],
-        "sunday": [
-          "05:53",
-          "01:04"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10134",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:42",
-          "00:47"
-        ],
-        "saturday": [
-          "05:42",
-          "01:17"
-        ],
-        "sunday": [
-          "05:42",
-          "00:47"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10132",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:55",
-          "01:06"
-        ],
-        "saturday": [
-          "05:55",
-          "01:36"
-        ],
-        "sunday": [
-          "05:55",
-          "01:06"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10132",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:40",
-          "00:45"
-        ],
-        "saturday": [
-          "05:40",
-          "01:15"
-        ],
-        "sunday": [
-          "05:40",
-          "00:45"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10132",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:52",
-          "01:06"
-        ],
-        "saturday": [
-          "05:52",
-          "01:36"
-        ],
-        "sunday": [
-          "05:52",
-          "01:06"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10132",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:45",
-          "00:45"
-        ],
-        "saturday": [
-          "05:45",
-          "01:15"
-        ],
-        "sunday": [
-          "05:45",
-          "00:45"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10130",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:56",
-          "01:08"
-        ],
-        "saturday": [
-          "05:56",
-          "01:38"
-        ],
-        "sunday": [
-          "05:56",
-          "01:08"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10130",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:38",
-          "00:43"
-        ],
-        "saturday": [
-          "05:38",
-          "01:13"
-        ],
-        "sunday": [
-          "05:38",
-          "00:43"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10128",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:58",
-          "01:09"
-        ],
-        "saturday": [
-          "05:58",
-          "01:39"
-        ],
-        "sunday": [
-          "05:58",
-          "01:09"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10128",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:37",
-          "00:42"
-        ],
-        "saturday": [
-          "05:37",
-          "01:12"
-        ],
-        "sunday": [
-          "05:37",
-          "00:42"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10126",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:59",
-          "01:11"
-        ],
-        "saturday": [
-          "05:59",
-          "01:41"
-        ],
-        "sunday": [
-          "05:59",
-          "01:11"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10126",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:35",
+          "05:32",
           "00:40"
         ],
         "saturday": [
-          "05:35",
+          "05:32",
           "01:10"
         ],
         "sunday": [
-          "05:35",
+          "05:32",
           "00:40"
         ]
       }
     },
     {
       "route_id": "1",
-      "stop_id": "10124",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "06:00",
-          "01:12"
-        ],
-        "saturday": [
-          "06:00",
-          "01:42"
-        ],
-        "sunday": [
-          "06:00",
-          "01:12"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10124",
+      "stop_id": "20",
       "direction_id": "1",
-      "times": {
-        "week": [
-          "05:34",
-          "00:39"
-        ],
-        "saturday": [
-          "05:34",
-          "01:09"
-        ],
-        "sunday": [
-          "05:34",
-          "00:39"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10122",
-      "direction_id": "0",
       "times": {
         "week": [
           "06:02",
-          "01:14"
-        ],
-        "saturday": [
-          "06:02",
-          "01:44"
-        ],
-        "sunday": [
-          "06:02",
-          "01:14"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10122",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:32",
-          "00:37"
-        ],
-        "saturday": [
-          "05:32",
-          "01:07"
-        ],
-        "sunday": [
-          "05:32",
-          "00:37"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10120",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "06:03",
-          "01:15"
-        ],
-        "saturday": [
-          "06:03",
-          "01:45"
-        ],
-        "sunday": [
-          "06:03",
-          "01:15"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10120",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:31",
-          "00:36"
-        ],
-        "saturday": [
-          "05:31",
-          "01:06"
-        ],
-        "sunday": [
-          "05:31",
-          "00:36"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10118",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:30",
-          "00:35"
-        ],
-        "saturday": [
-          "05:30",
-          "01:05"
-        ],
-        "sunday": [
-          "05:30",
-          "00:35"
-        ]
-      }
-    },
-    {
-      "route_id": "4",
-      "stop_id": "10454",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:30",
-          "01:00"
-        ],
-        "saturday": [
-          "05:30",
-          "01:30"
-        ],
-        "sunday": [
-          "05:30",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "4",
-      "stop_id": "10452",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:32",
-          "01:02"
-        ],
-        "saturday": [
-          "05:32",
-          "01:32"
-        ],
-        "sunday": [
-          "05:32",
-          "01:02"
-        ]
-      }
-    },
-    {
-      "route_id": "4",
-      "stop_id": "10452",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:32",
-          "01:02"
-        ],
-        "saturday": [
-          "05:32",
-          "01:32"
-        ],
-        "sunday": [
-          "05:32",
-          "01:02"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10244",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:53",
-          "01:07"
-        ],
-        "saturday": [
-          "05:53",
-          "01:37"
-        ],
-        "sunday": [
-          "05:53",
-          "01:07"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10244",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:43",
-          "00:43"
-        ],
-        "saturday": [
-          "05:43",
-          "01:13"
-        ],
-        "sunday": [
-          "05:43",
-          "00:43"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10242",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:55",
-          "01:09"
-        ],
-        "saturday": [
-          "05:55",
-          "01:39"
-        ],
-        "sunday": [
-          "05:55",
-          "01:09"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10242",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:41",
-          "00:41"
-        ],
-        "saturday": [
-          "05:41",
-          "01:11"
-        ],
-        "sunday": [
-          "05:41",
-          "00:41"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10238",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:58",
           "01:11"
         ],
         "saturday": [
-          "05:58",
+          "06:02",
           "01:41"
         ],
         "sunday": [
-          "05:58",
+          "06:02",
           "01:11"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10238",
-      "direction_id": "1",
+      "route_id": "1",
+      "stop_id": "19",
+      "direction_id": "0",
       "times": {
         "week": [
-          "05:39",
+          "05:31",
           "00:39"
         ],
         "saturday": [
-          "05:39",
+          "05:31",
           "01:09"
         ],
         "sunday": [
-          "05:39",
+          "05:31",
           "00:39"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10234",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "06:00",
-          "01:14"
-        ],
-        "saturday": [
-          "06:00",
-          "01:44"
-        ],
-        "sunday": [
-          "06:00",
-          "01:14"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10234",
+      "route_id": "1",
+      "stop_id": "19",
       "direction_id": "1",
       "times": {
         "week": [
-          "05:37",
-          "00:37"
+          "06:04",
+          "01:12"
         ],
         "saturday": [
-          "05:37",
-          "01:07"
+          "06:04",
+          "01:42"
         ],
         "sunday": [
-          "05:37",
-          "00:37"
+          "06:04",
+          "01:12"
         ]
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "10232",
+      "route_id": "1",
+      "stop_id": "18",
       "direction_id": "0",
       "times": {
         "week": [
-          "06:01",
-          "01:15"
+          "05:30",
+          "00:38"
         ],
         "saturday": [
-          "06:01",
-          "01:45"
+          "05:30",
+          "01:08"
         ],
         "sunday": [
-          "06:01",
-          "01:15"
+          "05:30",
+          "00:38"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10232",
+      "stop_id": "65",
       "direction_id": "1",
       "times": {
         "week": [
-          "05:35",
-          "00:35"
+          "05:30",
+          "00:30"
         ],
         "saturday": [
-          "05:35",
-          "01:05"
+          "05:30",
+          "01:00"
         ],
         "sunday": [
-          "05:35",
-          "00:35"
+          "05:30",
+          "00:30"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10230",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "06:03",
-          "01:17"
-        ],
-        "saturday": [
-          "06:03",
-          "01:47"
-        ],
-        "sunday": [
-          "06:03",
-          "01:17"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10230",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:34",
-          "00:34"
-        ],
-        "saturday": [
-          "05:34",
-          "01:04"
-        ],
-        "sunday": [
-          "05:34",
-          "00:34"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10228",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "06:05",
-          "01:18"
-        ],
-        "saturday": [
-          "06:05",
-          "01:48"
-        ],
-        "sunday": [
-          "06:05",
-          "01:18"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10228",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:32",
-          "00:32"
-        ],
-        "saturday": [
-          "05:32",
-          "01:02"
-        ],
-        "sunday": [
-          "05:32",
-          "00:32"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10224",
+      "stop_id": "54",
       "direction_id": "0",
       "times": {
         "week": [
@@ -3034,7 +2158,7 @@
     },
     {
       "route_id": "2",
-      "stop_id": "10224",
+      "stop_id": "54",
       "direction_id": "1",
       "times": {
         "week": [
@@ -3052,654 +2176,179 @@
       }
     },
     {
-      "route_id": "5",
-      "stop_id": "10534",
+      "route_id": "2",
+      "stop_id": "53",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:43",
-          "00:58"
+          "06:05",
+          "01:18"
         ],
         "saturday": [
-          "05:43",
-          "01:28"
+          "06:05",
+          "01:48"
         ],
         "sunday": [
-          "05:43",
-          "00:58"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10534",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:31",
-          "00:46"
-        ],
-        "saturday": [
-          "05:31",
-          "01:16"
-        ],
-        "sunday": [
-          "05:31",
-          "00:46"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10536",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:42",
-          "00:57"
-        ],
-        "saturday": [
-          "05:42",
-          "01:27"
-        ],
-        "sunday": [
-          "05:42",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10536",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:32",
-          "00:47"
-        ],
-        "saturday": [
-          "05:32",
-          "01:17"
-        ],
-        "sunday": [
-          "05:32",
-          "00:47"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10538",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:40",
-          "00:55"
-        ],
-        "saturday": [
-          "05:40",
-          "01:25"
-        ],
-        "sunday": [
-          "05:40",
-          "00:55"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10538",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:34",
-          "00:49"
-        ],
-        "saturday": [
-          "05:34",
-          "01:19"
-        ],
-        "sunday": [
-          "05:34",
-          "00:49"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10540",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:39",
-          "00:54"
-        ],
-        "saturday": [
-          "05:39",
-          "01:24"
-        ],
-        "sunday": [
-          "05:39",
-          "00:54"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10540",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:35",
-          "00:50"
-        ],
-        "saturday": [
-          "05:35",
-          "01:20"
-        ],
-        "sunday": [
-          "05:35",
-          "00:50"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10542",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:37",
-          "00:52"
-        ],
-        "saturday": [
-          "05:37",
-          "01:22"
-        ],
-        "sunday": [
-          "05:37",
-          "00:52"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10542",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:36",
-          "00:51"
-        ],
-        "saturday": [
-          "05:36",
-          "01:21"
-        ],
-        "sunday": [
-          "05:36",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10544",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:36",
-          "00:51"
-        ],
-        "saturday": [
-          "05:36",
-          "01:21"
-        ],
-        "sunday": [
-          "05:36",
-          "00:51"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10544",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:38",
-          "00:53"
-        ],
-        "saturday": [
-          "05:38",
-          "01:23"
-        ],
-        "sunday": [
-          "05:38",
-          "00:53"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10546",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:35",
-          "00:50"
-        ],
-        "saturday": [
-          "05:35",
-          "01:20"
-        ],
-        "sunday": [
-          "05:35",
-          "00:50"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10546",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:39",
-          "00:54"
-        ],
-        "saturday": [
-          "05:39",
-          "01:24"
-        ],
-        "sunday": [
-          "05:39",
-          "00:54"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10552",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:32",
-          "00:47"
-        ],
-        "saturday": [
-          "05:32",
-          "01:17"
-        ],
-        "sunday": [
-          "05:32",
-          "00:47"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10552",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:42",
-          "00:57"
-        ],
-        "saturday": [
-          "05:42",
-          "01:27"
-        ],
-        "sunday": [
-          "05:42",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10554",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:31",
-          "00:46"
-        ],
-        "saturday": [
-          "05:31",
-          "01:16"
-        ],
-        "sunday": [
-          "05:31",
-          "00:46"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10554",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:43",
-          "00:58"
-        ],
-        "saturday": [
-          "05:43",
-          "01:28"
-        ],
-        "sunday": [
-          "05:43",
-          "00:58"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10556",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:30",
-          "00:45"
-        ],
-        "saturday": [
-          "05:30",
-          "01:15"
-        ],
-        "sunday": [
-          "05:30",
-          "00:45"
+          "06:05",
+          "01:18"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10222",
+      "stop_id": "53",
       "direction_id": "1",
       "times": {
         "week": [
-          "05:30",
-          "00:30"
+          "05:32",
+          "00:32"
         ],
         "saturday": [
-          "05:30",
-          "01:00"
+          "05:32",
+          "01:02"
         ],
         "sunday": [
-          "05:30",
-          "00:30"
+          "05:32",
+          "00:32"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10282",
+      "stop_id": "52",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:27",
-          "00:36"
-        ],
-        "saturday": [
-          "05:27",
-          "01:06"
-        ],
-        "sunday": [
-          "05:27",
-          "00:36"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10282",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:10",
-          "01:14"
-        ],
-        "saturday": [
-          "06:10",
-          "01:44"
-        ],
-        "sunday": [
-          "06:10",
-          "01:14"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10286",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:25",
-          "00:34"
-        ],
-        "saturday": [
-          "05:25",
-          "01:04"
-        ],
-        "sunday": [
-          "05:25",
-          "00:34"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10286",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:13",
+          "06:03",
           "01:17"
         ],
         "saturday": [
-          "06:13",
+          "06:03",
           "01:47"
         ],
         "sunday": [
-          "06:13",
+          "06:03",
           "01:17"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10288",
-      "direction_id": "0",
+      "stop_id": "52",
+      "direction_id": "1",
       "times": {
         "week": [
-          "05:24",
-          "00:33"
+          "05:34",
+          "00:34"
         ],
         "saturday": [
-          "05:24",
-          "01:03"
+          "05:34",
+          "01:04"
         ],
         "sunday": [
-          "05:24",
-          "00:33"
+          "05:34",
+          "00:34"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10272",
+      "stop_id": "51",
       "direction_id": "0",
       "times": {
         "week": [
-          "05:36",
+          "06:01",
+          "01:15"
+        ],
+        "saturday": [
+          "06:01",
+          "01:45"
+        ],
+        "sunday": [
+          "06:01",
+          "01:15"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "51",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:35",
+          "00:35"
+        ],
+        "saturday": [
+          "05:35",
+          "01:05"
+        ],
+        "sunday": [
+          "05:35",
+          "00:35"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "50",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "06:00",
+          "01:14"
+        ],
+        "saturday": [
+          "06:00",
+          "01:44"
+        ],
+        "sunday": [
+          "06:00",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "50",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:37",
+          "00:37"
+        ],
+        "saturday": [
+          "05:37",
+          "01:07"
+        ],
+        "sunday": [
+          "05:37",
+          "00:37"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "9999495",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:30",
           "00:45"
         ],
         "saturday": [
-          "05:36",
+          "05:30",
           "01:15"
         ],
         "sunday": [
-          "05:36",
+          "05:30",
           "00:45"
         ]
       }
     },
     {
       "route_id": "2",
-      "stop_id": "10272",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:02",
-          "01:05"
-        ],
-        "saturday": [
-          "06:02",
-          "01:35"
-        ],
-        "sunday": [
-          "06:02",
-          "01:05"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10272",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:33",
-          "00:48"
-        ],
-        "saturday": [
-          "05:33",
-          "01:18"
-        ],
-        "sunday": [
-          "05:33",
-          "00:48"
-        ]
-      }
-    },
-    {
-      "route_id": "5",
-      "stop_id": "10272",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:40",
-          "00:55"
-        ],
-        "saturday": [
-          "05:40",
-          "01:25"
-        ],
-        "sunday": [
-          "05:40",
-          "00:55"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10146",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:45",
-          "00:57"
-        ],
-        "saturday": [
-          "05:45",
-          "01:27"
-        ],
-        "sunday": [
-          "05:45",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "10146",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:49",
-          "00:57"
-        ],
-        "saturday": [
-          "05:49",
-          "01:27"
-        ],
-        "sunday": [
-          "05:49",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10146",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:44",
-          "00:57"
-        ],
-        "saturday": [
-          "05:44",
-          "01:27"
-        ],
-        "sunday": [
-          "05:44",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10146",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:53",
-          "00:57"
-        ],
-        "saturday": [
-          "05:53",
-          "01:27"
-        ],
-        "sunday": [
-          "05:53",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "4",
-      "stop_id": "10146",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:30",
-          "01:00"
-        ],
-        "saturday": [
-          "05:30",
-          "01:30"
-        ],
-        "sunday": [
-          "05:30",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "10236",
+      "stop_id": "9999492",
       "direction_id": "0",
       "times": {
         "week": [
@@ -3718,7 +2367,7 @@
     },
     {
       "route_id": "2",
-      "stop_id": "10236",
+      "stop_id": "9999492",
       "direction_id": "1",
       "times": {
         "week": [
@@ -3736,9 +2385,1263 @@
       }
     },
     {
-      "route_id": "5",
-      "stop_id": "10236",
+      "route_id": "2",
+      "stop_id": "48",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:58",
+          "01:11"
+        ],
+        "saturday": [
+          "05:58",
+          "01:41"
+        ],
+        "sunday": [
+          "05:58",
+          "01:11"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "48",
       "direction_id": "1",
+      "times": {
+        "week": [
+          "05:39",
+          "00:39"
+        ],
+        "saturday": [
+          "05:39",
+          "01:09"
+        ],
+        "sunday": [
+          "05:39",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "47",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:55",
+          "01:09"
+        ],
+        "saturday": [
+          "05:55",
+          "01:39"
+        ],
+        "sunday": [
+          "05:55",
+          "01:09"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "47",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:41",
+          "00:41"
+        ],
+        "saturday": [
+          "05:41",
+          "01:11"
+        ],
+        "sunday": [
+          "05:41",
+          "00:41"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "46",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:53",
+          "01:07"
+        ],
+        "saturday": [
+          "05:53",
+          "01:37"
+        ],
+        "sunday": [
+          "05:53",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "46",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:43",
+          "00:43"
+        ],
+        "saturday": [
+          "05:43",
+          "01:13"
+        ],
+        "sunday": [
+          "05:43",
+          "00:43"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "17",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:51",
+          "01:04"
+        ],
+        "saturday": [
+          "05:51",
+          "01:34"
+        ],
+        "sunday": [
+          "05:51",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "17",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:46",
+          "00:46"
+        ],
+        "saturday": [
+          "05:46",
+          "01:16"
+        ],
+        "sunday": [
+          "05:46",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "16",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:50",
+          "01:03"
+        ],
+        "saturday": [
+          "05:50",
+          "01:33"
+        ],
+        "sunday": [
+          "05:50",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "16",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:47",
+          "00:47"
+        ],
+        "saturday": [
+          "05:47",
+          "01:17"
+        ],
+        "sunday": [
+          "05:47",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "15",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:49",
+          "01:02"
+        ],
+        "saturday": [
+          "05:49",
+          "01:32"
+        ],
+        "sunday": [
+          "05:49",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "15",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:49",
+          "00:49"
+        ],
+        "saturday": [
+          "05:49",
+          "01:19"
+        ],
+        "sunday": [
+          "05:49",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "14",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:48",
+          "01:01"
+        ],
+        "saturday": [
+          "05:48",
+          "01:31"
+        ],
+        "sunday": [
+          "05:48",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "14",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:50",
+          "00:50"
+        ],
+        "saturday": [
+          "05:50",
+          "01:20"
+        ],
+        "sunday": [
+          "05:50",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "13",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:46",
+          "01:00"
+        ],
+        "saturday": [
+          "05:46",
+          "01:30"
+        ],
+        "sunday": [
+          "05:46",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "13",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:51",
+          "00:51"
+        ],
+        "saturday": [
+          "05:51",
+          "01:21"
+        ],
+        "sunday": [
+          "05:51",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "12",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:45",
+          "00:59"
+        ],
+        "saturday": [
+          "05:45",
+          "01:29"
+        ],
+        "sunday": [
+          "05:45",
+          "00:59"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "12",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:52",
+          "00:52"
+        ],
+        "saturday": [
+          "05:52",
+          "01:22"
+        ],
+        "sunday": [
+          "05:52",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "10",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:42",
+          "00:51"
+        ],
+        "saturday": [
+          "05:42",
+          "01:21"
+        ],
+        "sunday": [
+          "05:42",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "10",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:55",
+          "00:59"
+        ],
+        "saturday": [
+          "05:55",
+          "01:29"
+        ],
+        "sunday": [
+          "05:55",
+          "00:59"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:41",
+          "00:50"
+        ],
+        "saturday": [
+          "05:41",
+          "01:20"
+        ],
+        "sunday": [
+          "05:41",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:56",
+          "01:00"
+        ],
+        "saturday": [
+          "05:56",
+          "01:30"
+        ],
+        "sunday": [
+          "05:56",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "8",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:40",
+          "00:49"
+        ],
+        "saturday": [
+          "05:40",
+          "01:19"
+        ],
+        "sunday": [
+          "05:40",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "8",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:58",
+          "01:01"
+        ],
+        "saturday": [
+          "05:58",
+          "01:31"
+        ],
+        "sunday": [
+          "05:58",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "7",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:38",
+          "00:47"
+        ],
+        "saturday": [
+          "05:38",
+          "01:17"
+        ],
+        "sunday": [
+          "05:38",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "7",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:59",
+          "01:03"
+        ],
+        "saturday": [
+          "05:59",
+          "01:33"
+        ],
+        "sunday": [
+          "05:59",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "6",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:37",
+          "00:46"
+        ],
+        "saturday": [
+          "05:37",
+          "01:16"
+        ],
+        "sunday": [
+          "05:37",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "6",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:00",
+          "01:04"
+        ],
+        "saturday": [
+          "06:00",
+          "01:34"
+        ],
+        "sunday": [
+          "06:00",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999052",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:36",
+          "00:45"
+        ],
+        "saturday": [
+          "05:36",
+          "01:15"
+        ],
+        "sunday": [
+          "05:36",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999052",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:02",
+          "01:05"
+        ],
+        "saturday": [
+          "06:02",
+          "01:35"
+        ],
+        "sunday": [
+          "06:02",
+          "01:05"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "9999055",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:33",
+          "00:48"
+        ],
+        "saturday": [
+          "05:33",
+          "01:18"
+        ],
+        "sunday": [
+          "05:33",
+          "00:48"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "9999055",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:40",
+          "00:55"
+        ],
+        "saturday": [
+          "05:40",
+          "01:25"
+        ],
+        "sunday": [
+          "05:40",
+          "00:55"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "4",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:34",
+          "00:43"
+        ],
+        "saturday": [
+          "05:34",
+          "01:13"
+        ],
+        "sunday": [
+          "05:34",
+          "00:43"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "4",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:03",
+          "01:07"
+        ],
+        "saturday": [
+          "06:03",
+          "01:37"
+        ],
+        "sunday": [
+          "06:03",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "3",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:33",
+          "00:42"
+        ],
+        "saturday": [
+          "05:33",
+          "01:12"
+        ],
+        "sunday": [
+          "05:33",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "3",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:05",
+          "01:08"
+        ],
+        "saturday": [
+          "06:05",
+          "01:39"
+        ],
+        "sunday": [
+          "06:05",
+          "01:08"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "2",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:30",
+          "00:39"
+        ],
+        "saturday": [
+          "05:30",
+          "01:09"
+        ],
+        "sunday": [
+          "05:30",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "2",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:07",
+          "01:10"
+        ],
+        "saturday": [
+          "06:07",
+          "01:41"
+        ],
+        "sunday": [
+          "06:07",
+          "01:10"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "1",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:29",
+          "00:38"
+        ],
+        "saturday": [
+          "05:29",
+          "01:08"
+        ],
+        "sunday": [
+          "05:29",
+          "00:38"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "1",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:09",
+          "01:12"
+        ],
+        "saturday": [
+          "06:09",
+          "01:42"
+        ],
+        "sunday": [
+          "06:09",
+          "01:12"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "66",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:27",
+          "00:36"
+        ],
+        "saturday": [
+          "05:27",
+          "01:06"
+        ],
+        "sunday": [
+          "05:27",
+          "00:36"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "66",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:10",
+          "01:14"
+        ],
+        "saturday": [
+          "06:10",
+          "01:44"
+        ],
+        "sunday": [
+          "06:10",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "67",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:25",
+          "00:34"
+        ],
+        "saturday": [
+          "05:25",
+          "01:04"
+        ],
+        "sunday": [
+          "05:25",
+          "00:34"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "67",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:13",
+          "01:17"
+        ],
+        "saturday": [
+          "06:13",
+          "01:47"
+        ],
+        "sunday": [
+          "06:13",
+          "01:17"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "68",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:24",
+          "00:33"
+        ],
+        "saturday": [
+          "05:24",
+          "01:03"
+        ],
+        "sunday": [
+          "05:24",
+          "00:33"
+        ]
+      }
+    },
+    {
+      "route_id": "4",
+      "stop_id": "45",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:32",
+          "01:02"
+        ],
+        "saturday": [
+          "05:32",
+          "01:32"
+        ],
+        "sunday": [
+          "05:32",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "route_id": "4",
+      "stop_id": "45",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:32",
+          "01:02"
+        ],
+        "saturday": [
+          "05:32",
+          "01:32"
+        ],
+        "sunday": [
+          "05:32",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "route_id": "4",
+      "stop_id": "44",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:30",
+          "01:00"
+        ],
+        "saturday": [
+          "05:30",
+          "01:30"
+        ],
+        "sunday": [
+          "05:30",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "55",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:43",
+          "00:58"
+        ],
+        "saturday": [
+          "05:43",
+          "01:28"
+        ],
+        "sunday": [
+          "05:43",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "55",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:31",
+          "00:46"
+        ],
+        "saturday": [
+          "05:31",
+          "01:16"
+        ],
+        "sunday": [
+          "05:31",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "56",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:42",
+          "00:57"
+        ],
+        "saturday": [
+          "05:42",
+          "01:27"
+        ],
+        "sunday": [
+          "05:42",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "56",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:32",
+          "00:47"
+        ],
+        "saturday": [
+          "05:32",
+          "01:17"
+        ],
+        "sunday": [
+          "05:32",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "57",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:40",
+          "00:55"
+        ],
+        "saturday": [
+          "05:40",
+          "01:25"
+        ],
+        "sunday": [
+          "05:40",
+          "00:55"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "57",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:34",
+          "00:49"
+        ],
+        "saturday": [
+          "05:34",
+          "01:19"
+        ],
+        "sunday": [
+          "05:34",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "58",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:39",
+          "00:54"
+        ],
+        "saturday": [
+          "05:39",
+          "01:24"
+        ],
+        "sunday": [
+          "05:39",
+          "00:54"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "58",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:35",
+          "00:50"
+        ],
+        "saturday": [
+          "05:35",
+          "01:20"
+        ],
+        "sunday": [
+          "05:35",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "59",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:37",
+          "00:52"
+        ],
+        "saturday": [
+          "05:37",
+          "01:22"
+        ],
+        "sunday": [
+          "05:37",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "59",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:36",
+          "00:51"
+        ],
+        "saturday": [
+          "05:36",
+          "01:21"
+        ],
+        "sunday": [
+          "05:36",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "60",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:36",
+          "00:51"
+        ],
+        "saturday": [
+          "05:36",
+          "01:21"
+        ],
+        "sunday": [
+          "05:36",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "60",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:38",
+          "00:53"
+        ],
+        "saturday": [
+          "05:38",
+          "01:23"
+        ],
+        "sunday": [
+          "05:38",
+          "00:53"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "61",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:35",
+          "00:50"
+        ],
+        "saturday": [
+          "05:35",
+          "01:20"
+        ],
+        "sunday": [
+          "05:35",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "61",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:39",
+          "00:54"
+        ],
+        "saturday": [
+          "05:39",
+          "01:24"
+        ],
+        "sunday": [
+          "05:39",
+          "00:54"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "62",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:32",
+          "00:47"
+        ],
+        "saturday": [
+          "05:32",
+          "01:17"
+        ],
+        "sunday": [
+          "05:32",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "62",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:42",
+          "00:57"
+        ],
+        "saturday": [
+          "05:42",
+          "01:27"
+        ],
+        "sunday": [
+          "05:42",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "63",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:31",
+          "00:46"
+        ],
+        "saturday": [
+          "05:31",
+          "01:16"
+        ],
+        "sunday": [
+          "05:31",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "63",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:43",
+          "00:58"
+        ],
+        "saturday": [
+          "05:43",
+          "01:28"
+        ],
+        "sunday": [
+          "05:43",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "route_id": "5",
+      "stop_id": "64",
+      "direction_id": "0",
       "times": {
         "week": [
           "05:30",
@@ -3756,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-09-01T20:45:41Z",
+    "created": "2019-09-06T11:33:15Z",
     "origin": "downloaded"
   }
 }
