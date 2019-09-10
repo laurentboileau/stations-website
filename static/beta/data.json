@@ -19,29 +19,29 @@
       "route_id": "1",
       "route_long_name": "verte",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/verte",
-      "route_color": "00B300",
-      "route_text_color": "000000"
+      "route_color": "Green Line",
+      "route_text_color": "Line Text"
     },
     {
       "route_id": "2",
       "route_long_name": "orange",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/orange",
-      "route_color": "D95700",
-      "route_text_color": "000000"
+      "route_color": "Orange Line",
+      "route_text_color": "Line Text"
     },
     {
       "route_id": "4",
       "route_long_name": "jaune",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune",
-      "route_color": "FFD900",
-      "route_text_color": "000000"
+      "route_color": "Yellow Line",
+      "route_text_color": "Line Text"
     },
     {
       "route_id": "5",
       "route_long_name": "bleue",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/bleue",
-      "route_color": "0095E6",
-      "route_text_color": "000000"
+      "route_color": "Blue Line",
+      "route_text_color": "Line Text"
     }
   ],
   "stops": [
@@ -3659,7 +3659,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-09-06T11:33:15Z",
+    "created": "2019-09-10T01:07:56Z",
     "origin": "downloaded"
   }
 }
