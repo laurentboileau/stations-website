@@ -2,840 +2,1096 @@
   "agency": {
     "agency_id": "STM",
     "agency_name": "Société de transport de Montréal",
-    "agency_url": "http://www.stm.info",
     "agency_timezone": "America/Montreal",
+    "agency_url": "http://www.stm.info",
     "agency_fare_url": "http://www.stm.info/fr/infos/titres-et-tarifs",
     "agency_center": {
-      "latitude": 45.521519,
-      "longitude": -73.6222785
+      "latitude": 45.52152,
+      "longitude": -73.62228
     },
     "agency_span": {
-      "latitudeDelta": 0.15010600000000096,
-      "longitudeDelta": 0.2003610000000009
+      "latitudeDelta": 0.15011,
+      "longitudeDelta": 0.20036
     }
   },
   "routes": [
     {
       "route_id": "1",
-      "route_long_name": "verte",
-      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/verte",
-      "route_color": "Green Line",
-      "route_text_color": "Line Text"
+      "route_name": "verte",
+      "route_color": "systemGreen",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/verte"
     },
     {
       "route_id": "2",
-      "route_long_name": "orange",
-      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/orange",
-      "route_color": "Orange Line",
-      "route_text_color": "Line Text"
+      "route_name": "orange",
+      "route_color": "systemOrange",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/orange"
     },
     {
       "route_id": "4",
-      "route_long_name": "jaune",
-      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune",
-      "route_color": "Yellow Line",
-      "route_text_color": "Line Text"
+      "route_name": "jaune",
+      "route_color": "systemYellow",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune"
     },
     {
       "route_id": "5",
-      "route_long_name": "bleue",
-      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/bleue",
-      "route_color": "Blue Line",
-      "route_text_color": "Line Text"
+      "route_name": "bleue",
+      "route_color": "systemBlue",
+      "route_url": "http://www.stm.info/fr/infos/reseaux/metro/bleue"
     }
   ],
-  "stops": [
-    {
-      "stop_id": "43",
-      "stop_code": "10118",
-      "stop_name": "Angrignon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/angrignon",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.446466,
-        "longitude": -73.603118
-      }
-    },
-    {
-      "stop_id": "42",
-      "stop_code": "10120",
-      "stop_name": "Monk",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/monk",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.451158,
-        "longitude": -73.593242
-      }
-    },
-    {
-      "stop_id": "41",
-      "stop_code": "10122",
-      "stop_name": "Jolicoeur",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.45701,
-        "longitude": -73.581691
-      }
-    },
-    {
-      "stop_id": "40",
-      "stop_code": "10124",
-      "stop_name": "Verdun",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/verdun",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.459441,
-        "longitude": -73.572021
-      }
-    },
-    {
-      "stop_id": "39",
-      "stop_code": "10126",
-      "stop_name": "De l’Église",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.461894,
-        "longitude": -73.567074
-      }
-    },
-    {
-      "stop_id": "38",
-      "stop_code": "10128",
-      "stop_name": "LaSalle",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lasalle",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.471063,
-        "longitude": -73.566267
-      }
-    },
-    {
-      "stop_id": "37",
-      "stop_code": "10130",
-      "stop_name": "Charlevoix",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.478465,
-        "longitude": -73.569336
-      }
-    },
-    {
-      "stop_id": "36",
-      "stop_code": "10132",
-      "stop_name": "Lionel-Groulx",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.482509,
-        "longitude": -73.58018
-      }
-    },
-    {
-      "stop_id": "35",
-      "stop_code": "10134",
-      "stop_name": "Atwater",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/atwater",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.490068,
-        "longitude": -73.585812
-      }
-    },
-    {
-      "stop_id": "34",
-      "stop_code": "10136",
-      "stop_name": "Guy-Concordia",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.49557,
-        "longitude": -73.57931
-      }
-    },
-    {
-      "stop_id": "33",
-      "stop_code": "10138",
-      "stop_name": "Peel",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/peel",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.500879,
-        "longitude": -73.574715
-      }
-    },
-    {
-      "stop_id": "32",
-      "stop_code": "10140",
-      "stop_name": "McGill",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mcgill",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.504064,
-        "longitude": -73.571586
-      }
-    },
-    {
-      "stop_id": "31",
-      "stop_code": "10142",
-      "stop_name": "Place-des-Arts",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.50822,
-        "longitude": -73.568433
-      }
-    },
-    {
-      "stop_id": "30",
-      "stop_code": "10144",
-      "stop_name": "Saint-Laurent",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.511033,
-        "longitude": -73.564899
-      }
-    },
-    {
-      "stop_id": "9999114",
-      "stop_code": "10146",
-      "stop_name": "Berri-UQAM",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.515191,
-        "longitude": -73.561013
-      }
-    },
-    {
-      "stop_id": "9999112",
-      "stop_code": "10146",
-      "stop_name": "Berri-UQAM",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.515212,
-        "longitude": -73.561051
-      }
-    },
-    {
-      "stop_id": "9999111",
-      "stop_code": "10146",
-      "stop_name": "Berri-UQAM",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.515226,
-        "longitude": -73.561082
-      }
-    },
-    {
-      "stop_id": "29",
-      "stop_code": "10148",
-      "stop_name": "Beaudry",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaudry",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.518831,
-        "longitude": -73.555837
-      }
-    },
-    {
-      "stop_id": "28",
-      "stop_code": "10150",
-      "stop_name": "Papineau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/papineau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.523988,
-        "longitude": -73.552703
-      }
-    },
-    {
-      "stop_id": "27",
-      "stop_code": "10152",
-      "stop_name": "Frontenac",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/frontenac",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.533504,
-        "longitude": -73.552196
-      }
-    },
-    {
-      "stop_id": "26",
-      "stop_code": "10154",
-      "stop_name": "Préfontaine",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.541717,
-        "longitude": -73.554192
-      }
-    },
-    {
-      "stop_id": "25",
-      "stop_code": "10156",
-      "stop_name": "Joliette",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/joliette",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546832,
-        "longitude": -73.551391
-      }
-    },
-    {
-      "stop_id": "24",
-      "stop_code": "10158",
-      "stop_name": "Pie-IX",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.553688,
-        "longitude": -73.551757
-      }
-    },
-    {
-      "stop_id": "23",
-      "stop_code": "10160",
-      "stop_name": "Viau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/viau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.560687,
-        "longitude": -73.54753
-      }
-    },
-    {
-      "stop_id": "22",
-      "stop_code": "10162",
-      "stop_name": "Assomption",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/assomption",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.569285,
-        "longitude": -73.547336
-      }
-    },
-    {
-      "stop_id": "21",
-      "stop_code": "10164",
-      "stop_name": "Cadillac",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cadillac",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.576843,
-        "longitude": -73.54671
-      }
-    },
-    {
-      "stop_id": "20",
-      "stop_code": "10166",
-      "stop_name": "Langelier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/langelier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.582736,
-        "longitude": -73.543133
-      }
-    },
-    {
-      "stop_id": "19",
-      "stop_code": "10168",
-      "stop_name": "Radisson",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/radisson",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.589431,
-        "longitude": -73.539269
-      }
-    },
-    {
-      "stop_id": "18",
-      "stop_code": "10170",
-      "stop_name": "Honoré-Beaugrand",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.596572,
-        "longitude": -73.535376
-      }
-    },
-    {
-      "stop_id": "65",
-      "stop_code": "10222",
-      "stop_name": "Côte-Vertu",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.514237,
-        "longitude": -73.682757
-      }
-    },
-    {
-      "stop_id": "54",
-      "stop_code": "10224",
-      "stop_name": "Du Collège",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/du-college",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.509258,
-        "longitude": -73.674796
-      }
-    },
-    {
-      "stop_id": "53",
-      "stop_code": "10228",
-      "stop_name": "De la Savane",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.500051,
-        "longitude": -73.661538
-      }
-    },
-    {
-      "stop_id": "52",
-      "stop_code": "10230",
-      "stop_name": "Namur",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/namur",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494643,
-        "longitude": -73.652828
-      }
-    },
-    {
-      "stop_id": "51",
-      "stop_code": "10232",
-      "stop_name": "Plamondon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/plamondon",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494644,
-        "longitude": -73.63826
-      }
-    },
-    {
-      "stop_id": "50",
-      "stop_code": "10234",
-      "stop_name": "Côte-Sainte-Catherine",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.492356,
-        "longitude": -73.6331
-      }
-    },
-    {
-      "stop_id": "9999495",
-      "stop_code": "10236",
-      "stop_name": "Snowdon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.485403,
-        "longitude": -73.627757
-      }
-    },
-    {
-      "stop_id": "9999492",
-      "stop_code": "10236",
-      "stop_name": "Snowdon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.485433,
-        "longitude": -73.62773
-      }
-    },
-    {
-      "stop_id": "48",
-      "stop_code": "10238",
-      "stop_name": "Villa-Maria",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.479709,
-        "longitude": -73.619821
-      }
-    },
-    {
-      "stop_id": "47",
-      "stop_code": "10242",
-      "stop_name": "Vendôme",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/vendome",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.474101,
-        "longitude": -73.603706
-      }
-    },
-    {
-      "stop_id": "46",
-      "stop_code": "10244",
-      "stop_name": "Place-Saint-Henri",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.47732,
-        "longitude": -73.586629
-      }
-    },
-    {
-      "stop_id": "17",
-      "stop_code": "10248",
-      "stop_name": "Georges-Vanier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.488897,
-        "longitude": -73.576852
-      }
-    },
-    {
-      "stop_id": "16",
-      "stop_code": "10250",
-      "stop_name": "Lucien-L’Allier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.494745,
-        "longitude": -73.571074
-      }
-    },
-    {
-      "stop_id": "15",
-      "stop_code": "10252",
-      "stop_name": "Bonaventure",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.498086,
-        "longitude": -73.567235
-      }
-    },
-    {
-      "stop_id": "14",
-      "stop_code": "10254",
-      "stop_name": "Square-Victoria-OACI",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.501937,
-        "longitude": -73.563118
-      }
-    },
-    {
-      "stop_id": "13",
-      "stop_code": "10256",
-      "stop_name": "Place-d’Armes",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.506348,
-        "longitude": -73.559548
-      }
-    },
-    {
-      "stop_id": "12",
-      "stop_code": "10258",
-      "stop_name": "Champ-de-Mars",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.510047,
-        "longitude": -73.556596
-      }
-    },
-    {
-      "stop_id": "10",
-      "stop_code": "10262",
-      "stop_name": "Sherbrooke",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.51906,
-        "longitude": -73.569217
-      }
-    },
-    {
-      "stop_id": "9",
-      "stop_code": "10264",
-      "stop_name": "Mont-Royal",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.524931,
-        "longitude": -73.581959
-      }
-    },
-    {
-      "stop_id": "8",
-      "stop_code": "10266",
-      "stop_name": "Laurier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/laurier",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.527399,
-        "longitude": -73.586907
-      }
-    },
-    {
-      "stop_id": "7",
-      "stop_code": "10268",
-      "stop_name": "Rosemont",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/rosemont",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.531733,
-        "longitude": -73.59778
-      }
-    },
-    {
-      "stop_id": "6",
-      "stop_code": "10270",
-      "stop_name": "Beaubien",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/beaubien",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.535354,
-        "longitude": -73.604688
-      }
-    },
-    {
-      "stop_id": "9999052",
-      "stop_code": "10272",
-      "stop_name": "Jean-Talon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.539056,
-        "longitude": -73.613902
-      }
-    },
-    {
-      "stop_id": "9999055",
-      "stop_code": "10272",
-      "stop_name": "Jean-Talon",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.539152,
-        "longitude": -73.613856
-      }
-    },
-    {
-      "stop_id": "4",
-      "stop_code": "10274",
-      "stop_name": "Jarry",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jarry",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.543191,
-        "longitude": -73.628765
-      }
-    },
-    {
-      "stop_id": "3",
-      "stop_code": "10276",
-      "stop_name": "Crémazie",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cremazie",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546082,
-        "longitude": -73.639052
-      }
-    },
-    {
-      "stop_id": "2",
-      "stop_code": "10278",
-      "stop_name": "Sauvé",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/sauve",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.550757,
-        "longitude": -73.656017
-      }
-    },
-    {
-      "stop_id": "1",
-      "stop_code": "10280",
-      "stop_name": "Henri-Bourassa",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.555277,
-        "longitude": -73.668172
-      }
-    },
-    {
-      "stop_id": "66",
-      "stop_code": "10282",
-      "stop_name": "Cartier",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cartier",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.559997,
-        "longitude": -73.68231
-      }
-    },
-    {
-      "stop_id": "67",
-      "stop_code": "10286",
-      "stop_name": "De la Concorde",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.560698,
-        "longitude": -73.709389
-      }
-    },
-    {
-      "stop_id": "68",
-      "stop_code": "10288",
-      "stop_name": "Montmorency",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/montmorency",
-      "wheelchair_boarding": 1,
-      "stop_location": {
-        "latitude": 45.558436,
-        "longitude": -73.722459
-      }
-    },
-    {
-      "stop_id": "45",
-      "stop_code": "10452",
-      "stop_name": "Jean-Drapeau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.512429,
-        "longitude": -73.533127
-      }
-    },
-    {
-      "stop_id": "44",
-      "stop_code": "10454",
-      "stop_name": "Longueuil-Université-de-Sherbrooke",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.52489,
-        "longitude": -73.522098
-      }
-    },
-    {
-      "stop_id": "55",
-      "stop_code": "10534",
-      "stop_name": "Côte-des-Neiges",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.496846,
-        "longitude": -73.623386
-      }
-    },
-    {
-      "stop_id": "56",
-      "stop_code": "10536",
-      "stop_name": "Université-de-Montréal",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.503188,
-        "longitude": -73.617699
-      }
-    },
-    {
-      "stop_id": "57",
-      "stop_code": "10538",
-      "stop_name": "Édouard-Montpetit",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.50992,
-        "longitude": -73.612858
-      }
-    },
-    {
-      "stop_id": "58",
-      "stop_code": "10540",
-      "stop_name": "Outremont",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/outremont",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.52037,
-        "longitude": -73.614976
-      }
-    },
-    {
-      "stop_id": "59",
-      "stop_code": "10542",
-      "stop_name": "Acadie",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/acadie",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.523458,
-        "longitude": -73.623257
-      }
-    },
-    {
-      "stop_id": "60",
-      "stop_code": "10544",
-      "stop_name": "Parc",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/parc",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.530177,
-        "longitude": -73.624559
-      }
-    },
-    {
-      "stop_id": "61",
-      "stop_code": "10546",
-      "stop_name": "De Castelnau",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.535437,
-        "longitude": -73.619873
-      }
-    },
-    {
-      "stop_id": "62",
-      "stop_code": "10552",
-      "stop_name": "Fabre",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/fabre",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.546753,
-        "longitude": -73.608106
-      }
-    },
-    {
-      "stop_id": "63",
-      "stop_code": "10554",
-      "stop_name": "D’Iberville",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.553618,
-        "longitude": -73.601988
-      }
-    },
-    {
-      "stop_id": "64",
-      "stop_code": "10556",
-      "stop_name": "Saint-Michel",
-      "stop_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel",
-      "wheelchair_boarding": 2,
-      "stop_location": {
-        "latitude": 45.55956,
-        "longitude": -73.600002
-      }
+  "stations": [
+    {
+      "station_id": "10118",
+      "station_name": "Angrignon",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/angrignon",
+      "station_stops": [
+        {
+          "stop_id": "43",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.446466,
+            "longitude": -73.603118
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10120",
+      "station_name": "Monk",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/monk",
+      "station_stops": [
+        {
+          "stop_id": "42",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.451158,
+            "longitude": -73.593242
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10122",
+      "station_name": "Jolicoeur",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur",
+      "station_stops": [
+        {
+          "stop_id": "41",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.45701,
+            "longitude": -73.581691
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10124",
+      "station_name": "Verdun",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/verdun",
+      "station_stops": [
+        {
+          "stop_id": "40",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.459441,
+            "longitude": -73.572021
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10126",
+      "station_name": "De l’Église",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise",
+      "station_stops": [
+        {
+          "stop_id": "39",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.461894,
+            "longitude": -73.567074
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10128",
+      "station_name": "LaSalle",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/lasalle",
+      "station_stops": [
+        {
+          "stop_id": "38",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.471063,
+            "longitude": -73.566267
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10130",
+      "station_name": "Charlevoix",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix",
+      "station_stops": [
+        {
+          "stop_id": "37",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.478465,
+            "longitude": -73.569336
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10132",
+      "station_name": "Lionel-Groulx",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx",
+      "station_stops": [
+        {
+          "stop_id": "36",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.482509,
+            "longitude": -73.58018
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10134",
+      "station_name": "Atwater",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/atwater",
+      "station_stops": [
+        {
+          "stop_id": "35",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.490068,
+            "longitude": -73.585812
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10136",
+      "station_name": "Guy-Concordia",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia",
+      "station_stops": [
+        {
+          "stop_id": "34",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.49557,
+            "longitude": -73.57931
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10138",
+      "station_name": "Peel",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/peel",
+      "station_stops": [
+        {
+          "stop_id": "33",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.500879,
+            "longitude": -73.574715
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10140",
+      "station_name": "McGill",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/mcgill",
+      "station_stops": [
+        {
+          "stop_id": "32",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.504064,
+            "longitude": -73.571586
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10142",
+      "station_name": "Place-des-Arts",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts",
+      "station_stops": [
+        {
+          "stop_id": "31",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.50822,
+            "longitude": -73.568433
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10144",
+      "station_name": "Saint-Laurent",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent",
+      "station_stops": [
+        {
+          "stop_id": "30",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.511033,
+            "longitude": -73.564899
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10146",
+      "station_name": "Berri-UQAM",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
+      "station_stops": [
+        {
+          "stop_id": "9999114",
+          "stop_route": "4",
+          "stop_location": {
+            "latitude": 45.515191,
+            "longitude": -73.561013
+          }
+        },
+        {
+          "stop_id": "9999111",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.515226,
+            "longitude": -73.561082
+          }
+        },
+        {
+          "stop_id": "9999112",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.515212,
+            "longitude": -73.561051
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10148",
+      "station_name": "Beaudry",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/beaudry",
+      "station_stops": [
+        {
+          "stop_id": "29",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.518831,
+            "longitude": -73.555837
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10150",
+      "station_name": "Papineau",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/papineau",
+      "station_stops": [
+        {
+          "stop_id": "28",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.523988,
+            "longitude": -73.552703
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10152",
+      "station_name": "Frontenac",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/frontenac",
+      "station_stops": [
+        {
+          "stop_id": "27",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.533504,
+            "longitude": -73.552196
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10154",
+      "station_name": "Préfontaine",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine",
+      "station_stops": [
+        {
+          "stop_id": "26",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.541717,
+            "longitude": -73.554192
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10156",
+      "station_name": "Joliette",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/joliette",
+      "station_stops": [
+        {
+          "stop_id": "25",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.546832,
+            "longitude": -73.551391
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10158",
+      "station_name": "Pie-IX",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix",
+      "station_stops": [
+        {
+          "stop_id": "24",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.553688,
+            "longitude": -73.551757
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10160",
+      "station_name": "Viau",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/viau",
+      "station_stops": [
+        {
+          "stop_id": "23",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.560687,
+            "longitude": -73.54753
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10162",
+      "station_name": "Assomption",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/assomption",
+      "station_stops": [
+        {
+          "stop_id": "22",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.569285,
+            "longitude": -73.547336
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10164",
+      "station_name": "Cadillac",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cadillac",
+      "station_stops": [
+        {
+          "stop_id": "21",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.576843,
+            "longitude": -73.54671
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10166",
+      "station_name": "Langelier",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/langelier",
+      "station_stops": [
+        {
+          "stop_id": "20",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.582736,
+            "longitude": -73.543133
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10168",
+      "station_name": "Radisson",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/radisson",
+      "station_stops": [
+        {
+          "stop_id": "19",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.589431,
+            "longitude": -73.539269
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10170",
+      "station_name": "Honoré-Beaugrand",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand",
+      "station_stops": [
+        {
+          "stop_id": "18",
+          "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.596572,
+            "longitude": -73.535376
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10222",
+      "station_name": "Côte-Vertu",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu",
+      "station_stops": [
+        {
+          "stop_id": "65",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.514237,
+            "longitude": -73.682757
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10224",
+      "station_name": "Du Collège",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/du-college",
+      "station_stops": [
+        {
+          "stop_id": "54",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.509258,
+            "longitude": -73.674796
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10228",
+      "station_name": "De la Savane",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane",
+      "station_stops": [
+        {
+          "stop_id": "53",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.500051,
+            "longitude": -73.661538
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10230",
+      "station_name": "Namur",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/namur",
+      "station_stops": [
+        {
+          "stop_id": "52",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.494643,
+            "longitude": -73.652828
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10232",
+      "station_name": "Plamondon",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/plamondon",
+      "station_stops": [
+        {
+          "stop_id": "51",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.494644,
+            "longitude": -73.63826
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10234",
+      "station_name": "Côte-Sainte-Catherine",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine",
+      "station_stops": [
+        {
+          "stop_id": "50",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.492356,
+            "longitude": -73.6331
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10236",
+      "station_name": "Snowdon",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
+      "station_stops": [
+        {
+          "stop_id": "9999495",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.485403,
+            "longitude": -73.627757
+          }
+        },
+        {
+          "stop_id": "9999492",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.485433,
+            "longitude": -73.62773
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10238",
+      "station_name": "Villa-Maria",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria",
+      "station_stops": [
+        {
+          "stop_id": "48",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.479709,
+            "longitude": -73.619821
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10242",
+      "station_name": "Vendôme",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/vendome",
+      "station_stops": [
+        {
+          "stop_id": "47",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.474101,
+            "longitude": -73.603706
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10244",
+      "station_name": "Place-Saint-Henri",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri",
+      "station_stops": [
+        {
+          "stop_id": "46",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.47732,
+            "longitude": -73.586629
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10248",
+      "station_name": "Georges-Vanier",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier",
+      "station_stops": [
+        {
+          "stop_id": "17",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.488897,
+            "longitude": -73.576852
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10250",
+      "station_name": "Lucien-L’Allier",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier",
+      "station_stops": [
+        {
+          "stop_id": "16",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.494745,
+            "longitude": -73.571074
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10252",
+      "station_name": "Bonaventure",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure",
+      "station_stops": [
+        {
+          "stop_id": "15",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.498086,
+            "longitude": -73.567235
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10254",
+      "station_name": "Square-Victoria-OACI",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci",
+      "station_stops": [
+        {
+          "stop_id": "14",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.501937,
+            "longitude": -73.563118
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10256",
+      "station_name": "Place-d’Armes",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes",
+      "station_stops": [
+        {
+          "stop_id": "13",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.506348,
+            "longitude": -73.559548
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10258",
+      "station_name": "Champ-de-Mars",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars",
+      "station_stops": [
+        {
+          "stop_id": "12",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.510047,
+            "longitude": -73.556596
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10262",
+      "station_name": "Sherbrooke",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke",
+      "station_stops": [
+        {
+          "stop_id": "10",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.51906,
+            "longitude": -73.569217
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10264",
+      "station_name": "Mont-Royal",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal",
+      "station_stops": [
+        {
+          "stop_id": "9",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.524931,
+            "longitude": -73.581959
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10266",
+      "station_name": "Laurier",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/laurier",
+      "station_stops": [
+        {
+          "stop_id": "8",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.527399,
+            "longitude": -73.586907
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10268",
+      "station_name": "Rosemont",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/rosemont",
+      "station_stops": [
+        {
+          "stop_id": "7",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.531733,
+            "longitude": -73.59778
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10270",
+      "station_name": "Beaubien",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/beaubien",
+      "station_stops": [
+        {
+          "stop_id": "6",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.535354,
+            "longitude": -73.604688
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10272",
+      "station_name": "Jean-Talon",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
+      "station_stops": [
+        {
+          "stop_id": "9999055",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.539152,
+            "longitude": -73.613856
+          }
+        },
+        {
+          "stop_id": "9999052",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.539056,
+            "longitude": -73.613902
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10274",
+      "station_name": "Jarry",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/jarry",
+      "station_stops": [
+        {
+          "stop_id": "4",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.543191,
+            "longitude": -73.628765
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10276",
+      "station_name": "Crémazie",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cremazie",
+      "station_stops": [
+        {
+          "stop_id": "3",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.546082,
+            "longitude": -73.639052
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10278",
+      "station_name": "Sauvé",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/sauve",
+      "station_stops": [
+        {
+          "stop_id": "2",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.550757,
+            "longitude": -73.656017
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10280",
+      "station_name": "Henri-Bourassa",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa",
+      "station_stops": [
+        {
+          "stop_id": "1",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.555277,
+            "longitude": -73.668172
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10282",
+      "station_name": "Cartier",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cartier",
+      "station_stops": [
+        {
+          "stop_id": "66",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.559997,
+            "longitude": -73.68231
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10286",
+      "station_name": "De la Concorde",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde",
+      "station_stops": [
+        {
+          "stop_id": "67",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.560698,
+            "longitude": -73.709389
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10288",
+      "station_name": "Montmorency",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/montmorency",
+      "station_stops": [
+        {
+          "stop_id": "68",
+          "stop_route": "2",
+          "stop_location": {
+            "latitude": 45.558436,
+            "longitude": -73.722459
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10452",
+      "station_name": "Jean-Drapeau",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau",
+      "station_stops": [
+        {
+          "stop_id": "45",
+          "stop_route": "4",
+          "stop_location": {
+            "latitude": 45.512429,
+            "longitude": -73.533127
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10454",
+      "station_name": "Longueuil-Université-de-Sherbrooke",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke",
+      "station_stops": [
+        {
+          "stop_id": "44",
+          "stop_route": "4",
+          "stop_location": {
+            "latitude": 45.52489,
+            "longitude": -73.522098
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10534",
+      "station_name": "Côte-des-Neiges",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges",
+      "station_stops": [
+        {
+          "stop_id": "55",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.496846,
+            "longitude": -73.623386
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10536",
+      "station_name": "Université-de-Montréal",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal",
+      "station_stops": [
+        {
+          "stop_id": "56",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.503188,
+            "longitude": -73.617699
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10538",
+      "station_name": "Édouard-Montpetit",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit",
+      "station_stops": [
+        {
+          "stop_id": "57",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.50992,
+            "longitude": -73.612858
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10540",
+      "station_name": "Outremont",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/outremont",
+      "station_stops": [
+        {
+          "stop_id": "58",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.52037,
+            "longitude": -73.614976
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10542",
+      "station_name": "Acadie",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/acadie",
+      "station_stops": [
+        {
+          "stop_id": "59",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.523458,
+            "longitude": -73.623257
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10544",
+      "station_name": "Parc",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/parc",
+      "station_stops": [
+        {
+          "stop_id": "60",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.530177,
+            "longitude": -73.624559
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10546",
+      "station_name": "De Castelnau",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau",
+      "station_stops": [
+        {
+          "stop_id": "61",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.535437,
+            "longitude": -73.619873
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10552",
+      "station_name": "Fabre",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/fabre",
+      "station_stops": [
+        {
+          "stop_id": "62",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.546753,
+            "longitude": -73.608106
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10554",
+      "station_name": "D’Iberville",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville",
+      "station_stops": [
+        {
+          "stop_id": "63",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.553618,
+            "longitude": -73.601988
+          }
+        }
+      ]
+    },
+    {
+      "station_id": "10556",
+      "station_name": "Saint-Michel",
+      "station_url": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel",
+      "station_stops": [
+        {
+          "stop_id": "64",
+          "stop_route": "5",
+          "stop_location": {
+            "latitude": 45.55956,
+            "longitude": -73.600002
+          }
+        }
+      ]
     }
   ],
   "route_stops": {
@@ -1606,44 +1862,6 @@
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "9999112",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:44",
-          "00:57"
-        ],
-        "saturday": [
-          "05:44",
-          "01:27"
-        ],
-        "sunday": [
-          "05:44",
-          "00:57"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "9999112",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:53",
-          "00:57"
-        ],
-        "saturday": [
-          "05:53",
-          "01:27"
-        ],
-        "sunday": [
-          "05:53",
-          "00:57"
-        ]
-      }
-    },
-    {
       "route_id": "1",
       "stop_id": "9999111",
       "direction_id": "0",
@@ -1677,6 +1895,44 @@
         ],
         "sunday": [
           "05:49",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999112",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:44",
+          "00:57"
+        ],
+        "saturday": [
+          "05:44",
+          "01:27"
+        ],
+        "sunday": [
+          "05:44",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999112",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:53",
+          "00:57"
+        ],
+        "saturday": [
+          "05:53",
+          "01:27"
+        ],
+        "sunday": [
+          "05:53",
           "00:57"
         ]
       }
@@ -2917,44 +3173,6 @@
       }
     },
     {
-      "route_id": "2",
-      "stop_id": "9999052",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:36",
-          "00:45"
-        ],
-        "saturday": [
-          "05:36",
-          "01:15"
-        ],
-        "sunday": [
-          "05:36",
-          "00:45"
-        ]
-      }
-    },
-    {
-      "route_id": "2",
-      "stop_id": "9999052",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "06:02",
-          "01:05"
-        ],
-        "saturday": [
-          "06:02",
-          "01:35"
-        ],
-        "sunday": [
-          "06:02",
-          "01:05"
-        ]
-      }
-    },
-    {
       "route_id": "5",
       "stop_id": "9999055",
       "direction_id": "0",
@@ -2989,6 +3207,44 @@
         "sunday": [
           "05:40",
           "00:55"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999052",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:36",
+          "00:45"
+        ],
+        "saturday": [
+          "05:36",
+          "01:15"
+        ],
+        "sunday": [
+          "05:36",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "route_id": "2",
+      "stop_id": "9999052",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "06:02",
+          "01:05"
+        ],
+        "saturday": [
+          "06:02",
+          "01:35"
+        ],
+        "sunday": [
+          "06:02",
+          "01:05"
         ]
       }
     },
@@ -3659,7 +3915,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-09-10T01:07:56Z",
+    "created": "2019-12-28T23:30:59Z",
     "origin": "downloaded"
   }
 }
