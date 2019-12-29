@@ -152,8 +152,16 @@
       "station_url": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx",
       "station_stops": [
         {
-          "stop_id": "36",
+          "stop_id": "9999036",
           "stop_route": "1",
+          "stop_location": {
+            "latitude": 45.482509,
+            "longitude": -73.58018
+          }
+        },
+        {
+          "stop_id": "9999037",
+          "stop_route": "2",
           "stop_location": {
             "latitude": 45.482509,
             "longitude": -73.58018
@@ -1118,7 +1126,7 @@
           "33",
           "34",
           "35",
-          "36",
+          "9999036",
           "37",
           "38",
           "39",
@@ -1138,7 +1146,7 @@
           "39",
           "38",
           "37",
-          "36",
+          "9999036",
           "35",
           "34",
           "33",
@@ -1185,7 +1193,7 @@
           "15",
           "16",
           "17",
-          "36",
+          "9999037",
           "46",
           "47",
           "48",
@@ -1211,7 +1219,7 @@
           "48",
           "47",
           "46",
-          "36",
+          "9999037",
           "17",
           "16",
           "15",
@@ -1540,7 +1548,7 @@
     },
     {
       "route_id": "1",
-      "stop_id": "36",
+      "stop_id": "9999036",
       "direction_id": "0",
       "times": {
         "week": [
@@ -1559,7 +1567,7 @@
     },
     {
       "route_id": "1",
-      "stop_id": "36",
+      "stop_id": "9999036",
       "direction_id": "1",
       "times": {
         "week": [
@@ -1578,7 +1586,7 @@
     },
     {
       "route_id": "2",
-      "stop_id": "36",
+      "stop_id": "9999037",
       "direction_id": "0",
       "times": {
         "week": [
@@ -1597,7 +1605,7 @@
     },
     {
       "route_id": "2",
-      "stop_id": "36",
+      "stop_id": "9999037",
       "direction_id": "1",
       "times": {
         "week": [
@@ -3915,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-12-28T23:30:59Z",
+    "created": "2019-12-29T15:59:00Z",
     "origin": "downloaded"
   }
 }
