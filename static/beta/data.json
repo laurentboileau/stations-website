@@ -18,25 +18,25 @@
     {
       "route_id": "1",
       "route_name": "verte",
-      "route_color": "systemGreen",
+      "route_color": "Green Line",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/verte"
     },
     {
       "route_id": "2",
       "route_name": "orange",
-      "route_color": "systemOrange",
+      "route_color": "Orange Line",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/orange"
     },
     {
       "route_id": "4",
       "route_name": "jaune",
-      "route_color": "systemYellow",
+      "route_color": "Yellow Line",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune"
     },
     {
       "route_id": "5",
       "route_name": "bleue",
-      "route_color": "systemBlue",
+      "route_color": "Blue Line",
       "route_url": "http://www.stm.info/fr/infos/reseaux/metro/bleue"
     }
   ],
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-12-29T15:59:00Z",
+    "created": "2019-12-30T01:06:28Z",
     "origin": "downloaded"
   }
 }
