@@ -49,7 +49,7 @@
         {
           "stop_id": "43",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.446466,
             "longitude": -73.603118
           }
@@ -64,7 +64,7 @@
         {
           "stop_id": "42",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.451158,
             "longitude": -73.593242
           }
@@ -79,7 +79,7 @@
         {
           "stop_id": "41",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.45701,
             "longitude": -73.581691
           }
@@ -94,7 +94,7 @@
         {
           "stop_id": "40",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.459441,
             "longitude": -73.572021
           }
@@ -109,7 +109,7 @@
         {
           "stop_id": "39",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.461894,
             "longitude": -73.567074
           }
@@ -124,7 +124,7 @@
         {
           "stop_id": "38",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.471063,
             "longitude": -73.566267
           }
@@ -139,7 +139,7 @@
         {
           "stop_id": "37",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.478465,
             "longitude": -73.569336
           }
@@ -154,7 +154,7 @@
         {
           "stop_id": "9999036",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.482509,
             "longitude": -73.58018
           }
@@ -162,7 +162,7 @@
         {
           "stop_id": "9999037",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.482509,
             "longitude": -73.58018
           }
@@ -177,7 +177,7 @@
         {
           "stop_id": "35",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.490068,
             "longitude": -73.585812
           }
@@ -192,7 +192,7 @@
         {
           "stop_id": "34",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.49557,
             "longitude": -73.57931
           }
@@ -207,7 +207,7 @@
         {
           "stop_id": "33",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.500879,
             "longitude": -73.574715
           }
@@ -222,7 +222,7 @@
         {
           "stop_id": "32",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.504064,
             "longitude": -73.571586
           }
@@ -237,7 +237,7 @@
         {
           "stop_id": "31",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.50822,
             "longitude": -73.568433
           }
@@ -252,7 +252,7 @@
         {
           "stop_id": "30",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.511033,
             "longitude": -73.564899
           }
@@ -267,7 +267,7 @@
         {
           "stop_id": "9999114",
           "stop_route": "4",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.515191,
             "longitude": -73.561013
           }
@@ -275,7 +275,7 @@
         {
           "stop_id": "9999111",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.515226,
             "longitude": -73.561082
           }
@@ -283,7 +283,7 @@
         {
           "stop_id": "9999112",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.515212,
             "longitude": -73.561051
           }
@@ -298,7 +298,7 @@
         {
           "stop_id": "29",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.518831,
             "longitude": -73.555837
           }
@@ -313,7 +313,7 @@
         {
           "stop_id": "28",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.523988,
             "longitude": -73.552703
           }
@@ -328,7 +328,7 @@
         {
           "stop_id": "27",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.533504,
             "longitude": -73.552196
           }
@@ -343,7 +343,7 @@
         {
           "stop_id": "26",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.541717,
             "longitude": -73.554192
           }
@@ -358,7 +358,7 @@
         {
           "stop_id": "25",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.546832,
             "longitude": -73.551391
           }
@@ -373,7 +373,7 @@
         {
           "stop_id": "24",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.553688,
             "longitude": -73.551757
           }
@@ -388,7 +388,7 @@
         {
           "stop_id": "23",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.560687,
             "longitude": -73.54753
           }
@@ -403,7 +403,7 @@
         {
           "stop_id": "22",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.569285,
             "longitude": -73.547336
           }
@@ -418,7 +418,7 @@
         {
           "stop_id": "21",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.576843,
             "longitude": -73.54671
           }
@@ -433,7 +433,7 @@
         {
           "stop_id": "20",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.582736,
             "longitude": -73.543133
           }
@@ -448,7 +448,7 @@
         {
           "stop_id": "19",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.589431,
             "longitude": -73.539269
           }
@@ -463,7 +463,7 @@
         {
           "stop_id": "18",
           "stop_route": "1",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.596572,
             "longitude": -73.535376
           }
@@ -478,7 +478,7 @@
         {
           "stop_id": "65",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.514237,
             "longitude": -73.682757
           }
@@ -493,7 +493,7 @@
         {
           "stop_id": "54",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.509258,
             "longitude": -73.674796
           }
@@ -508,7 +508,7 @@
         {
           "stop_id": "53",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.500051,
             "longitude": -73.661538
           }
@@ -523,7 +523,7 @@
         {
           "stop_id": "52",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.494643,
             "longitude": -73.652828
           }
@@ -538,7 +538,7 @@
         {
           "stop_id": "51",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.494644,
             "longitude": -73.63826
           }
@@ -553,7 +553,7 @@
         {
           "stop_id": "50",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.492356,
             "longitude": -73.6331
           }
@@ -568,7 +568,7 @@
         {
           "stop_id": "9999495",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.485403,
             "longitude": -73.627757
           }
@@ -576,7 +576,7 @@
         {
           "stop_id": "9999492",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.485433,
             "longitude": -73.62773
           }
@@ -591,7 +591,7 @@
         {
           "stop_id": "48",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.479709,
             "longitude": -73.619821
           }
@@ -606,7 +606,7 @@
         {
           "stop_id": "47",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.474101,
             "longitude": -73.603706
           }
@@ -621,7 +621,7 @@
         {
           "stop_id": "46",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.47732,
             "longitude": -73.586629
           }
@@ -636,7 +636,7 @@
         {
           "stop_id": "17",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.488897,
             "longitude": -73.576852
           }
@@ -651,7 +651,7 @@
         {
           "stop_id": "16",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.494745,
             "longitude": -73.571074
           }
@@ -666,7 +666,7 @@
         {
           "stop_id": "15",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.498086,
             "longitude": -73.567235
           }
@@ -681,7 +681,7 @@
         {
           "stop_id": "14",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.501937,
             "longitude": -73.563118
           }
@@ -696,7 +696,7 @@
         {
           "stop_id": "13",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.506348,
             "longitude": -73.559548
           }
@@ -711,7 +711,7 @@
         {
           "stop_id": "12",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.510047,
             "longitude": -73.556596
           }
@@ -726,7 +726,7 @@
         {
           "stop_id": "10",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.51906,
             "longitude": -73.569217
           }
@@ -741,7 +741,7 @@
         {
           "stop_id": "9",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.524931,
             "longitude": -73.581959
           }
@@ -756,7 +756,7 @@
         {
           "stop_id": "8",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.527399,
             "longitude": -73.586907
           }
@@ -771,7 +771,7 @@
         {
           "stop_id": "7",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.531733,
             "longitude": -73.59778
           }
@@ -786,7 +786,7 @@
         {
           "stop_id": "6",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.535354,
             "longitude": -73.604688
           }
@@ -801,7 +801,7 @@
         {
           "stop_id": "9999055",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.539152,
             "longitude": -73.613856
           }
@@ -809,7 +809,7 @@
         {
           "stop_id": "9999052",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.539056,
             "longitude": -73.613902
           }
@@ -824,7 +824,7 @@
         {
           "stop_id": "4",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.543191,
             "longitude": -73.628765
           }
@@ -839,7 +839,7 @@
         {
           "stop_id": "3",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.546082,
             "longitude": -73.639052
           }
@@ -854,7 +854,7 @@
         {
           "stop_id": "2",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.550757,
             "longitude": -73.656017
           }
@@ -869,7 +869,7 @@
         {
           "stop_id": "1",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.555277,
             "longitude": -73.668172
           }
@@ -884,7 +884,7 @@
         {
           "stop_id": "66",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.559997,
             "longitude": -73.68231
           }
@@ -899,7 +899,7 @@
         {
           "stop_id": "67",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.560698,
             "longitude": -73.709389
           }
@@ -914,7 +914,7 @@
         {
           "stop_id": "68",
           "stop_route": "2",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.558436,
             "longitude": -73.722459
           }
@@ -929,7 +929,7 @@
         {
           "stop_id": "45",
           "stop_route": "4",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.512429,
             "longitude": -73.533127
           }
@@ -944,7 +944,7 @@
         {
           "stop_id": "44",
           "stop_route": "4",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.52489,
             "longitude": -73.522098
           }
@@ -959,7 +959,7 @@
         {
           "stop_id": "55",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.496846,
             "longitude": -73.623386
           }
@@ -974,7 +974,7 @@
         {
           "stop_id": "56",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.503188,
             "longitude": -73.617699
           }
@@ -989,7 +989,7 @@
         {
           "stop_id": "57",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.50992,
             "longitude": -73.612858
           }
@@ -1004,7 +1004,7 @@
         {
           "stop_id": "58",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.52037,
             "longitude": -73.614976
           }
@@ -1019,7 +1019,7 @@
         {
           "stop_id": "59",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.523458,
             "longitude": -73.623257
           }
@@ -1034,7 +1034,7 @@
         {
           "stop_id": "60",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.530177,
             "longitude": -73.624559
           }
@@ -1049,7 +1049,7 @@
         {
           "stop_id": "61",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.535437,
             "longitude": -73.619873
           }
@@ -1064,7 +1064,7 @@
         {
           "stop_id": "62",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.546753,
             "longitude": -73.608106
           }
@@ -1079,7 +1079,7 @@
         {
           "stop_id": "63",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.553618,
             "longitude": -73.601988
           }
@@ -1094,7 +1094,7 @@
         {
           "stop_id": "64",
           "stop_route": "5",
-          "stop_location": {
+          "stop_coordinate": {
             "latitude": 45.55956,
             "longitude": -73.600002
           }
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "created": "2019-12-30T01:06:28Z",
+    "created": "2020-03-07T15:46:26Z",
     "origin": "downloaded"
   }
 }
