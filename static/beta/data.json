@@ -265,14 +265,6 @@
       "station_url": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam",
       "station_stops": [
         {
-          "stop_id": "9999114",
-          "stop_route": "4",
-          "stop_coordinate": {
-            "latitude": 45.515191,
-            "longitude": -73.561013
-          }
-        },
-        {
           "stop_id": "9999111",
           "stop_route": "1",
           "stop_coordinate": {
@@ -286,6 +278,14 @@
           "stop_coordinate": {
             "latitude": 45.515212,
             "longitude": -73.561051
+          }
+        },
+        {
+          "stop_id": "9999114",
+          "stop_route": "4",
+          "stop_coordinate": {
+            "latitude": 45.515191,
+            "longitude": -73.561013
           }
         }
       ]
@@ -566,19 +566,19 @@
       "station_url": "http://www.stm.info/fr/infos/reseaux/metro/snowdon",
       "station_stops": [
         {
-          "stop_id": "9999495",
-          "stop_route": "5",
-          "stop_coordinate": {
-            "latitude": 45.485403,
-            "longitude": -73.627757
-          }
-        },
-        {
           "stop_id": "9999492",
           "stop_route": "2",
           "stop_coordinate": {
             "latitude": 45.485433,
             "longitude": -73.62773
+          }
+        },
+        {
+          "stop_id": "9999495",
+          "stop_route": "5",
+          "stop_coordinate": {
+            "latitude": 45.485403,
+            "longitude": -73.627757
           }
         }
       ]
@@ -799,19 +799,19 @@
       "station_url": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon",
       "station_stops": [
         {
-          "stop_id": "9999055",
-          "stop_route": "5",
-          "stop_coordinate": {
-            "latitude": 45.539152,
-            "longitude": -73.613856
-          }
-        },
-        {
           "stop_id": "9999052",
           "stop_route": "2",
           "stop_coordinate": {
             "latitude": 45.539056,
             "longitude": -73.613902
+          }
+        },
+        {
+          "stop_id": "9999055",
+          "stop_route": "5",
+          "stop_coordinate": {
+            "latitude": 45.539152,
+            "longitude": -73.613856
           }
         }
       ]
@@ -1547,44 +1547,6 @@
       }
     },
     {
-      "route_id": "1",
-      "stop_id": "9999036",
-      "direction_id": "0",
-      "times": {
-        "week": [
-          "05:55",
-          "01:06"
-        ],
-        "saturday": [
-          "05:55",
-          "01:36"
-        ],
-        "sunday": [
-          "05:55",
-          "01:06"
-        ]
-      }
-    },
-    {
-      "route_id": "1",
-      "stop_id": "9999036",
-      "direction_id": "1",
-      "times": {
-        "week": [
-          "05:40",
-          "00:45"
-        ],
-        "saturday": [
-          "05:40",
-          "01:15"
-        ],
-        "sunday": [
-          "05:40",
-          "00:45"
-        ]
-      }
-    },
-    {
       "route_id": "2",
       "stop_id": "9999037",
       "direction_id": "0",
@@ -1618,6 +1580,44 @@
         ],
         "sunday": [
           "05:45",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "9999036",
+      "direction_id": "0",
+      "times": {
+        "week": [
+          "05:55",
+          "01:06"
+        ],
+        "saturday": [
+          "05:55",
+          "01:36"
+        ],
+        "sunday": [
+          "05:55",
+          "01:06"
+        ]
+      }
+    },
+    {
+      "route_id": "1",
+      "stop_id": "9999036",
+      "direction_id": "1",
+      "times": {
+        "week": [
+          "05:40",
+          "00:45"
+        ],
+        "saturday": [
+          "05:40",
+          "01:15"
+        ],
+        "sunday": [
+          "05:40",
           "00:45"
         ]
       }
@@ -3923,7 +3923,7 @@
     }
   ],
   "metadata": {
-    "created": "2020-03-07T15:46:26Z",
+    "created": "2020-05-23T02:36:17Z",
     "origin": "downloaded"
   }
 }
