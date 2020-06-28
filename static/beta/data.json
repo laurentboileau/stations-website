@@ -55,8 +55,8 @@
       "station_id": 0,
       "station_name": "Angrignon",
       "station_coordinate": {
-        "latitude": 45.446466,
-        "longitude": -73.603117
+        "latitude": 45.446145,
+        "longitude": -73.603662
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/angrignon",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/angrignon"
@@ -65,8 +65,8 @@
       "station_id": 1,
       "station_name": "Monk",
       "station_coordinate": {
-        "latitude": 45.451158,
-        "longitude": -73.593242
+        "latitude": 45.451109,
+        "longitude": -73.593551
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/monk",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/monk"
@@ -75,8 +75,8 @@
       "station_id": 2,
       "station_name": "Jolicoeur",
       "station_coordinate": {
-        "latitude": 45.45701,
-        "longitude": -73.581691
+        "latitude": 45.45704,
+        "longitude": -73.581959
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/jolicoeur",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur"
@@ -85,8 +85,8 @@
       "station_id": 3,
       "station_name": "Verdun",
       "station_coordinate": {
-        "latitude": 45.459441,
-        "longitude": -73.572021
+        "latitude": 45.45951,
+        "longitude": -73.573319
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/verdun",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/verdun"
@@ -95,8 +95,8 @@
       "station_id": 4,
       "station_name": "De l’Église",
       "station_coordinate": {
-        "latitude": 45.461894,
-        "longitude": -73.567074
+        "latitude": 45.462436,
+        "longitude": -73.567062
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/de-l-eglise",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise"
@@ -105,8 +105,8 @@
       "station_id": 5,
       "station_name": "LaSalle",
       "station_coordinate": {
-        "latitude": 45.471063,
-        "longitude": -73.566267
+        "latitude": 45.471187,
+        "longitude": -73.566247
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/lasalle",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lasalle"
@@ -115,8 +115,8 @@
       "station_id": 6,
       "station_name": "Charlevoix",
       "station_coordinate": {
-        "latitude": 45.478465,
-        "longitude": -73.569336
+        "latitude": 45.47847,
+        "longitude": -73.569382
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/charlevoix",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix"
@@ -125,8 +125,8 @@
       "station_id": 7,
       "station_name": "Lionel-Groulx",
       "station_coordinate": {
-        "latitude": 45.482509,
-        "longitude": -73.58018
+        "latitude": 45.482385,
+        "longitude": -73.58037
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/lionel-groulx",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx"
@@ -135,8 +135,8 @@
       "station_id": 8,
       "station_name": "Atwater",
       "station_coordinate": {
-        "latitude": 45.490068,
-        "longitude": -73.585812
+        "latitude": 45.489373,
+        "longitude": -73.586666
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/atwater",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/atwater"
@@ -145,8 +145,8 @@
       "station_id": 9,
       "station_name": "Guy-Concordia",
       "station_coordinate": {
-        "latitude": 45.49557,
-        "longitude": -73.57931
+        "latitude": 45.495165,
+        "longitude": -73.579859
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/guy-concordia",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia"
@@ -155,8 +155,8 @@
       "station_id": 10,
       "station_name": "Peel",
       "station_coordinate": {
-        "latitude": 45.500879,
-        "longitude": -73.574715
+        "latitude": 45.501135,
+        "longitude": -73.574473
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/peel",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/peel"
@@ -165,8 +165,8 @@
       "station_id": 11,
       "station_name": "McGill",
       "station_coordinate": {
-        "latitude": 45.504064,
-        "longitude": -73.571586
+        "latitude": 45.504083,
+        "longitude": -73.571624
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/mcgill",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/mcgill"
@@ -175,8 +175,8 @@
       "station_id": 12,
       "station_name": "Place-des-Arts",
       "station_coordinate": {
-        "latitude": 45.50822,
-        "longitude": -73.568433
+        "latitude": 45.508232,
+        "longitude": -73.568468
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/place-des-arts",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts"
@@ -185,8 +185,8 @@
       "station_id": 13,
       "station_name": "Saint-Laurent",
       "station_coordinate": {
-        "latitude": 45.511033,
-        "longitude": -73.564899
+        "latitude": 45.511051,
+        "longitude": -73.564911
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/saint-laurent",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent"
@@ -195,8 +195,8 @@
       "station_id": 14,
       "station_name": "Berri-UQAM",
       "station_coordinate": {
-        "latitude": 45.515226,
-        "longitude": -73.561082
+        "latitude": 45.515327,
+        "longitude": -73.561099
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/berri-uqam",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam"
@@ -205,8 +205,8 @@
       "station_id": 15,
       "station_name": "Beaudry",
       "station_coordinate": {
-        "latitude": 45.518831,
-        "longitude": -73.555837
+        "latitude": 45.519479,
+        "longitude": -73.557346
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/beaudry",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/beaudry"
@@ -215,8 +215,8 @@
       "station_id": 16,
       "station_name": "Papineau",
       "station_coordinate": {
-        "latitude": 45.523988,
-        "longitude": -73.552702
+        "latitude": 45.524126,
+        "longitude": -73.552966
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/papineau",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/papineau"
@@ -225,8 +225,8 @@
       "station_id": 17,
       "station_name": "Frontenac",
       "station_coordinate": {
-        "latitude": 45.533504,
-        "longitude": -73.552196
+        "latitude": 45.533407,
+        "longitude": -73.551935
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/frontenac",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/frontenac"
@@ -235,8 +235,8 @@
       "station_id": 18,
       "station_name": "Préfontaine",
       "station_coordinate": {
-        "latitude": 45.541717,
-        "longitude": -73.554192
+        "latitude": 45.541625,
+        "longitude": -73.554258
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/prefontaine",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine"
@@ -245,8 +245,8 @@
       "station_id": 19,
       "station_name": "Joliette",
       "station_coordinate": {
-        "latitude": 45.546832,
-        "longitude": -73.551391
+        "latitude": 45.546958,
+        "longitude": -73.551305
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/joliette",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/joliette"
@@ -255,8 +255,8 @@
       "station_id": 20,
       "station_name": "Pie-IX",
       "station_coordinate": {
-        "latitude": 45.553688,
-        "longitude": -73.551756
+        "latitude": 45.553674,
+        "longitude": -73.551722
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/pie-ix",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix"
@@ -265,8 +265,8 @@
       "station_id": 21,
       "station_name": "Viau",
       "station_coordinate": {
-        "latitude": 45.560687,
-        "longitude": -73.547529
+        "latitude": 45.560702,
+        "longitude": -73.547562
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/viau",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/viau"
@@ -275,8 +275,8 @@
       "station_id": 22,
       "station_name": "Assomption",
       "station_coordinate": {
-        "latitude": 45.569285,
-        "longitude": -73.547336
+        "latitude": 45.569187,
+        "longitude": -73.547609
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/assomption",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/assomption"
@@ -285,8 +285,8 @@
       "station_id": 23,
       "station_name": "Cadillac",
       "station_coordinate": {
-        "latitude": 45.576843,
-        "longitude": -73.54671
+        "latitude": 45.57687,
+        "longitude": -73.546702
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cadillac",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cadillac"
@@ -295,8 +295,8 @@
       "station_id": 24,
       "station_name": "Langelier",
       "station_coordinate": {
-        "latitude": 45.582736,
-        "longitude": -73.543133
+        "latitude": 45.582698,
+        "longitude": -73.543193
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/langelier",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/langelier"
@@ -305,8 +305,8 @@
       "station_id": 25,
       "station_name": "Radisson",
       "station_coordinate": {
-        "latitude": 45.589431,
-        "longitude": -73.539269
+        "latitude": 45.589435,
+        "longitude": -73.539218
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/radisson",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/radisson"
@@ -315,8 +315,8 @@
       "station_id": 26,
       "station_name": "Honoré-Beaugrand",
       "station_coordinate": {
-        "latitude": 45.596572,
-        "longitude": -73.535376
+        "latitude": 45.59672,
+        "longitude": -73.535281
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/honore-beaugrand",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand"
@@ -325,8 +325,8 @@
       "station_id": 27,
       "station_name": "Côte-Vertu",
       "station_coordinate": {
-        "latitude": 45.514237,
-        "longitude": -73.682757
+        "latitude": 45.514224,
+        "longitude": -73.682774
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cote-vertu",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu"
@@ -335,8 +335,8 @@
       "station_id": 28,
       "station_name": "Du Collège",
       "station_coordinate": {
-        "latitude": 45.509258,
-        "longitude": -73.674796
+        "latitude": 45.508789,
+        "longitude": -73.674022
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/du-college",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/du-college"
@@ -345,8 +345,8 @@
       "station_id": 29,
       "station_name": "De la Savane",
       "station_coordinate": {
-        "latitude": 45.500051,
-        "longitude": -73.661537
+        "latitude": 45.499919,
+        "longitude": -73.661083
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/de-la-savane",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane"
@@ -355,8 +355,8 @@
       "station_id": 30,
       "station_name": "Namur",
       "station_coordinate": {
-        "latitude": 45.494643,
-        "longitude": -73.652828
+        "latitude": 45.494951,
+        "longitude": -73.65294
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/namur",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/namur"
@@ -365,8 +365,8 @@
       "station_id": 31,
       "station_name": "Plamondon",
       "station_coordinate": {
-        "latitude": 45.494644,
-        "longitude": -73.63826
+        "latitude": 45.495083,
+        "longitude": -73.639275
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/plamondon",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/plamondon"
@@ -375,8 +375,8 @@
       "station_id": 32,
       "station_name": "Côte-Sainte-Catherine",
       "station_coordinate": {
-        "latitude": 45.492356,
-        "longitude": -73.6331
+        "latitude": 45.492249,
+        "longitude": -73.632868
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cote-sainte-catherine",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine"
@@ -385,8 +385,8 @@
       "station_id": 33,
       "station_name": "Snowdon",
       "station_coordinate": {
-        "latitude": 45.485433,
-        "longitude": -73.62773
+        "latitude": 45.485531,
+        "longitude": -73.628085
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/snowdon",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/snowdon"
@@ -395,8 +395,8 @@
       "station_id": 34,
       "station_name": "Villa-Maria",
       "station_coordinate": {
-        "latitude": 45.479709,
-        "longitude": -73.619821
+        "latitude": 45.479782,
+        "longitude": -73.619607
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/villa-maria",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria"
@@ -405,8 +405,8 @@
       "station_id": 35,
       "station_name": "Vendôme",
       "station_coordinate": {
-        "latitude": 45.474101,
-        "longitude": -73.603706
+        "latitude": 45.473904,
+        "longitude": -73.603801
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/vendome",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/vendome"
@@ -415,8 +415,8 @@
       "station_id": 36,
       "station_name": "Place-Saint-Henri",
       "station_coordinate": {
-        "latitude": 45.47732,
-        "longitude": -73.586629
+        "latitude": 45.477335,
+        "longitude": -73.586609
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/place-saint-henri",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri"
@@ -425,8 +425,8 @@
       "station_id": 37,
       "station_name": "Georges-Vanier",
       "station_coordinate": {
-        "latitude": 45.488897,
-        "longitude": -73.576852
+        "latitude": 45.488993,
+        "longitude": -73.576542
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/georges-vanier",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier"
@@ -435,8 +435,8 @@
       "station_id": 38,
       "station_name": "Lucien-L’Allier",
       "station_coordinate": {
-        "latitude": 45.494745,
-        "longitude": -73.571074
+        "latitude": 45.495043,
+        "longitude": -73.570904
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/lucien-l-allier",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier"
@@ -445,8 +445,8 @@
       "station_id": 39,
       "station_name": "Bonaventure",
       "station_coordinate": {
-        "latitude": 45.498086,
-        "longitude": -73.567235
+        "latitude": 45.498049,
+        "longitude": -73.567113
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/bonaventure",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure"
@@ -455,8 +455,8 @@
       "station_id": 40,
       "station_name": "Square-Victoria-OACI",
       "station_coordinate": {
-        "latitude": 45.501937,
-        "longitude": -73.563118
+        "latitude": 45.501947,
+        "longitude": -73.563141
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/square-victoria-oaci",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci"
@@ -465,8 +465,8 @@
       "station_id": 41,
       "station_name": "Place-d’Armes",
       "station_coordinate": {
-        "latitude": 45.506348,
-        "longitude": -73.559548
+        "latitude": 45.506158,
+        "longitude": -73.559721
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/place-d-armes",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes"
@@ -475,8 +475,8 @@
       "station_id": 42,
       "station_name": "Champ-de-Mars",
       "station_coordinate": {
-        "latitude": 45.510047,
-        "longitude": -73.556596
+        "latitude": 45.51009,
+        "longitude": -73.556497
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/champ-de-mars",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars"
@@ -485,8 +485,8 @@
       "station_id": 43,
       "station_name": "Sherbrooke",
       "station_coordinate": {
-        "latitude": 45.51906,
-        "longitude": -73.569216
+        "latitude": 45.518917,
+        "longitude": -73.568924
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/sherbrooke",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke"
@@ -495,8 +495,8 @@
       "station_id": 44,
       "station_name": "Mont-Royal",
       "station_coordinate": {
-        "latitude": 45.524931,
-        "longitude": -73.581959
+        "latitude": 45.524732,
+        "longitude": -73.581496
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/mont-royal",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal"
@@ -505,8 +505,8 @@
       "station_id": 45,
       "station_name": "Laurier",
       "station_coordinate": {
-        "latitude": 45.527399,
-        "longitude": -73.586907
+        "latitude": 45.527451,
+        "longitude": -73.586971
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/laurier",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/laurier"
@@ -515,8 +515,8 @@
       "station_id": 46,
       "station_name": "Rosemont",
       "station_coordinate": {
-        "latitude": 45.531733,
-        "longitude": -73.59778
+        "latitude": 45.531643,
+        "longitude": -73.597476
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/rosemont",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/rosemont"
@@ -525,8 +525,8 @@
       "station_id": 47,
       "station_name": "Beaubien",
       "station_coordinate": {
-        "latitude": 45.535354,
-        "longitude": -73.604688
+        "latitude": 45.535058,
+        "longitude": -73.604963
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/beaubien",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/beaubien"
@@ -535,8 +535,8 @@
       "station_id": 48,
       "station_name": "Jean-Talon",
       "station_coordinate": {
-        "latitude": 45.539056,
-        "longitude": -73.613902
+        "latitude": 45.539231,
+        "longitude": -73.6151
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/jean-talon",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon"
@@ -545,8 +545,8 @@
       "station_id": 49,
       "station_name": "Jarry",
       "station_coordinate": {
-        "latitude": 45.543191,
-        "longitude": -73.628765
+        "latitude": 45.543081,
+        "longitude": -73.62845
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/jarry",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jarry"
@@ -555,8 +555,8 @@
       "station_id": 50,
       "station_name": "Crémazie",
       "station_coordinate": {
-        "latitude": 45.546082,
-        "longitude": -73.639052
+        "latitude": 45.54602,
+        "longitude": -73.638995
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cremazie",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cremazie"
@@ -565,8 +565,8 @@
       "station_id": 51,
       "station_name": "Sauvé",
       "station_coordinate": {
-        "latitude": 45.550757,
-        "longitude": -73.656017
+        "latitude": 45.551009,
+        "longitude": -73.656639
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/sauve",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/sauve"
@@ -575,8 +575,8 @@
       "station_id": 52,
       "station_name": "Henri-Bourassa",
       "station_coordinate": {
-        "latitude": 45.555277,
-        "longitude": -73.668172
+        "latitude": 45.554568,
+        "longitude": -73.668475
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/henri-bourassa",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa"
@@ -585,8 +585,8 @@
       "station_id": 53,
       "station_name": "Cartier",
       "station_coordinate": {
-        "latitude": 45.559997,
-        "longitude": -73.68231
+        "latitude": 45.560106,
+        "longitude": -73.68217
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cartier",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cartier"
@@ -595,8 +595,8 @@
       "station_id": 54,
       "station_name": "De la Concorde",
       "station_coordinate": {
-        "latitude": 45.560698,
-        "longitude": -73.709389
+        "latitude": 45.560556,
+        "longitude": -73.710039
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/de-la-concorde",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde"
@@ -605,8 +605,8 @@
       "station_id": 55,
       "station_name": "Montmorency",
       "station_coordinate": {
-        "latitude": 45.558436,
-        "longitude": -73.722459
+        "latitude": 45.558541,
+        "longitude": -73.722256
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/montmorency",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/montmorency"
@@ -615,8 +615,8 @@
       "station_id": 56,
       "station_name": "Jean-Drapeau",
       "station_coordinate": {
-        "latitude": 45.512429,
-        "longitude": -73.533126
+        "latitude": 45.512303,
+        "longitude": -73.532946
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/jean-drapeau",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau"
@@ -625,8 +625,8 @@
       "station_id": 57,
       "station_name": "Longueuil-Université-de-Sherbrooke",
       "station_coordinate": {
-        "latitude": 45.52489,
-        "longitude": -73.522098
+        "latitude": 45.524976,
+        "longitude": -73.52196
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/longueuil-universite-de-sherbrooke",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke"
@@ -635,8 +635,8 @@
       "station_id": 58,
       "station_name": "Côte-des-Neiges",
       "station_coordinate": {
-        "latitude": 45.496846,
-        "longitude": -73.623386
+        "latitude": 45.496693,
+        "longitude": -73.623539
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/cote-des-neiges",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges"
@@ -645,8 +645,8 @@
       "station_id": 59,
       "station_name": "Université-de-Montréal",
       "station_coordinate": {
-        "latitude": 45.503188,
-        "longitude": -73.617699
+        "latitude": 45.503305,
+        "longitude": -73.617691
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/universite-de-montreal",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal"
@@ -655,8 +655,8 @@
       "station_id": 60,
       "station_name": "Édouard-Montpetit",
       "station_coordinate": {
-        "latitude": 45.50992,
-        "longitude": -73.612858
+        "latitude": 45.510166,
+        "longitude": -73.612781
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/edouard-montpetit",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit"
@@ -665,8 +665,8 @@
       "station_id": 61,
       "station_name": "Outremont",
       "station_coordinate": {
-        "latitude": 45.52037,
-        "longitude": -73.614976
+        "latitude": 45.519947,
+        "longitude": -73.614004
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/outremont",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/outremont"
@@ -675,8 +675,8 @@
       "station_id": 62,
       "station_name": "Acadie",
       "station_coordinate": {
-        "latitude": 45.523458,
-        "longitude": -73.623257
+        "latitude": 45.523628,
+        "longitude": -73.623507
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/acadie",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/acadie"
@@ -685,8 +685,8 @@
       "station_id": 63,
       "station_name": "Parc",
       "station_coordinate": {
-        "latitude": 45.530177,
-        "longitude": -73.624559
+        "latitude": 45.530515,
+        "longitude": -73.624373
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/parc",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/parc"
@@ -695,8 +695,8 @@
       "station_id": 64,
       "station_name": "De Castelnau",
       "station_coordinate": {
-        "latitude": 45.535437,
-        "longitude": -73.619873
+        "latitude": 45.530515,
+        "longitude": -73.624373
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/de-castelnau",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau"
@@ -705,8 +705,8 @@
       "station_id": 65,
       "station_name": "Fabre",
       "station_coordinate": {
-        "latitude": 45.546753,
-        "longitude": -73.608106
+        "latitude": 45.547213,
+        "longitude": -73.607706
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/fabre",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/fabre"
@@ -715,8 +715,8 @@
       "station_id": 66,
       "station_name": "D’Iberville",
       "station_coordinate": {
-        "latitude": 45.553618,
-        "longitude": -73.601988
+        "latitude": 45.552916,
+        "longitude": -73.602659
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/d-iberville",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville"
@@ -725,8 +725,8 @@
       "station_id": 67,
       "station_name": "Saint-Michel",
       "station_coordinate": {
-        "latitude": 45.55956,
-        "longitude": -73.600002
+        "latitude": 45.559576,
+        "longitude": -73.60003
       },
       "station_url": "http://www.stm.info/en/info/networks/metro/saint-michel",
       "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel"
@@ -3782,7 +3782,7 @@
     }
   ],
   "metadata": {
-    "created": "2020-06-20T23:57:10Z",
+    "created": "2020-06-28T15:36:53Z",
     "origin": "downloaded"
   }
 }
