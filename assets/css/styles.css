@@ -35,7 +35,7 @@ h2 {
     margin: 1.5rem 0;
 }
 
-h3 {
+h3, h4, h5 {
     margin: 1rem 0;
 }
 
@@ -50,7 +50,13 @@ blockquote {
 }
 
 li {
-    margin: 0 1.25rem 1.25rem 1.25rem;
+    line-height: 1.25rem;
+    list-style-position: inside;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 0.75rem;
 }
 
 time {
@@ -137,7 +143,7 @@ header {
 }
 
 #main #features .feature .feature-inner .feature-img img {
-      width: 100%;
+    width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -208,6 +214,44 @@ header {
 
 #main #posts li article header time {
     margin-left: 0.8rem;
+}
+
+/* support */
+
+ol.table-of-contents {
+    margin: 1rem 0;
+}
+
+ol.table-of-contents li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+ol.table-of-contents ol {
+    margin-left: 1.25rem;
+}
+
+div.support-screenshots {
+    margin: auto;
+    display: flex;
+    min-height: 400px;
+}
+
+div.support-screenshots > div {
+    max-width: 300px;
+    margin: 20px auto;
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+div.support-screenshots > div > img {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    div.support-screenshots img {
+        max-width: 300px;
+    }
 }
 
 /* footer */
