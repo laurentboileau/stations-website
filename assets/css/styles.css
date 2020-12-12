@@ -98,6 +98,10 @@ header {
     text-decoration: none;
 }
 
+.header-info p {
+    margin: 0;
+}
+
 /* main */
 
 #main {
