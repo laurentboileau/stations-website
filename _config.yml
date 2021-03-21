@@ -30,6 +30,12 @@ collections:
   nouveautes:
     output: true
 
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE"
+  - "README.markdown"
+
 # i18n
 
 title_fr: Stations
