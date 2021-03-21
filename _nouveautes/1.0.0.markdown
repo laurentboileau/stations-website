@@ -1,0 +1,12 @@
+---
+title: Stations 1.0.0
+date: 2021-03-21 16:00:00 -0400
+layout: release-note
+lang: fr
+---
+
+*Stations est votre assistant personnel du métro de Montréal.*
+
+Parcourez les stations de métro et apprenez des informations utiles sur les points et heures de service.
+
+Planifiez vos déplacements avec des alarmes. Planifiez une notification d'alarme pour vous informer du moment où il est temps de partir. Les options de configuration d'alarmes proviennent des calendriers de service sur le site Web de l'agence de transport en commun.

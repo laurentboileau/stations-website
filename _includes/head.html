@@ -1,0 +1,46 @@
+<head>
+    <meta charset="utf-8">
+    
+    {% if page.lang == 'en' %}
+        {% assign site_title = site.title %}
+        {% assign site_description = site.description %}
+        {% assign site_url = site.url %}
+    {% elsif page.lang == 'fr' %}
+        {% assign site_title = site.title_fr %}
+        {% assign site_description = site.description_fr %}
+        {% assign site_url = site.url_fr %}
+    {% endif %}
+    
+    <!-- Title -->
+    {% if page.title == "Home" or page.title == "Accueil" %} 
+        <title>{{ site_title }}: {{ site_description }}</title>
+    {% else %} 
+        <title>{{ site_title }}: {{ page.title }}</title>
+    {% endif %}
+    
+    <!-- Meta -->
+    {% if page.description %}
+        <meta name="description" content="{{ page.description | strip_html }}">
+    {% else %}
+        <meta name="description" content="{{ site_description | strip_html}}">
+    {% endif %}
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Social -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site_title | strip_html }}: {{ site_description | strip_html }}">
+    {% if page.description %}
+        <meta name="twitter:description" content="{{ page.description | strip_html }}">
+    {% endif %}
+    <meta name="twitter:url" content="{{ site_url }}">
+    <meta name="twitter:image" content="{{ "/assets/images/card.png" | relative_url }}">
+    <meta name="twitter:creator" content="{{ site.author.twitter }}">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+    <!-- Icons -->
+    <link rel="mask-icon" href="{{ "/assets/images/mask-icon.svg" | relative_url }}" color="#007AFF">
+    <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
+</head>

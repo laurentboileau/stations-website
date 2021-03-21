@@ -1,0 +1,16 @@
+<!-- Release Note -->
+<article class="release-note">
+    <!-- Header -->
+    <header>
+        <!-- Title -->
+        <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
+        
+        <!-- Date -->
+        <time datetime="{{ include.post.date | date_to_xmlschema }}">
+            {{ include.post.date | date: "%Y-%m-%d" }}
+        </time>
+    </header>
+
+    <!-- Content -->
+    {{ include.post.content }}
+</article>
