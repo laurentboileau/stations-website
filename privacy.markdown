@@ -2,10 +2,9 @@
 title: Privacy Policy
 lead: Your privacy is important
 layout: page
+lang: en
 permalink: /privacy/
 ---
-
-### Analytics
 
 You may choose to share analytics data with app developers. If you do, anonymous crash data and statistics about how you use the app will be shared with us. Otherwise, no information is shared.
 

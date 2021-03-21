@@ -7,5 +7,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML, CSS
+    Jekyll - https://jekyllrb.com
     GitHub Pages - https://pages.github.com

@@ -2,6 +2,7 @@
 title: Support
 lead: Get Support
 layout: page
+lang: en
 permalink: /support/
 ---
 

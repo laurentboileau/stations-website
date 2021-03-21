@@ -2,11 +2,17 @@
 layout: page
 ---
 
+{% if page.lang == 'en' %}
+    {% assign release-notes = site.release-notes %}
+{% elsif page.lang == 'fr' %}
+    {% assign release-notes = site.nouveautes %}
+{% endif %}
+
 <!-- Release notes -->
 <ol id="release-notes">
-    {% for entry in site.release-notes %}
+    {% for entry in release-notes %}
         <li>            
-            {% include en/release-note.html post=entry %}
+            {% include release-note.html post=entry %}
         </li>
     {% endfor %}
 </ol>

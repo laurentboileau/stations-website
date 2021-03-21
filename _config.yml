@@ -9,16 +9,29 @@ author:
   twitter: "@laurentboileau"
 
 site_nav_links:
-  - title: Release Notes
-    url: "/release-notes"
-  - title: Privacy Policy
-    url: "/privacy"
-  - title: Support
-    url: "/support"
+  en:
+    - title: Release Notes
+      url: "/release-notes"
+    - title: Privacy Policy
+      url: "/privacy"
+    - title: Support
+      url: "/support"
+  fr:
+    - title: Nouveautés
+      url: "/fr/nouveautes"
+    - title: Confidentialité
+      url: "/fr/confidentialite"
+    - title: Assistance
+      url: "/fr/assistance"
 
 collections:
   release-notes:
     output: true
+  nouveautes:
+    output: true
 
-plugins:
-  - jekyll-feed
+# i18n
+
+title_fr: Stations
+description_fr: Assistant personnel du métro de Montréal
+url_fr: https://stationsmontreal.app/fr/

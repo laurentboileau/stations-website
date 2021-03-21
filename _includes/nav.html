@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav id="site-nav">
     <ul>
-      {% for item in site.site_nav_links %}
+      {% for item in site.site_nav_links[page.lang] %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>

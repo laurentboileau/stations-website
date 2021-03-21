@@ -18,7 +18,7 @@
     --link-visited-color: #007aff;
 
     --main-header-icon-background: url("/assets/images/app-icon.svg") no-repeat 50% 50%;
-    --main-header-icon-border: none;
+    --main-header-icon-border: solid 1px #ccc;
     --main-header-info-link-color: #2d2d2d;
 
     --main-footer-color: #8a8a8a;
