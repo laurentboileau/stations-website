@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<!-- Release notes -->
+<ol id="release-notes">
+    {% for entry in site.release-notes %}
+        <li>            
+            {% include release-note.html post=entry %}
+        </li>
+    {% endfor %}
+</ol>

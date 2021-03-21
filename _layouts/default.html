@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+    {% include header.html %}
+    
+    <!-- Main -->
+    <main id="main" aria-label="Content">
+        <div class="inner">
+            {{ content }}
+        </div>
+        
+        {% include app-store.html %}
+    </main>
+    
+    {% include footer.html %}
+</body>
+</html>

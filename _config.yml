@@ -3,5 +3,22 @@ description: Personal Montreal metro assistant
 baseurl:
 url: https://stationsmontreal.app
 
+timezone: America/Toronto
+
+author:
+  twitter: "@laurentboileau"
+
+site_nav_links:
+  - title: Release Notes
+    url: "/release-notes"
+  - title: Privacy Policy
+    url: "/privacy"
+  - title: Support
+    url: "/support"
+
+collections:
+  release-notes:
+    output: true
+
 plugins:
   - jekyll-feed
