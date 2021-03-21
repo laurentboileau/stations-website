@@ -1,5 +1,23 @@
 {% if page.lang == 'en' %}
-    {% include en/header.html %}
+    {% assign url = "/" %}
+    {% assign title = site.title %}
+    {% assign description = site.description %}
 {% elsif page.lang == 'fr' %}
-    {% include fr/header.html %}
+    {% assign url = "/fr/" %}
+    {% assign title = site.title_fr %}
+    {% assign description = site.description_fr %}
 {% endif %}
+
+<!-- Header -->
+<header id="main-header">
+    <a id="main-header-icon" rel="author" href="{{ url | relative_url }}"></a>
+
+    <!-- Header info -->
+    <div id="main-header-info">
+        <!-- Title -->
+        <h1><a href="{{ url | relative_url }}">{{ title | escape }}</a></h1>
+
+        <!-- Description -->
+        <p>{{ description | escape }}</p>
+    </div>
+</header>
