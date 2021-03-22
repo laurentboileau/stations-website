@@ -34,13 +34,13 @@
         <meta name="twitter:description" content="{{ page.description | strip_html }}">
     {% endif %}
     <meta name="twitter:url" content="{{ site_url }}">
-    <meta name="twitter:image" content="{{ "/assets/images/card.png" | relative_url }}">
+    <meta name="twitter:image" content="{{ "/assets/images/card.png" | absolute_url }}">
     <meta name="twitter:creator" content="{{ site.author.twitter }}">
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
     <!-- Icons -->
-    <link rel="mask-icon" href="{{ "/assets/images/mask-icon.svg" | relative_url }}" color="#007AFF">
-    <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
+    <link rel="mask-icon" href="{{ "/assets/images/mask-icon.svg" | absolute_url }}" color="#007aff">
+    <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | absolute_url }}" type="image/png">
 </head>
