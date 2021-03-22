@@ -5,7 +5,7 @@ layout: release-note
 lang: en
 ---
 
-*Stations is your personal Montreal metro assistant.*
+**Stations is your personal Montreal metro assistant.**
 
 Browse metro stations and learn useful information about service locations and times. Enable the location feature to find the nearest stops.
 

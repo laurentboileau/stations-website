@@ -5,7 +5,7 @@ layout: release-note
 lang: fr
 ---
 
-*Stations est votre assistant personnel du métro de Montréal.*
+**Stations est votre assistant personnel du métro de Montréal.**
 
 Parcourez les stations de métro et apprenez des informations utiles sur les points et heures de service.
 
