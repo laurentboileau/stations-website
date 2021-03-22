@@ -12,7 +12,7 @@
     --body-background-color: white;
     --body-font: -apple-system, 'Helvetica Neue', sans-serif;
     --body-font-size: 16px;
-    --body-line-height: 1.6;
+    --body-line-height: 1.7;
 
     --link-color: #007aff;
     --link-visited-color: #007aff;
@@ -23,7 +23,8 @@
 
     --main-footer-color: #8a8a8a;
 
-    --inner-max-width: 750px;
+    --inner-regular-max-width: 500px;
+    --inner-large-max-width: 650px;
 
     --home-even-feature-background-color: #efefef;
 
@@ -207,7 +208,7 @@ time {
 }
 
 .inner {
-    max-width: var(--inner-max-width);
+    max-width: var(--inner-regular-max-width);
     margin: 0 auto;
 }
 
@@ -224,6 +225,10 @@ time {
 }
 
 @media all and (min-width: 720px) {
+    .inner {
+        max-width: var(--inner-large-max-width);
+    }
+    
     .download-button img {
         width: 200px;
     }
@@ -302,16 +307,15 @@ time {
 
 /* Release notes styles */
 
-#release-notes li {
-    display: block;
+#release-notes .release-note {
     margin: 0 0 2rem 0;
 }
 
-#release-notes li:last-child {
+#release-notes .release-note:last-child {
     margin: 0;
 }
 
-article.release-note header {
+.release-note header {
     display: flex;
     flex-direction: row;
     align-items: baseline;
@@ -319,12 +323,12 @@ article.release-note header {
     margin: 0 0 1.25rem 0;
 }
 
-article.release-note header h1 {
+.release-note header h1 {
     font-size: 2.5rem;
     margin: 0;
 }
 
-article.release-note header time {
+.release-note header time {
     margin-left: 0.8rem;
 }
 
