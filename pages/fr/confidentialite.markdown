@@ -6,7 +6,9 @@ lang: fr
 permalink: /fr/confidentialite/
 ---
 
-Vous pouvez choisir de partager des données d'utilisation avec les développeurs d'applications. Si vous le faites, des données de plantage anonymes et des statistiques sur la façon dont vous utilisez l'application nous seront partagées. Sinon, aucune information n'est partagée.
+Vous pouvez choisir de partager des données diagnostiques avec les développeurs d'applications. 
+
+Si vous le faites, des données de plantage anonymes et des statistiques sur la façon dont vous utilisez l'application nous seront partagées. Sinon, aucune information n'est partagée.
 
   > Pour aider les partenaires d’Apple et les développeurs tiers à améliorer leurs apps, produits et services conçus pour être utilisés avec des produits Apple, Apple peut fournir à ces partenaires ou développeurs un sous-ensemble d’informations d’analyse, correspondant à l’app, au produit ou au service d’un partenaire ou d’un développeur, ainsi que des statistiques sur l’utilisation de l’app de ce partenaire ou développeur, tant que les informations d’analyse et les statistiques sont agrégées ou sous une forme qui ne vous identifie pas personnellement.
   > 
@@ -20,7 +22,9 @@ Aucun autre outil d'analyse tiers ou SDK n'est utilisé pour suivre votre activi
 
 Vous pouvez choisir d'activer les services de localisation dans les paramètres de l'application.
 
-Lorsque cette option est activée, votre position est utilisée afin de localiser les stations de métro les plus proches. Ces informations ne quittent jamais votre appareil et ne sont pas partagées avec nous ou tout autre tiers.
+Lorsque cette option est activée, votre position est utilisée afin de localiser les stations de métro les plus proches. 
+
+Ces informations ne quittent jamais votre appareil et ne sont pas partagées avec nous ou tout autre tiers.
 
 ### Changements de politique
 
