@@ -43,6 +43,8 @@
     {% endif %}
     {% if page.image %}
     <meta name="twitter:image:src" content="{{ page.image | absolute_url }}">
+    {% else %}
+    <meta name="twitter:image:src" content="{{ "/assets/images/card.png" | absolute_url }}">
     {% endif %}
 
     <!-- Styles -->
