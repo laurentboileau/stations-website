@@ -4,9 +4,14 @@ layout: release-note
 lang: en
 ---
 
+**New:**
+
 - Added “Help” to settings screen.
 - Added “Rate Stations on the App Store” to settings screen.
 - Added basic state restoration support.
-- Bug Fix: Fixed french “App Website” and “Privacy Policy” links in the about screen.
-- Bug Fix: In some cases, the alarm time picker’s minimum value could allow for the previous minute.
-- Bug Fix: Errors displayed when creating or editing an alarm are no longer immediately dismissed.
+
+**Bug fixes:**
+
+- Fixed french “App Website” and “Privacy Policy” links in the about screen.
+- In some cases, the alarm time picker’s minimum value could allow for the previous minute.
+- Errors displayed when creating or editing an alarm are no longer immediately dismissed.

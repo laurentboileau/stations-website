@@ -4,9 +4,14 @@ layout: release-note
 lang: fr
 ---
 
+**Nouveau :**
+
 - Ajout «Aide» dans l’écran réglages.
 - Ajout «Noter Stations sur l’App Store» dans l’écran réglages.
 - Ajout d’un support de base pour la reprise d’activités.
-- Bogue : Correction des liens «Site web de l’app» et «Politique de confidentialité» dans l’écran à propos.
-- Bogue : Dans certains cas, la valeur minimale du sélecteur d’heure d’une alarme pouvait permettre la minute précédente.
-- Bogue : Les erreurs affichées lors de la création ou l’édition d’une alarme ne sont plus immédiatement retirées.
+
+**Corrections de bogues :**
+
+- Correction des liens «Site web de l’app» et «Politique de confidentialité» dans l’écran à propos.
+- Dans certains cas, la valeur minimale du sélecteur d’heure d’une alarme pouvait permettre la minute précédente.
+- Les erreurs affichées lors de la création ou l’édition d’une alarme ne sont plus immédiatement retirées.
