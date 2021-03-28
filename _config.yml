@@ -6,7 +6,8 @@ url: https://stationsmontreal.app
 timezone: America/Toronto
 
 author:
-  twitter: "@laurentboileau"
+  name: Laurent Boileau
+  twitter: laurentboileau
 
 site_nav_links:
   en:
