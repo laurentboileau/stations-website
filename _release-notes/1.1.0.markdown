@@ -1,0 +1,10 @@
+---
+title: Stations 1.1.0
+layout: release-note
+lang: en
+---
+
+- Added “Help” to settings screen.
+- Added “Rate Stations on the App Store” to settings screen.
+- Added basic state restoration.
+- Fixed french “App Website” and “Privacy Policy” links in the about screen.

@@ -1,0 +1,10 @@
+---
+title: Stations 1.1.0
+layout: release-note
+lang: fr
+---
+
+- Ajout «Aide» dans l’écran réglages.
+- Ajout «Noter Stations sur l’App Store» dans l’écran réglages.
+- Ajout de reprise d’activités de base.
+- Correction des liens «Site web de l’app» et «Politique de confidentialité» dans l’écran à propos.
