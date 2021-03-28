@@ -26,6 +26,9 @@ permalink: /support/
             <li><a href="#support-settings-default-alarm">Default alarm</a></li>
             <li><a href="#support-settings-location">Use location</a></li>
             <li><a href="#support-settings-icon">App Icon</a></li>
+            <li><a href="#support-settings-help">Help</a></li>
+            <li><a href="#support-settings-about">About Stations</a></li>
+            <li><a href="#support-settings-rate">Rate</a></li>
         </ol>
     </li>
 </ol>
@@ -163,3 +166,15 @@ permalink: /support/
 <p><strong>Tap</strong> one of the icons to choose your preferred app icon. Changing this setting will update the Stations app icon on your home screen.</p>
 
 <p>The current setting value has an orange border around it.</p>
+
+<h5 id="support-settings-help">Help</h5>
+
+<p>Opens this support document in your web browser.</p>
+
+<h5 id="support-settings-about">About Stations</h5>
+
+<p>Additional information about the app.</p>
+
+<h5 id="support-settings-rate">Rate</h5>
+
+<p>Leave a rating on the the App Store. Stations will never interrupt you for ratings.</p>
