@@ -2,26 +2,26 @@
     <meta charset="utf-8">
     
     {% if page.lang == 'en' %}
-        {% assign site_title = site.title %}
-        {% assign site_description = site.description %}
-        {% assign site_url = site.url %}
+    {% assign site_title = site.title %}
+    {% assign site_description = site.description %}
+    {% assign site_url = site.url %}
     {% elsif page.lang == 'fr' %}
-        {% assign site_title = site.title_fr %}
-        {% assign site_description = site.description_fr %}
-        {% assign site_url = site.url_fr %}
+    {% assign site_title = site.title_fr %}
+    {% assign site_description = site.description_fr %}
+    {% assign site_url = site.url_fr %}
     {% endif %}
     
     <!-- Title -->
     {% if page.title == "Home" or page.title == "Accueil" %} 
-        <title>{{ site_title }}: {{ site_description }}</title>
+    <title>{{ site_title }}: {{ site_description }}</title>
     {% else %} 
-        <title>{{ site_title }}: {{ page.title }}</title>
+    <title>{{ site_title }}: {{ page.title }}</title>
     {% endif %}
     
     <!-- Meta -->
     <meta name="author" content="{{ site.author.name }}">
     {% if page.description %}
-        <meta name="description" content="{{ page.description | strip_html }}">
+    <meta name="description" content="{{ page.description | strip_html }}">
     {% else %}
     <meta name="description" content="{{ site.description }}">
     {% endif %}
@@ -29,13 +29,21 @@
     
     <!-- Social -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ site_title | strip_html }}: {{ site_description | strip_html }}">
-    {% if page.description %}
-        <meta name="twitter:description" content="{{ page.description | strip_html }}">
-    {% endif %}
-    <meta name="twitter:url" content="{{ site_url }}">
-    <meta name="twitter:image" content="{{ "/assets/images/card.png" | absolute_url }}">
     <meta name="twitter:creator" content="{{ site.author.twitter }}">
+    <meta name="twitter:domain" content="{{ site.url }}">
+    {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+    {% else %}
+    <meta name="twitter:title" content="{{ site.title }}: {{ site.description }}">
+    {% endif %}
+    {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description | strip_html }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ site.title }}: {{ site.description }}">
+    {% endif %}
+    {% if page.image %}
+    <meta name="twitter:image:src" content="{{ page.image | absolute_url }}">
+    {% endif %}
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
