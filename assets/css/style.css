@@ -225,6 +225,10 @@ time {
 }
 
 @media all and (min-width: 720px) {
+    #main {
+        font-size: 1.15rem;
+    }
+
     .inner {
         max-width: var(--inner-large-max-width);
     }
@@ -330,6 +334,10 @@ time {
 
 .release-note header time {
     margin-left: 0.8rem;
+}
+
+.release-note ul {
+    margin: 0 0 1rem 1.25rem;
 }
 
 /* Privacy policy styles */
