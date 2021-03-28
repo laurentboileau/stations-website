@@ -10,7 +10,7 @@ layout: page
 
 <!-- Release notes -->
 <section id="release-notes">
-    {% for entry in release-notes %}
+    {% for entry in release-notes reversed %}
         {% include release-note.html post=entry %}
     {% endfor %}
 </ol>

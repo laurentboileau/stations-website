@@ -225,6 +225,10 @@ time {
 }
 
 @media all and (min-width: 720px) {
+    #main {
+        font-size: 1.15rem;
+    }
+
     .inner {
         max-width: var(--inner-large-max-width);
     }
@@ -316,20 +320,16 @@ time {
 }
 
 .release-note header {
-    display: flex;
-    flex-direction: row;
-    align-items: baseline;
-    justify-content: flex-start;
     margin: 0 0 1.25rem 0;
 }
 
 .release-note header h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin: 0;
 }
 
-.release-note header time {
-    margin-left: 0.8rem;
+.release-note ul {
+    margin: 0 0 1rem 1.25rem;
 }
 
 /* Privacy policy styles */

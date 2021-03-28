@@ -26,6 +26,9 @@ permalink: /fr/assistance/
             <li><a href="#support-settings-default-alarm">Alarme par défaut</a></li>
             <li><a href="#support-settings-location">Utiliser la localisation</a></li>
             <li><a href="#support-settings-icon">Icône de l’app</a></li>
+            <li><a href="#support-settings-help">Aide</a></li>
+            <li><a href="#support-settings-about">À propos de Stations</a></li>
+            <li><a href="#support-settings-rate">Noter</a></li>
         </ol>
     </li>
 </ol>
@@ -163,3 +166,15 @@ permalink: /fr/assistance/
 <p><strong>Appuyez</strong> sur l'une des icônes afin de choisir l'icône désirée. La modification de ce paramètre changera l'icône de l'application Stations sur votre écran d'accueil.</p>
 
 <p>L'icône sélectionnée est identifiée à l'aide d'une bordure orange.</p>
+
+<h5 id="support-settings-help">Aide</h5>
+
+<p>Ouvre ce document d'aide dans votre navigateur web.</p>
+
+<h5 id="support-settings-about">À propos de Stations</h5>
+
+<p>Informations additionnelles sur l'app.</p>
+
+<h5 id="support-settings-rate">Noter</h5>
+
+<p>Laissez une note sur l'App Store. Stations ne va jamais vous interrompre pour une note.</p>
