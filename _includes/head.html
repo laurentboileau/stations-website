@@ -1,23 +1,25 @@
 <head>
     <meta charset="utf-8">
-    
+
     {% if page.lang == 'en' %}
     {% assign site_title = site.title %}
     {% assign site_description = site.description %}
     {% assign site_url = site.url %}
+    {% assign social_card_url = "/assets/images/card.png" %}
     {% elsif page.lang == 'fr' %}
     {% assign site_title = site.title_fr %}
     {% assign site_description = site.description_fr %}
     {% assign site_url = site.url_fr %}
+    {% assign social_card_url = "/assets/images/card-fr.png" %}
     {% endif %}
-    
+
     <!-- Title -->
-    {% if page.title == "Home" or page.title == "Accueil" %} 
+    {% if page.title == "Home" or page.title == "Accueil" %}
     <title>{{ site_title }}: {{ site_description }}</title>
-    {% else %} 
+    {% else %}
     <title>{{ site_title }}: {{ page.title }}</title>
     {% endif %}
-    
+
     <!-- Meta -->
     <meta name="author" content="{{ site.author.name }}">
     {% if page.description %}
@@ -26,7 +28,7 @@
     <meta name="description" content="{{ site.description }}">
     {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <!-- Social -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="{{ site.author.twitter }}">
@@ -44,7 +46,7 @@
     {% if page.image %}
     <meta name="twitter:image:src" content="{{ page.image | absolute_url }}">
     {% else %}
-    <meta name="twitter:image:src" content="{{ "/assets/images/card.png" | absolute_url }}">
+    <meta name="twitter:image:src" content="{{ social_card_url | absolute_url }}">
     {% endif %}
 
     <!-- Styles -->
