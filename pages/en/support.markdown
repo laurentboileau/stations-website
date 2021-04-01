@@ -1,5 +1,6 @@
 ---
 title: Support
+description: Learn how to use the app.
 lead: Get Support
 layout: page
 lang: en

@@ -1,5 +1,6 @@
 ---
 title: Assistance
+description: Apprenez à utiliser l'application.
 lead: Obtenir de l'aide
 layout: page
 lang: fr

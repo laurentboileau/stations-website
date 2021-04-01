@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: How we respect your privacy.
 lead: Your privacy is important
 layout: page
 lang: en

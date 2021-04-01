@@ -1,5 +1,6 @@
 ---
 title: Politique de Confidentialité
+description: Comment nous respectons votre vie privée.
 lead: Votre confidentialité est importante
 layout: page
 lang: fr
