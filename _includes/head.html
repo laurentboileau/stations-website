@@ -14,7 +14,7 @@
     {% endif %}
 
     <!-- Title -->
-    {% if page.title == "Home" or page.title == "Accueil" %}
+    {% if page.root %}
     <title>{{ site_title }}: {{ site_description }}</title>
     {% else %}
     <title>{{ site_title }}: {{ page.title }}</title>
