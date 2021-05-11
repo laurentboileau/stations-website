@@ -38,12 +38,12 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-navigate.png" alt="Capture d'écran : onglet Stations sélectionné. Plusieurs arrêts de transport en commun sont répertoriés et triés par proximité.">
+        <img src="/assets/images/fr/support/iphone-stations.png" alt="Capture d'écran : onglet Stations sélectionné. Plusieurs arrêts de transport en commun sont répertoriés et triés par proximité.">
         <figcaption>Onglet Stations sélectionné. Plusieurs stations de métro sont répertoriées et triées par proximité.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-station-details.png" alt="Capture d'écran : Détails de la station Jean-Talon.">
+        <img src="/assets/images/fr/support/iphone-jean-talon.png" alt="Capture d'écran : Détails de la station Jean-Talon.">
         <figcaption>Détails de la station Jean-Talon.</figcaption>
     </div>
 </div>
@@ -58,7 +58,7 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-trips.png" alt="Capture d'écran : onglet alarmes sélectionné. Plusieurs alarmes configurées par l'utilisateur sont affichées.">
+        <img src="/assets/images/fr/support/iphone-alarms.png" alt="Capture d'écran : onglet alarmes sélectionné. Plusieurs alarmes configurées par l'utilisateur sont affichées.">
         <figcaption>Onglet Alarmes sélectionné. Plusieurs alarmes configurées par l'utilisateur sont affichées.</figcaption>
     </div>
 </div>
@@ -73,7 +73,7 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-new-alarm.png" alt="Capture d'écran : Création d'une nouvelle alarme.">
+        <img src="/assets/images/fr/support/iphone-new-alarm.png" alt="Capture d'écran : Création d'une nouvelle alarme.">
         <figcaption>Création d'une nouvelle alarme</figcaption>
     </div>
 </div>
@@ -90,12 +90,12 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-alarm-actions.png" alt="Capture d'écran : Les actions d'édition et de suppression d'alarme affichées.">
+        <img src="/assets/images/fr/support/iphone-alarm-swipe-actions.png" alt="Capture d'écran : Les actions d'édition et de suppression d'alarme affichées.">
         <figcaption>Actions d'alarme : Modifier et supprimer.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-edit-alarm.png" alt="Capture d'écran : Modification d'une alarme existante.">
+        <img src="/assets/images/fr/support/iphone-edit-alarm.png" alt="Capture d'écran : Modification d'une alarme existante.">
         <figcaption>Modification d'une alarme existante.</figcaption>
     </div>
 </div>
@@ -114,7 +114,7 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-notifications-prompt.png" alt="Capture d'écran : La demande d'autorisation de notifications s'affiche.">
+        <img src="/assets/images/fr/support/iphone-grant-notifications.png" alt="Capture d'écran : La demande d'autorisation de notifications s'affiche.">
         <figcaption>Accorder l'autorisation d'émettre des notifications.</figcaption>
     </div>
 </div>
@@ -123,13 +123,13 @@ permalink: /fr/assistance/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-notification.png" alt="Capture d'écran : Alarme sur l'écran de verrouillage.">
+        <img src="/assets/images/fr/support/iphone-notification.png" alt="Capture d'écran : Alarme sur l'écran de verrouillage.">
         <figcaption>Alarme sur l'écran de verrouillage.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-notification-actions.png" alt="Capture d'écran : Actions de l'alarme sur l'écran de verrouillage.">
-        <figcaption>Actions : Confirmer et Rappel d'alarme.</figcaption>
+        <img src="/assets/images/fr/support/iphone-notification-actions.png" alt="Capture d'écran : Actions de l'alarme sur l'écran de verrouillage.">
+        <figcaption>Actions : Confirmer, rappel d'alarme et itinéraires.</figcaption>
     </div>
 </div>
 
@@ -137,11 +137,13 @@ permalink: /fr/assistance/
 
 <p><em>Rappel d'alarme </em>: rejette temporairement la notification. Vous serez à nouveau informé dans neuf minutes.</p>
 
+<p><em>Itinéraires </em>: lance Plans et demande les itinéraires vers la station.</p>
+
 <h4 id="support-settings">Réglages</h4>
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-settings.png" alt="Capture d'écran : Réglages de l'application.">
+        <img src="/assets/images/fr/support/iphone-settings.png" alt="Capture d'écran : Réglages de l'application.">
         <figcaption>Réglages.</figcaption>
     </div>
 </div>

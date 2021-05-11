@@ -38,12 +38,12 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-navigate.png" alt="Screenshot: Stations tab selected. Multiple transit stops are listed and sorted by proximity.">
+        <img src="/assets/images/en/support/iphone-stations.png" alt="Screenshot: Stations tab selected. Multiple transit stops are listed and sorted by proximity.">
         <figcaption>Stations tab selected. Multiple metro stops are listed and sorted by proximity.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-station-details.png" alt="Screenshot: Jean-Talon station details.">
+        <img src="/assets/images/en/support/iphone-jean-talon.png" alt="Screenshot: Jean-Talon station details.">
         <figcaption>Jean-Talon station details.</figcaption>
     </div>
 </div>
@@ -58,14 +58,14 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-trips.png" alt="Screenshot: Alarms tab selected. Multiple user configured alarms are shown.">
+        <img src="/assets/images/en/support/iphone-alarms.png" alt="Screenshot: Alarms tab selected. Multiple user configured alarms are shown.">
         <figcaption>Alarms tab selected. Multiple user configured alarms are shown.</figcaption>
     </div>
 </div>
 
 <p>The <em>alarms</em> tab displays user configured alarms.</p>
 
-<p>You can schedule alarms for a given service stop and time. Alarms are delivered by <a href="#support-alarms-notifications">notification</a>.</p>
+<p>You can schedule alarms for a given stop and time. Alarms are delivered by <a href="#support-alarms-notifications">notification</a>.</p>
 
 <h5 id="support-alarms-create">Create an alarm</h5>
 
@@ -73,12 +73,12 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-new-alarm.png" alt="Screenshot: Creating a new alarm.">
+        <img src="/assets/images/en/support/iphone-new-alarm.png" alt="Screenshot: Creating a new alarm.">
         <figcaption>Creating a new alarm</figcaption>
     </div>
 </div>
 
-<p>An alarm is configured for a given <em>service stop and time</em>. You choose the stop by specifying its station (and optionally the route and direction). <strong>Tap</strong> each row to select your choices.</p>
+<p>An alarm is configured for a given <em>stop and time</em>. You choose the stop by specifying its station (and optionally the route and direction). <strong>Tap</strong> each row to select your choices.</p>
 
 <p>The alarm time picker lets you choose the time when you want to be notified.</p>
 
@@ -90,12 +90,12 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-alarm-actions.png" alt="Screenshot: Alarm edit and delete actions shown.">
+        <img src="/assets/images/en/support/iphone-alarm-swipe-actions.png" alt="Screenshot: Alarm edit and delete actions shown.">
         <figcaption>Alarm actions: Edit and Delete.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-edit-alarm.png" alt="Screenshot: Editing an existing alarm.">
+        <img src="/assets/images/en/support/iphone-edit-alarm.png" alt="Screenshot: Editing an existing alarm.">
         <figcaption>Editing an existing alarm.</figcaption>
     </div>
 </div>
@@ -114,7 +114,7 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-notifications-prompt.png" alt="Screenshot: Notification permission prompt shown.">
+        <img src="/assets/images/en/support/iphone-grant-notifications.png" alt="Screenshot: Notification permission prompt shown.">
         <figcaption>Granting notification access.</figcaption>
     </div>
 </div>
@@ -123,13 +123,13 @@ permalink: /support/
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-notification.png" alt="Screenshot: Alarm notification on the lock screen.">
+        <img src="/assets/images/en/support/iphone-notification.png" alt="Screenshot: Alarm notification on the lock screen.">
         <figcaption>Alarm notification.</figcaption>
     </div>
     
     <div>
-        <img src="/assets/images/iphone-notification-actions.png" alt="Screenshot: Alarm notification actions on the lock screen.">
-        <figcaption>Actions: acknowledge and snooze.</figcaption>
+        <img src="/assets/images/en/support/iphone-notification-actions.png" alt="Screenshot: Alarm notification actions on the lock screen.">
+        <figcaption>Actions: acknowledge, snooze and directions.</figcaption>
     </div>
 </div>
 
@@ -137,11 +137,13 @@ permalink: /support/
 
 <p><em>Snooze</em>: Temporarily dismisses the notification. You will be notified again in nine minutes.</p>
 
+<p><em>Directions</em>: Launches Maps and requests travel directions to the station.</p>
+
 <h4 id="support-settings">Settings</h4>
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/iphone-settings.png" alt="Screenshot: App settings shown.">
+        <img src="/assets/images/en/support/iphone-settings.png" alt="Screenshot: App settings shown.">
         <figcaption>Settings.</figcaption>
     </div>
 </div>

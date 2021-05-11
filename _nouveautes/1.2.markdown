@@ -1,0 +1,21 @@
+---
+title: Stations 1.2
+date: 2021-05-11 17:00:00 -0400
+layout: release-note
+lang: fr
+---
+
+**Nouveau :**
+
+- Les notifications contiennent maintenant des informations sur le déplacement et le service.
+- Les notifications ont maintenant une vue de détail qui affiche l’emplacement de la station sur une carte.
+- Les notifications proposent maintenant une action «Itinéraires» qui lance l'application Plans avec les itinéraires vers la station.
+- «Nouvelle alarme» est maintenant disponible à la fois comme action rapide et comme raccourci.
+- Les arrêts apparaissent maintenant dans Spotlight.
+- Reprise d’activité pour les écrans «détails d’une station» et «nouvelle alarme».
+- Changements mineurs sur l’écran «détails d’une station».
+- Changements mineurs sur l’écran «nouvelle alarme».
+
+**Corrections de bogues :**
+
+- L’application pouvait planter lors de la reprise de l’activité «afficher alarmes».
