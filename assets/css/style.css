@@ -109,7 +109,7 @@ blockquote {
 }
 
 li {
-    list-style-position: inside;
+    list-style-position: outside;
 }
 
 figcaption {
@@ -329,7 +329,7 @@ time {
 }
 
 .release-note ul {
-    margin: 0 0 1rem 1.25rem;
+    margin: 0 0 1rem 2.5rem;
 }
 
 /* Privacy policy styles */
@@ -341,7 +341,7 @@ time {
 /* Support styles */
 
 #support-table-of-contents {
-    margin: 1rem 0;
+    margin: 1rem 0 0 1.15rem;
 }
 
 #support-table-of-contents li {
