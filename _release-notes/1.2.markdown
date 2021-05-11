@@ -1,0 +1,21 @@
+---
+title: Stations 1.2
+date: 2021-05-11 17:00:00 -0400
+layout: release-note
+lang: en
+---
+
+**New:**
+
+- Notifications now include trip and service information.
+- Notifications now have a detail view which displays the station’s location on a map.
+- Notifications now offer a “Directions” action which launches the Maps app with directions to the station.
+- “New alarm” is now available as both a quick action and a shortcut.
+- Stops now appear in Spotlight.
+- State restoration for “station details” and “new alarm” screens.
+- Minor changes to the “station details” screen.
+- Minor changes to the “new alarm” screen.
+
+**Bug fixes:**
+
+- Application could crash when restoring the “show alarms” activity.
