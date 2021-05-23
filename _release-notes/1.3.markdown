@@ -1,0 +1,11 @@
+---
+title: Stations 1.3
+date: 2021-05-24 08:00:00 -0400
+layout: release-note
+lang: en
+---
+
+**New:**
+
+- Planned transit service interruptions. Schedules can now be shown as “Not in service”. In that case, it's not possible to create new alarms for that particular schedule.
+- Station lists now have a search field.

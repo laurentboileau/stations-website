@@ -1,0 +1,11 @@
+---
+title: Stations 1.3
+date: 2021-05-24 08:00:00 -0400
+layout: release-note
+lang: fr
+---
+
+**Nouveau :**
+
+- Interruptions de service planifiées. Les horaires peuvent désormais être affichés comme étant «Pas en service». Dans ce cas, il n'est pas possible de créer de nouvelles alarmes pour cet horaire.
+- Les listes de stations contiennent maintenant un champ de recherche.
