@@ -12,6 +12,9 @@ permalink: /fr/assistance/
 <ol id="support-table-of-contents" class="table-of-contents">
     <li>
         <a href="#support-stations">Stations</a>
+        <ol>
+            <li><a href="#support-stations-search">Rechercher</a></li>
+        </ol>
     </li>
     <li>
         <a href="#support-alarms">Alarmes</a>
@@ -53,6 +56,31 @@ permalink: /fr/assistance/
 <p>Par défaut, les arrêts sont regroupés par leurs routes. Sinon, les arrêts sont triés par proximité si le <a href="#support-settings-location">réglage de localisation</a> est activé.</p>
 
 <p><em>Voir les détails de la station : </em><strong>Appuyez</strong> sur un arrêt.</p>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/fr/support/iphone-not-in-service.png" alt="Capture d'écran : Détails de la station Verdun où l'horaire du dimanche n'est pas en service.">
+        <figcaption>Détails de la station Verdun où l'horaire du dimanche n'est pas en service.</figcaption>
+    </div>
+</div>
+
+<p>Les horaires peuvent être affichés comme étant «Pas en service». Dans ce cas, il n'est pas possible de créer de nouvelles alarmes pour cet horaire.</p>
+
+<h5 id="support-stations-search">Rechercher</h5>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/fr/support/iphone-stations-search.png" alt="Capture d'écran : Le champ «Rechercher» est affiché.">
+        <figcaption>Le champ «Rechercher» est affiché.</figcaption>
+    </div>
+    
+    <div>
+        <img src="/assets/images/fr/support/iphone-stations-search-results.png" alt="Capture d'écran : Les résultats de la recherche sont affichés sous le champs de recherche.">
+        <figcaption>Les résultats de la recherche sont affichés sous le champs «Rechercher».</figcaption>
+    </div>
+</div>
+
+<p><em>Rechercher :</em> <strong>Balayez vers le bas</strong> depuis le haut de la liste pour afficher le champ «Rechercher».</p>
 
 <h4 id="support-alarms">Alarmes</h4>
 

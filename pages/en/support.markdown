@@ -12,6 +12,9 @@ permalink: /support/
 <ol id="support-table-of-contents" class="table-of-contents">
     <li>
         <a href="#support-stations">Stations</a>
+        <ol>
+            <li><a href="#support-stations-search">Search</a></li>
+        </ol>
     </li>
     <li>
         <a href="#support-alarms">Alarms</a>
@@ -53,6 +56,31 @@ permalink: /support/
 <p>By default stops are grouped by their transit lines. Otherwise, stops are sorted by proximity if the <a href="#support-settings-location">location setting</a> is enabled.</p>
 
 <p><em>View station details:</em> <strong>Tap</strong> a stop.</p>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/en/support/iphone-not-in-service.png" alt="Screenshot: Verdun station details where the Sunday schedule is not in service.">
+        <figcaption>Verdun station details where the Sunday schedule is not in service.</figcaption>
+    </div>
+</div>
+
+<p>Schedules can be shown as “Not in service”. In that case, it's not possible to create new alarms for that particular schedule.</p>
+
+<h5 id="support-stations-search">Search</h5>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/en/support/iphone-stations-search.png" alt="Screenshot: Search field shown.">
+        <figcaption>Search field shown.</figcaption>
+    </div>
+    
+    <div>
+        <img src="/assets/images/en/support/iphone-stations-search-results.png" alt="Screenshot: Search results appear below the search field.">
+        <figcaption>Search results appear below the search field.</figcaption>
+    </div>
+</div>
+
+<p><em>Search:</em> <strong>Swipe down</strong> from the top of the list to bring up the search field.</p>
 
 <h4 id="support-alarms">Alarms</h4>
 
