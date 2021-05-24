@@ -12,6 +12,9 @@ permalink: /support/
 <ol id="support-table-of-contents" class="table-of-contents">
     <li>
         <a href="#support-stations">Stations</a>
+        <ol>
+            <li><a href="#support-stations-search">Search</a></li>
+        </ol>
     </li>
     <li>
         <a href="#support-alarms">Alarms</a>
@@ -50,20 +53,45 @@ permalink: /support/
 
 <p>The <em>stations</em> tab displays metro stops.</p>
 
-<p>By default stops are grouped by their transit lines. Otherwise, stops are sorted by proximity if the <a href="#support-settings-location">location setting</a> is enabled.</p>
+<p>By default, stops are grouped by their transit lines. Otherwise, stops are sorted by proximity if the <a href="#support-settings-location">location setting</a> is enabled.</p>
 
 <p><em>View station details:</em> <strong>Tap</strong> a stop.</p>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/en/support/iphone-not-in-service.png" alt="Screenshot: Verdun station details where the Sunday schedule is not in service.">
+        <figcaption>Verdun station details where the Sunday schedule is not in service.</figcaption>
+    </div>
+</div>
+
+<p>Schedules can be shown as “Not in service”. In that case, it's not possible to create new alarms for that particular schedule.</p>
+
+<h5 id="support-stations-search">Search</h5>
+
+<div class="support-screenshots">
+    <div>
+        <img src="/assets/images/en/support/iphone-stations-search.png" alt="Screenshot: The search field is shown.">
+        <figcaption>The search field is shown.</figcaption>
+    </div>
+    
+    <div>
+        <img src="/assets/images/en/support/iphone-stations-search-results.png" alt="Screenshot: Search results appear below the search field.">
+        <figcaption>Search results appear below the search field.</figcaption>
+    </div>
+</div>
+
+<p><em>Search:</em> <strong>Swipe down</strong> from the top of the list to bring up the search field.</p>
 
 <h4 id="support-alarms">Alarms</h4>
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/en/support/iphone-alarms.png" alt="Screenshot: Alarms tab selected. Multiple user configured alarms are shown.">
-        <figcaption>Alarms tab selected. Multiple user configured alarms are shown.</figcaption>
+        <img src="/assets/images/en/support/iphone-alarms.png" alt="Screenshot: Alarms tab selected. Multiple alarms are shown.">
+        <figcaption>Alarms tab selected. Multiple alarms are shown.</figcaption>
     </div>
 </div>
 
-<p>The <em>alarms</em> tab displays user configured alarms.</p>
+<p>The <em>alarms</em> tab displays scheduled alarms.</p>
 
 <p>You can schedule alarms for a given stop and time. Alarms are delivered by <a href="#support-alarms-notifications">notification</a>.</p>
 
@@ -104,13 +132,13 @@ permalink: /support/
 
 <p><em>Edit an alarm:</em> You may edit an alarm if it hasn't already occurred. Otherwise, you may only delete it.</p>
 
-<p><em>Delete an alarm:</em> You may delete alarms individually. You can also <strong>pull down</strong> on the alarms list to clear alarms that have already occurred.</p>
+<p><em>Delete an alarm:</em> You may delete alarms individually. You can also <strong>pull down</strong> the alarms list to clear alarms that have already occurred.</p>
 
 <h5 id="support-alarms-notifications">Notifications</h5>
 
 <p>Alarms are delivered by <em>notifications</em> at your chosen time.</p>
             
-<p>You will be asked to grant Stations the permission to send you notifications after you've created your first alarm. <strong>You are strongly advised to allow them otherwise they will occur silently.</strong></p>
+<p>You will be asked to grant Stations permission to send you notifications after you've created your first alarm. <strong>You are strongly advised to allow them otherwise they will occur silently.</strong></p>
 
 <div class="support-screenshots">
     <div>
@@ -166,9 +194,9 @@ permalink: /support/
 
 <h5 id="support-settings-icon">App icon</h5>
 
-<p><strong>Tap</strong> one of the icons to choose your preferred app icon. Changing this setting will update the Stations app icon on your home screen.</p>
+<p><strong>Tap</strong> an icon to choose your preference. Changing this setting will update the Stations app icon on your home screen.</p>
 
-<p>The current setting value has an orange border around it.</p>
+<p>The orange border indicates the current app icon.</p>
 
 <h5 id="support-settings-help">Help</h5>
 
