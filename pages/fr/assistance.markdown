@@ -51,7 +51,7 @@ permalink: /fr/assistance/
     </div>
 </div>
 
-<p>L'onglet <em>stations </em>affiche les stations de métro.</p>
+<p>L'onglet <em>stations</em> affiche les stations de métro.</p>
 
 <p>Par défaut, les arrêts sont regroupés par leurs routes. Sinon, les arrêts sont triés par proximité si le <a href="#support-settings-location">réglage de localisation</a> est activé.</p>
 
@@ -80,18 +80,18 @@ permalink: /fr/assistance/
     </div>
 </div>
 
-<p><em>Rechercher :</em> <strong>Balayez vers le bas</strong> depuis le haut de la liste pour afficher le champ «Rechercher».</p>
+<p><em>Rechercher : </em><strong>Balayez vers le bas</strong> depuis le haut de la liste pour afficher le champ «Rechercher».</p>
 
 <h4 id="support-alarms">Alarmes</h4>
 
 <div class="support-screenshots">
     <div>
-        <img src="/assets/images/fr/support/iphone-alarms.png" alt="Capture d'écran : onglet alarmes sélectionné. Plusieurs alarmes configurées par l'utilisateur sont affichées.">
-        <figcaption>Onglet Alarmes sélectionné. Plusieurs alarmes configurées par l'utilisateur sont affichées.</figcaption>
+        <img src="/assets/images/fr/support/iphone-alarms.png" alt="Capture d'écran : onglet alarmes sélectionné. Plusieurs alarmes sont affichées.">
+        <figcaption>Onglet Alarmes sélectionné. Plusieurs alarmes sont affichées.</figcaption>
     </div>
 </div>
 
-<p>L'onglet <em>alarmes</em> affiche les alarmes configurées par l'utilisateur.</p>
+<p>L'onglet <em>alarmes</em> affiche les alarmes configurées.</p>
 
 <p>Vous pouvez planifier des alarmes pour un arrêt et une heure de service choisis. Les alarmes sont délivrées par <a href="#support-alarms-notifications">notification</a>.</p>
 
@@ -132,13 +132,13 @@ permalink: /fr/assistance/
 
 <p><em>Modifier une alarme : </em>Vous pouvez modifier une alarme tant qu'elle ne s'est pas déjà produite. Sinon, vous ne pouvez que la supprimer.</p>
 
-<p><em>Supprimer une alarme : </em>Vous pouvez supprimer des alarmes individuelles. Vous pouvez également <strong>tirer vers le bas </strong>sur la liste des alarmes pour effacer les alarmes qui se sont déjà produites.</p>
+<p><em>Supprimer une alarme : </em>Vous pouvez supprimer des alarmes individuelles. Vous pouvez également <strong>tirer la liste des alarmes vers le bas</strong> pour effacer les alarmes qui se sont déjà produites.</p>
 
 <h5 id="support-alarms-notifications">Notifications</h5>
 
-<p>Les alarmes sont délivrées par <em>notifications </em>à l'heure de votre choix.</p>
+<p>Les alarmes sont délivrées par <em>notifications</em> à l'heure de votre choix.</p>
             
-<p>Il vous sera demandé d'accorder à Stations l'autorisation de vous envoyer des notifications après avoir créé votre première alarme. <strong>Il est fortement conseillé d'accepter sinon les alarmes seront silencieuses.</strong></p>
+<p>Il vous sera demandé d'accorder à Stations l'autorisation de vous envoyer des notifications après avoir créé votre première alarme. <strong>Il est fortement conseillé d'accepter autrement les alarmes seront silencieuses.</strong></p>
 
 <div class="support-screenshots">
     <div>
@@ -161,11 +161,11 @@ permalink: /fr/assistance/
     </div>
 </div>
 
-<p><em>Confirmer </em>: rejette la notification et la marque comme lue.</p>
+<p><em>Confirmer : </em>rejette la notification et la marque comme lue.</p>
 
-<p><em>Rappel d'alarme </em>: rejette temporairement la notification. Vous serez à nouveau informé dans neuf minutes.</p>
+<p><em>Rappel d'alarme : </em>rejette temporairement la notification. Vous serez à nouveau informé dans neuf minutes.</p>
 
-<p><em>Itinéraires </em>: lance Plans et demande les itinéraires vers la station.</p>
+<p><em>Itinéraires : </em>lance Plans et demande les itinéraires vers la station.</p>
 
 <h4 id="support-settings">Réglages</h4>
 
@@ -194,9 +194,9 @@ permalink: /fr/assistance/
 
 <h5 id="support-settings-icon">Icône de l’app</h5>
 
-<p><strong>Appuyez</strong> sur l'une des icônes afin de choisir l'icône désirée. La modification de ce paramètre changera l'icône de l'application Stations sur votre écran d'accueil.</p>
+<p><strong>Appuyez</strong> sur une icône pour choisir votre préférence. La modification de ce paramètre changera l'icône de l'application Stations sur votre écran d'accueil.</p>
 
-<p>L'icône sélectionnée est identifiée à l'aide d'une bordure orange.</p>
+<p>La bordure orange indique l'icône actuelle de l'application.</p>
 
 <h5 id="support-settings-help">Aide</h5>
 
@@ -208,4 +208,4 @@ permalink: /fr/assistance/
 
 <h5 id="support-settings-rate">Noter</h5>
 
-<p>Laissez une note sur l'App Store. Stations ne va jamais vous interrompre pour une note.</p>
+<p>Laissez une note sur l'App Store. Stations ne vous interrompra jamais pour une note.</p>
