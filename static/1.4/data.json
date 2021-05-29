@@ -2236,18 +2236,9 @@
       "stop_id": 27,
       "direction_id": 0,
       "times": {
-        "week": [
-          "05:30",
-          "00:30"
-        ],
-        "saturday": [
-          "05:30",
-          "01:00"
-        ],
-        "sunday": [
-          "05:30",
-          "00:30"
-        ]
+        "week": [],
+        "saturday": [],
+        "sunday": []
       }
     },
     {
@@ -3782,7 +3773,7 @@
     }
   ],
   "metadata": {
-    "created": "2021-05-23T18:01:47Z",
+    "created": "2021-05-29T05:15:00Z",
     "origin": "downloaded"
   }
 }
