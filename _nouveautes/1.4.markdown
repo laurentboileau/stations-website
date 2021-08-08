@@ -1,0 +1,15 @@
+---
+title: Stations 1.4
+date: 2021-08-08 08:00:00 -0400
+layout: release-note
+lang: fr
+---
+
+**Nouveau :**
+
+- Support pour iPad.
+- Widget d’alarm: voyez votre prochaine alarme sur votre écran d'accueil.
+- «Nouvelle Alarme» et «Ouvrir dans Plans» sont maintenant disponibles dans l’écran de détail d’une station.
+- La liste des stations affiche maintenant un menu lorsque vous touchez et maintenez le doigt sur une station.
+- Ajustements de l’interface utilisateur.
+- Stations nécessite maintenant iOS 14.
