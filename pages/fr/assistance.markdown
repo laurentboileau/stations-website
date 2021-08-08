@@ -194,9 +194,7 @@ permalink: /fr/assistance/
 
 <h5 id="support-settings-icon">Icône de l’app</h5>
 
-<p><strong>Appuyez</strong> sur une icône pour choisir votre préférence. La modification de ce paramètre changera l'icône de l'application Stations sur votre écran d'accueil.</p>
-
-<p>La bordure orange indique l'icône actuelle de l'application.</p>
+<p><strong>Appuyez</strong> pour choisir votre préférence. La modification de ce paramètre changera l'icône de l'application Stations sur votre écran d'accueil.</p>
 
 <h5 id="support-settings-help">Aide</h5>
 

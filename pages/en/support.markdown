@@ -194,9 +194,7 @@ permalink: /support/
 
 <h5 id="support-settings-icon">App icon</h5>
 
-<p><strong>Tap</strong> an icon to choose your preference. Changing this setting will update the Stations app icon on your home screen.</p>
-
-<p>The orange border indicates the current app icon.</p>
+<p><strong>Tap</strong> to choose your icon preference. Changing this setting will update the Stations app icon on your home screen.</p>
 
 <h5 id="support-settings-help">Help</h5>
 
