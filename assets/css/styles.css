@@ -244,6 +244,10 @@ time {
     padding: 0 20px 40px;
 }
 
+#features .feature-wide {
+    width: 100%;
+}
+
 @media (min-width: 768px) {
     #features .feature {
         margin: 200px 0;
