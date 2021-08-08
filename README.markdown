@@ -17,6 +17,10 @@ Install other dependencies:
 
 ## Commands
 
+### Update dependencies:
+
+    bundle update
+
 ### Build:
 
     bundle exec jekyll build
