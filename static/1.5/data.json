@@ -1,0 +1,3779 @@
+{
+  "agency": {
+    "agency_id": "STM",
+    "agency_name": "Société de transport de Montréal",
+    "agency_timezone": "America/Montreal",
+    "agency_url": "http://www.stm.info/en",
+    "agency_url_french": "http://www.stm.info/",
+    "agency_fare_url": "http://www.stm.info/en/info/fares",
+    "agency_fare_url_french": "http://www.stm.info/fr/infos/titres-et-tarifs",
+    "agency_center": {
+      "latitude": 45.52152,
+      "longitude": -73.62228
+    },
+    "agency_span": {
+      "latitudeDelta": 0.15011,
+      "longitudeDelta": 0.20036
+    }
+  },
+  "routes": [
+    {
+      "route_id": 0,
+      "route_name": "Green",
+      "route_name_french": "Verte",
+      "route_url": "http://www.stm.info/en/info/networks/metro/green",
+      "route_url_french": "http://www.stm.info/fr/infos/reseaux/metro/verte",
+      "route_color": "route_green"
+    },
+    {
+      "route_id": 1,
+      "route_name": "Orange",
+      "route_name_french": "Orange",
+      "route_url": "http://www.stm.info/en/info/networks/metro/orange",
+      "route_url_french": "http://www.stm.info/fr/infos/reseaux/metro/orange",
+      "route_color": "route_orange"
+    },
+    {
+      "route_id": 2,
+      "route_name": "Yellow",
+      "route_name_french": "Jaune",
+      "route_url": "http://www.stm.info/en/info/networks/metro/yellow",
+      "route_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jaune",
+      "route_color": "route_yellow"
+    },
+    {
+      "route_id": 3,
+      "route_name": "Blue",
+      "route_name_french": "Bleue",
+      "route_url": "http://www.stm.info/en/info/networks/metro/blue",
+      "route_url_french": "http://www.stm.info/fr/infos/reseaux/metro/bleue",
+      "route_color": "route_blue"
+    }
+  ],
+  "stations": [
+    {
+      "station_id": 0,
+      "station_name": "Angrignon",
+      "station_coordinate": {
+        "latitude": 45.446145,
+        "longitude": -73.603662
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/angrignon",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/angrignon"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Monk",
+      "station_coordinate": {
+        "latitude": 45.451096,
+        "longitude": -73.593549
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/monk",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/monk"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Jolicoeur",
+      "station_coordinate": {
+        "latitude": 45.45704,
+        "longitude": -73.581959
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/jolicoeur",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jolicoeur"
+    },
+    {
+      "station_id": 3,
+      "station_name": "Verdun",
+      "station_coordinate": {
+        "latitude": 45.45951,
+        "longitude": -73.573319
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/verdun",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/verdun"
+    },
+    {
+      "station_id": 4,
+      "station_name": "De l’Église",
+      "station_coordinate": {
+        "latitude": 45.462436,
+        "longitude": -73.567062
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/de-l-eglise",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-l-eglise"
+    },
+    {
+      "station_id": 5,
+      "station_name": "LaSalle",
+      "station_coordinate": {
+        "latitude": 45.471187,
+        "longitude": -73.566247
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/lasalle",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lasalle"
+    },
+    {
+      "station_id": 6,
+      "station_name": "Charlevoix",
+      "station_coordinate": {
+        "latitude": 45.47847,
+        "longitude": -73.569382
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/charlevoix",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/charlevoix"
+    },
+    {
+      "station_id": 7,
+      "station_name": "Lionel-Groulx",
+      "station_coordinate": {
+        "latitude": 45.482292,
+        "longitude": -73.580268
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/lionel-groulx",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lionel-groulx"
+    },
+    {
+      "station_id": 8,
+      "station_name": "Atwater",
+      "station_coordinate": {
+        "latitude": 45.489373,
+        "longitude": -73.586666
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/atwater",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/atwater"
+    },
+    {
+      "station_id": 9,
+      "station_name": "Guy-Concordia",
+      "station_coordinate": {
+        "latitude": 45.495165,
+        "longitude": -73.579859
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/guy-concordia",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/guy-concordia"
+    },
+    {
+      "station_id": 10,
+      "station_name": "Peel",
+      "station_coordinate": {
+        "latitude": 45.501135,
+        "longitude": -73.574473
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/peel",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/peel"
+    },
+    {
+      "station_id": 11,
+      "station_name": "McGill",
+      "station_coordinate": {
+        "latitude": 45.504076,
+        "longitude": -73.571571
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/mcgill",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/mcgill"
+    },
+    {
+      "station_id": 12,
+      "station_name": "Place-des-Arts",
+      "station_coordinate": {
+        "latitude": 45.508241,
+        "longitude": -73.568455
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/place-des-arts",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-des-arts"
+    },
+    {
+      "station_id": 13,
+      "station_name": "Saint-Laurent",
+      "station_coordinate": {
+        "latitude": 45.511549,
+        "longitude": -73.564459
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/saint-laurent",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/saint-laurent"
+    },
+    {
+      "station_id": 14,
+      "station_name": "Berri-UQAM",
+      "station_coordinate": {
+        "latitude": 45.515587,
+        "longitude": -73.56082
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/berri-uqam",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/berri-uqam"
+    },
+    {
+      "station_id": 15,
+      "station_name": "Beaudry",
+      "station_coordinate": {
+        "latitude": 45.519482,
+        "longitude": -73.557314
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/beaudry",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/beaudry"
+    },
+    {
+      "station_id": 16,
+      "station_name": "Papineau",
+      "station_coordinate": {
+        "latitude": 45.524126,
+        "longitude": -73.552966
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/papineau",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/papineau"
+    },
+    {
+      "station_id": 17,
+      "station_name": "Frontenac",
+      "station_coordinate": {
+        "latitude": 45.533407,
+        "longitude": -73.551935
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/frontenac",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/frontenac"
+    },
+    {
+      "station_id": 18,
+      "station_name": "Préfontaine",
+      "station_coordinate": {
+        "latitude": 45.541906,
+        "longitude": -73.554074
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/prefontaine",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/prefontaine"
+    },
+    {
+      "station_id": 19,
+      "station_name": "Joliette",
+      "station_coordinate": {
+        "latitude": 45.546962,
+        "longitude": -73.551339
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/joliette",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/joliette"
+    },
+    {
+      "station_id": 20,
+      "station_name": "Pie-IX",
+      "station_coordinate": {
+        "latitude": 45.554369,
+        "longitude": -73.551419
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/pie-ix",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/pie-ix"
+    },
+    {
+      "station_id": 21,
+      "station_name": "Viau",
+      "station_coordinate": {
+        "latitude": 45.560702,
+        "longitude": -73.547562
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/viau",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/viau"
+    },
+    {
+      "station_id": 22,
+      "station_name": "Assomption",
+      "station_coordinate": {
+        "latitude": 45.569187,
+        "longitude": -73.547609
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/assomption",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/assomption"
+    },
+    {
+      "station_id": 23,
+      "station_name": "Cadillac",
+      "station_coordinate": {
+        "latitude": 45.57687,
+        "longitude": -73.546702
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cadillac",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cadillac"
+    },
+    {
+      "station_id": 24,
+      "station_name": "Langelier",
+      "station_coordinate": {
+        "latitude": 45.582698,
+        "longitude": -73.543193
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/langelier",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/langelier"
+    },
+    {
+      "station_id": 25,
+      "station_name": "Radisson",
+      "station_coordinate": {
+        "latitude": 45.589435,
+        "longitude": -73.539218
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/radisson",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/radisson"
+    },
+    {
+      "station_id": 26,
+      "station_name": "Honoré-Beaugrand",
+      "station_coordinate": {
+        "latitude": 45.59672,
+        "longitude": -73.535281
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/honore-beaugrand",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/honore-beaugrand"
+    },
+    {
+      "station_id": 27,
+      "station_name": "Côte-Vertu",
+      "station_coordinate": {
+        "latitude": 45.514224,
+        "longitude": -73.682774
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cote-vertu",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-vertu"
+    },
+    {
+      "station_id": 28,
+      "station_name": "Du Collège",
+      "station_coordinate": {
+        "latitude": 45.508789,
+        "longitude": -73.674022
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/du-college",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/du-college"
+    },
+    {
+      "station_id": 29,
+      "station_name": "De la Savane",
+      "station_coordinate": {
+        "latitude": 45.499919,
+        "longitude": -73.661083
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/de-la-savane",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-la-savane"
+    },
+    {
+      "station_id": 30,
+      "station_name": "Namur",
+      "station_coordinate": {
+        "latitude": 45.494951,
+        "longitude": -73.65294
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/namur",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/namur"
+    },
+    {
+      "station_id": 31,
+      "station_name": "Plamondon",
+      "station_coordinate": {
+        "latitude": 45.495083,
+        "longitude": -73.639275
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/plamondon",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/plamondon"
+    },
+    {
+      "station_id": 32,
+      "station_name": "Côte-Sainte-Catherine",
+      "station_coordinate": {
+        "latitude": 45.492249,
+        "longitude": -73.632868
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cote-sainte-catherine",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-sainte-catherine"
+    },
+    {
+      "station_id": 33,
+      "station_name": "Snowdon",
+      "station_coordinate": {
+        "latitude": 45.485531,
+        "longitude": -73.628085
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/snowdon",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/snowdon"
+    },
+    {
+      "station_id": 34,
+      "station_name": "Villa-Maria",
+      "station_coordinate": {
+        "latitude": 45.479782,
+        "longitude": -73.619607
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/villa-maria",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/villa-maria"
+    },
+    {
+      "station_id": 35,
+      "station_name": "Vendôme",
+      "station_coordinate": {
+        "latitude": 45.473904,
+        "longitude": -73.603801
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/vendome",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/vendome"
+    },
+    {
+      "station_id": 36,
+      "station_name": "Place-Saint-Henri",
+      "station_coordinate": {
+        "latitude": 45.477335,
+        "longitude": -73.586609
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/place-saint-henri",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-saint-henri"
+    },
+    {
+      "station_id": 37,
+      "station_name": "Georges-Vanier",
+      "station_coordinate": {
+        "latitude": 45.488993,
+        "longitude": -73.576542
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/georges-vanier",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/georges-vanier"
+    },
+    {
+      "station_id": 38,
+      "station_name": "Lucien-L’Allier",
+      "station_coordinate": {
+        "latitude": 45.495043,
+        "longitude": -73.570904
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/lucien-l-allier",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/lucien-l-allier"
+    },
+    {
+      "station_id": 39,
+      "station_name": "Bonaventure",
+      "station_coordinate": {
+        "latitude": 45.498049,
+        "longitude": -73.567113
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/bonaventure",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/bonaventure"
+    },
+    {
+      "station_id": 40,
+      "station_name": "Square-Victoria-OACI",
+      "station_coordinate": {
+        "latitude": 45.501947,
+        "longitude": -73.563141
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/square-victoria-oaci",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci"
+    },
+    {
+      "station_id": 41,
+      "station_name": "Place-d’Armes",
+      "station_coordinate": {
+        "latitude": 45.506158,
+        "longitude": -73.559721
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/place-d-armes",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/place-d-armes"
+    },
+    {
+      "station_id": 42,
+      "station_name": "Champ-de-Mars",
+      "station_coordinate": {
+        "latitude": 45.51009,
+        "longitude": -73.556497
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/champ-de-mars",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/champ-de-mars"
+    },
+    {
+      "station_id": 43,
+      "station_name": "Sherbrooke",
+      "station_coordinate": {
+        "latitude": 45.518917,
+        "longitude": -73.568924
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/sherbrooke",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/sherbrooke"
+    },
+    {
+      "station_id": 44,
+      "station_name": "Mont-Royal",
+      "station_coordinate": {
+        "latitude": 45.524732,
+        "longitude": -73.581496
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/mont-royal",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/mont-royal"
+    },
+    {
+      "station_id": 45,
+      "station_name": "Laurier",
+      "station_coordinate": {
+        "latitude": 45.527429,
+        "longitude": -73.58705
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/laurier",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/laurier"
+    },
+    {
+      "station_id": 46,
+      "station_name": "Rosemont",
+      "station_coordinate": {
+        "latitude": 45.531625,
+        "longitude": -73.59748
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/rosemont",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/rosemont"
+    },
+    {
+      "station_id": 47,
+      "station_name": "Beaubien",
+      "station_coordinate": {
+        "latitude": 45.535058,
+        "longitude": -73.604963
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/beaubien",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/beaubien"
+    },
+    {
+      "station_id": 48,
+      "station_name": "Jean-Talon",
+      "station_coordinate": {
+        "latitude": 45.539234,
+        "longitude": -73.615091
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/jean-talon",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jean-talon"
+    },
+    {
+      "station_id": 49,
+      "station_name": "Jarry",
+      "station_coordinate": {
+        "latitude": 45.543081,
+        "longitude": -73.62845
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/jarry",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jarry"
+    },
+    {
+      "station_id": 50,
+      "station_name": "Crémazie",
+      "station_coordinate": {
+        "latitude": 45.546098,
+        "longitude": -73.639322
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cremazie",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cremazie"
+    },
+    {
+      "station_id": 51,
+      "station_name": "Sauvé",
+      "station_coordinate": {
+        "latitude": 45.551009,
+        "longitude": -73.656639
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/sauve",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/sauve"
+    },
+    {
+      "station_id": 52,
+      "station_name": "Henri-Bourassa",
+      "station_coordinate": {
+        "latitude": 45.55436,
+        "longitude": -73.668253
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/henri-bourassa",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/henri-bourassa"
+    },
+    {
+      "station_id": 53,
+      "station_name": "Cartier",
+      "station_coordinate": {
+        "latitude": 45.559894,
+        "longitude": -73.682029
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cartier",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cartier"
+    },
+    {
+      "station_id": 54,
+      "station_name": "De la Concorde",
+      "station_coordinate": {
+        "latitude": 45.560686,
+        "longitude": -73.709396
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/de-la-concorde",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-la-concorde"
+    },
+    {
+      "station_id": 55,
+      "station_name": "Montmorency",
+      "station_coordinate": {
+        "latitude": 45.558541,
+        "longitude": -73.722256
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/montmorency",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/montmorency"
+    },
+    {
+      "station_id": 56,
+      "station_name": "Jean-Drapeau",
+      "station_coordinate": {
+        "latitude": 45.512303,
+        "longitude": -73.532946
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/jean-drapeau",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/jean-drapeau"
+    },
+    {
+      "station_id": 57,
+      "station_name": "Longueuil-Université-de-Sherbrooke",
+      "station_coordinate": {
+        "latitude": 45.524976,
+        "longitude": -73.52196
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/longueuil-universite-de-sherbrooke",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/longueuil-universite-de-sherbrooke"
+    },
+    {
+      "station_id": 58,
+      "station_name": "Côte-des-Neiges",
+      "station_coordinate": {
+        "latitude": 45.496693,
+        "longitude": -73.623539
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/cote-des-neiges",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/cote-des-neiges"
+    },
+    {
+      "station_id": 59,
+      "station_name": "Université-de-Montréal",
+      "station_coordinate": {
+        "latitude": 45.503305,
+        "longitude": -73.617691
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/universite-de-montreal",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal"
+    },
+    {
+      "station_id": 60,
+      "station_name": "Édouard-Montpetit",
+      "station_coordinate": {
+        "latitude": 45.510166,
+        "longitude": -73.612781
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/edouard-montpetit",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/edouard-montpetit"
+    },
+    {
+      "station_id": 61,
+      "station_name": "Outremont",
+      "station_coordinate": {
+        "latitude": 45.519947,
+        "longitude": -73.614004
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/outremont",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/outremont"
+    },
+    {
+      "station_id": 62,
+      "station_name": "Acadie",
+      "station_coordinate": {
+        "latitude": 45.523628,
+        "longitude": -73.623507
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/acadie",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/acadie"
+    },
+    {
+      "station_id": 63,
+      "station_name": "Parc",
+      "station_coordinate": {
+        "latitude": 45.530515,
+        "longitude": -73.624373
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/parc",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/parc"
+    },
+    {
+      "station_id": 64,
+      "station_name": "De Castelnau",
+      "station_coordinate": {
+        "latitude": 45.530515,
+        "longitude": -73.624373
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/de-castelnau",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/de-castelnau"
+    },
+    {
+      "station_id": 65,
+      "station_name": "Fabre",
+      "station_coordinate": {
+        "latitude": 45.547213,
+        "longitude": -73.607706
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/fabre",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/fabre"
+    },
+    {
+      "station_id": 66,
+      "station_name": "D’Iberville",
+      "station_coordinate": {
+        "latitude": 45.552916,
+        "longitude": -73.602659
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/d-iberville",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/d-iberville"
+    },
+    {
+      "station_id": 67,
+      "station_name": "Saint-Michel",
+      "station_coordinate": {
+        "latitude": 45.559576,
+        "longitude": -73.60003
+      },
+      "station_url": "http://www.stm.info/en/info/networks/metro/saint-michel",
+      "station_url_french": "http://www.stm.info/fr/infos/reseaux/metro/saint-michel"
+    }
+  ],
+  "stops": [
+    {
+      "stop_id": 0,
+      "stop_route": 0,
+      "stop_station": 0
+    },
+    {
+      "stop_id": 1,
+      "stop_route": 0,
+      "stop_station": 1
+    },
+    {
+      "stop_id": 2,
+      "stop_route": 0,
+      "stop_station": 2
+    },
+    {
+      "stop_id": 3,
+      "stop_route": 0,
+      "stop_station": 3
+    },
+    {
+      "stop_id": 4,
+      "stop_route": 0,
+      "stop_station": 4
+    },
+    {
+      "stop_id": 5,
+      "stop_route": 0,
+      "stop_station": 5
+    },
+    {
+      "stop_id": 6,
+      "stop_route": 0,
+      "stop_station": 6
+    },
+    {
+      "stop_id": 7,
+      "stop_route": 0,
+      "stop_station": 7
+    },
+    {
+      "stop_id": 8,
+      "stop_route": 0,
+      "stop_station": 8
+    },
+    {
+      "stop_id": 9,
+      "stop_route": 0,
+      "stop_station": 9
+    },
+    {
+      "stop_id": 10,
+      "stop_route": 0,
+      "stop_station": 10
+    },
+    {
+      "stop_id": 11,
+      "stop_route": 0,
+      "stop_station": 11
+    },
+    {
+      "stop_id": 12,
+      "stop_route": 0,
+      "stop_station": 12
+    },
+    {
+      "stop_id": 13,
+      "stop_route": 0,
+      "stop_station": 13
+    },
+    {
+      "stop_id": 14,
+      "stop_route": 0,
+      "stop_station": 14
+    },
+    {
+      "stop_id": 15,
+      "stop_route": 0,
+      "stop_station": 15
+    },
+    {
+      "stop_id": 16,
+      "stop_route": 0,
+      "stop_station": 16
+    },
+    {
+      "stop_id": 17,
+      "stop_route": 0,
+      "stop_station": 17
+    },
+    {
+      "stop_id": 18,
+      "stop_route": 0,
+      "stop_station": 18
+    },
+    {
+      "stop_id": 19,
+      "stop_route": 0,
+      "stop_station": 19
+    },
+    {
+      "stop_id": 20,
+      "stop_route": 0,
+      "stop_station": 20
+    },
+    {
+      "stop_id": 21,
+      "stop_route": 0,
+      "stop_station": 21
+    },
+    {
+      "stop_id": 22,
+      "stop_route": 0,
+      "stop_station": 22
+    },
+    {
+      "stop_id": 23,
+      "stop_route": 0,
+      "stop_station": 23
+    },
+    {
+      "stop_id": 24,
+      "stop_route": 0,
+      "stop_station": 24
+    },
+    {
+      "stop_id": 25,
+      "stop_route": 0,
+      "stop_station": 25
+    },
+    {
+      "stop_id": 26,
+      "stop_route": 0,
+      "stop_station": 26
+    },
+    {
+      "stop_id": 27,
+      "stop_route": 1,
+      "stop_station": 27
+    },
+    {
+      "stop_id": 28,
+      "stop_route": 1,
+      "stop_station": 28
+    },
+    {
+      "stop_id": 29,
+      "stop_route": 1,
+      "stop_station": 29
+    },
+    {
+      "stop_id": 30,
+      "stop_route": 1,
+      "stop_station": 30
+    },
+    {
+      "stop_id": 31,
+      "stop_route": 1,
+      "stop_station": 31
+    },
+    {
+      "stop_id": 32,
+      "stop_route": 1,
+      "stop_station": 32
+    },
+    {
+      "stop_id": 33,
+      "stop_route": 1,
+      "stop_station": 33
+    },
+    {
+      "stop_id": 34,
+      "stop_route": 1,
+      "stop_station": 34
+    },
+    {
+      "stop_id": 35,
+      "stop_route": 1,
+      "stop_station": 35
+    },
+    {
+      "stop_id": 36,
+      "stop_route": 1,
+      "stop_station": 36
+    },
+    {
+      "stop_id": 37,
+      "stop_route": 1,
+      "stop_station": 7
+    },
+    {
+      "stop_id": 38,
+      "stop_route": 1,
+      "stop_station": 37
+    },
+    {
+      "stop_id": 39,
+      "stop_route": 1,
+      "stop_station": 38
+    },
+    {
+      "stop_id": 40,
+      "stop_route": 1,
+      "stop_station": 39
+    },
+    {
+      "stop_id": 41,
+      "stop_route": 1,
+      "stop_station": 40
+    },
+    {
+      "stop_id": 42,
+      "stop_route": 1,
+      "stop_station": 41
+    },
+    {
+      "stop_id": 43,
+      "stop_route": 1,
+      "stop_station": 42
+    },
+    {
+      "stop_id": 44,
+      "stop_route": 1,
+      "stop_station": 14
+    },
+    {
+      "stop_id": 45,
+      "stop_route": 1,
+      "stop_station": 43
+    },
+    {
+      "stop_id": 46,
+      "stop_route": 1,
+      "stop_station": 44
+    },
+    {
+      "stop_id": 47,
+      "stop_route": 1,
+      "stop_station": 45
+    },
+    {
+      "stop_id": 48,
+      "stop_route": 1,
+      "stop_station": 46
+    },
+    {
+      "stop_id": 49,
+      "stop_route": 1,
+      "stop_station": 47
+    },
+    {
+      "stop_id": 50,
+      "stop_route": 1,
+      "stop_station": 48
+    },
+    {
+      "stop_id": 51,
+      "stop_route": 1,
+      "stop_station": 49
+    },
+    {
+      "stop_id": 52,
+      "stop_route": 1,
+      "stop_station": 50
+    },
+    {
+      "stop_id": 53,
+      "stop_route": 1,
+      "stop_station": 51
+    },
+    {
+      "stop_id": 54,
+      "stop_route": 1,
+      "stop_station": 52
+    },
+    {
+      "stop_id": 55,
+      "stop_route": 1,
+      "stop_station": 53
+    },
+    {
+      "stop_id": 56,
+      "stop_route": 1,
+      "stop_station": 54
+    },
+    {
+      "stop_id": 57,
+      "stop_route": 1,
+      "stop_station": 55
+    },
+    {
+      "stop_id": 58,
+      "stop_route": 2,
+      "stop_station": 57
+    },
+    {
+      "stop_id": 59,
+      "stop_route": 2,
+      "stop_station": 56
+    },
+    {
+      "stop_id": 60,
+      "stop_route": 2,
+      "stop_station": 14
+    },
+    {
+      "stop_id": 61,
+      "stop_route": 3,
+      "stop_station": 33
+    },
+    {
+      "stop_id": 62,
+      "stop_route": 3,
+      "stop_station": 58
+    },
+    {
+      "stop_id": 63,
+      "stop_route": 3,
+      "stop_station": 59
+    },
+    {
+      "stop_id": 64,
+      "stop_route": 3,
+      "stop_station": 60
+    },
+    {
+      "stop_id": 65,
+      "stop_route": 3,
+      "stop_station": 61
+    },
+    {
+      "stop_id": 66,
+      "stop_route": 3,
+      "stop_station": 62
+    },
+    {
+      "stop_id": 67,
+      "stop_route": 3,
+      "stop_station": 63
+    },
+    {
+      "stop_id": 68,
+      "stop_route": 3,
+      "stop_station": 64
+    },
+    {
+      "stop_id": 69,
+      "stop_route": 3,
+      "stop_station": 48
+    },
+    {
+      "stop_id": 70,
+      "stop_route": 3,
+      "stop_station": 65
+    },
+    {
+      "stop_id": 71,
+      "stop_route": 3,
+      "stop_station": 66
+    },
+    {
+      "stop_id": 72,
+      "stop_route": 3,
+      "stop_station": 67
+    }
+  ],
+  "route_stops": {
+    "0": [
+      {
+        "direction_id": 0,
+        "direction_stops": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "direction_id": 1,
+        "direction_stops": [
+          26,
+          25,
+          24,
+          23,
+          22,
+          21,
+          20,
+          19,
+          18,
+          17,
+          16,
+          15,
+          14,
+          13,
+          12,
+          11,
+          10,
+          9,
+          8,
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      }
+    ],
+    "1": [
+      {
+        "direction_id": 0,
+        "direction_stops": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      },
+      {
+        "direction_id": 1,
+        "direction_stops": [
+          57,
+          56,
+          55,
+          54,
+          53,
+          52,
+          51,
+          50,
+          49,
+          48,
+          47,
+          46,
+          45,
+          44,
+          43,
+          42,
+          41,
+          40,
+          39,
+          38,
+          37,
+          36,
+          35,
+          34,
+          33,
+          32,
+          31,
+          30,
+          29,
+          28,
+          27
+        ]
+      }
+    ],
+    "2": [
+      {
+        "direction_id": 0,
+        "direction_stops": [
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "direction_id": 1,
+        "direction_stops": [
+          60,
+          59,
+          58
+        ]
+      }
+    ],
+    "3": [
+      {
+        "direction_id": 0,
+        "direction_stops": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72
+        ]
+      },
+      {
+        "direction_id": 1,
+        "direction_stops": [
+          72,
+          71,
+          70,
+          69,
+          68,
+          67,
+          66,
+          65,
+          64,
+          63,
+          62,
+          61
+        ]
+      }
+    ]
+  },
+  "services": [
+    {
+      "stop_id": 0,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:30",
+          "00:35"
+        ],
+        "saturday": [
+          "05:30",
+          "01:05"
+        ],
+        "sunday": [
+          "05:30",
+          "00:35"
+        ]
+      }
+    },
+    {
+      "stop_id": 1,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:31",
+          "00:36"
+        ],
+        "saturday": [
+          "05:31",
+          "01:06"
+        ],
+        "sunday": [
+          "05:31",
+          "00:36"
+        ]
+      }
+    },
+    {
+      "stop_id": 1,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:03",
+          "01:15"
+        ],
+        "saturday": [
+          "06:03",
+          "01:45"
+        ],
+        "sunday": [
+          "06:03",
+          "01:15"
+        ]
+      }
+    },
+    {
+      "stop_id": 2,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:32",
+          "00:37"
+        ],
+        "saturday": [
+          "05:32",
+          "01:07"
+        ],
+        "sunday": [
+          "05:32",
+          "00:37"
+        ]
+      }
+    },
+    {
+      "stop_id": 2,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:02",
+          "01:14"
+        ],
+        "saturday": [
+          "06:02",
+          "01:44"
+        ],
+        "sunday": [
+          "06:02",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "stop_id": 3,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:34",
+          "00:39"
+        ],
+        "saturday": [
+          "05:34",
+          "01:09"
+        ],
+        "sunday": [
+          "05:34",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "stop_id": 3,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:00",
+          "01:12"
+        ],
+        "saturday": [
+          "06:00",
+          "01:42"
+        ],
+        "sunday": [
+          "06:00",
+          "01:12"
+        ]
+      }
+    },
+    {
+      "stop_id": 4,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:35",
+          "00:40"
+        ],
+        "saturday": [
+          "05:35",
+          "01:10"
+        ],
+        "sunday": [
+          "05:35",
+          "00:40"
+        ]
+      }
+    },
+    {
+      "stop_id": 4,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:59",
+          "01:11"
+        ],
+        "saturday": [
+          "05:59",
+          "01:41"
+        ],
+        "sunday": [
+          "05:59",
+          "01:11"
+        ]
+      }
+    },
+    {
+      "stop_id": 5,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:37",
+          "00:42"
+        ],
+        "saturday": [
+          "05:37",
+          "01:12"
+        ],
+        "sunday": [
+          "05:37",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "stop_id": 5,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:58",
+          "01:09"
+        ],
+        "saturday": [
+          "05:58",
+          "01:39"
+        ],
+        "sunday": [
+          "05:58",
+          "01:09"
+        ]
+      }
+    },
+    {
+      "stop_id": 6,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:38",
+          "00:43"
+        ],
+        "saturday": [
+          "05:38",
+          "01:13"
+        ],
+        "sunday": [
+          "05:38",
+          "00:43"
+        ]
+      }
+    },
+    {
+      "stop_id": 6,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:56",
+          "01:08"
+        ],
+        "saturday": [
+          "05:56",
+          "01:38"
+        ],
+        "sunday": [
+          "05:56",
+          "01:08"
+        ]
+      }
+    },
+    {
+      "stop_id": 7,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:40",
+          "00:45"
+        ],
+        "saturday": [
+          "05:40",
+          "01:15"
+        ],
+        "sunday": [
+          "05:40",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "stop_id": 7,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:55",
+          "01:06"
+        ],
+        "saturday": [
+          "05:55",
+          "01:36"
+        ],
+        "sunday": [
+          "05:55",
+          "01:06"
+        ]
+      }
+    },
+    {
+      "stop_id": 8,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:42",
+          "00:47"
+        ],
+        "saturday": [
+          "05:42",
+          "01:17"
+        ],
+        "sunday": [
+          "05:42",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 8,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:53",
+          "01:04"
+        ],
+        "saturday": [
+          "05:53",
+          "01:34"
+        ],
+        "sunday": [
+          "05:53",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "stop_id": 9,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:43",
+          "00:48"
+        ],
+        "saturday": [
+          "05:43",
+          "01:18"
+        ],
+        "sunday": [
+          "05:43",
+          "00:48"
+        ]
+      }
+    },
+    {
+      "stop_id": 9,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:51",
+          "01:03"
+        ],
+        "saturday": [
+          "05:51",
+          "01:33"
+        ],
+        "sunday": [
+          "05:51",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "stop_id": 10,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:45",
+          "00:50"
+        ],
+        "saturday": [
+          "05:45",
+          "01:20"
+        ],
+        "sunday": [
+          "05:45",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "stop_id": 10,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:50",
+          "01:02"
+        ],
+        "saturday": [
+          "05:50",
+          "01:32"
+        ],
+        "sunday": [
+          "05:50",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "stop_id": 11,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:46",
+          "00:51"
+        ],
+        "saturday": [
+          "05:46",
+          "01:21"
+        ],
+        "sunday": [
+          "05:46",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 11,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:49",
+          "01:01"
+        ],
+        "saturday": [
+          "05:49",
+          "01:31"
+        ],
+        "sunday": [
+          "05:49",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "stop_id": 12,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:47",
+          "00:52"
+        ],
+        "saturday": [
+          "05:47",
+          "01:22"
+        ],
+        "sunday": [
+          "05:47",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "stop_id": 12,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:48",
+          "01:00"
+        ],
+        "saturday": [
+          "05:48",
+          "01:29"
+        ],
+        "sunday": [
+          "05:48",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 13,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:48",
+          "00:53"
+        ],
+        "saturday": [
+          "05:48",
+          "01:23"
+        ],
+        "sunday": [
+          "05:48",
+          "00:53"
+        ]
+      }
+    },
+    {
+      "stop_id": 13,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:47",
+          "00:58"
+        ],
+        "saturday": [
+          "05:47",
+          "01:28"
+        ],
+        "sunday": [
+          "05:47",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "stop_id": 14,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:49",
+          "00:57"
+        ],
+        "saturday": [
+          "05:49",
+          "01:27"
+        ],
+        "sunday": [
+          "05:49",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 14,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:45",
+          "00:57"
+        ],
+        "saturday": [
+          "05:45",
+          "01:27"
+        ],
+        "sunday": [
+          "05:45",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 15,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:50",
+          "00:58"
+        ],
+        "saturday": [
+          "05:50",
+          "01:28"
+        ],
+        "sunday": [
+          "05:50",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "stop_id": 15,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:44",
+          "00:52"
+        ],
+        "saturday": [
+          "05:44",
+          "01:22"
+        ],
+        "sunday": [
+          "05:44",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "stop_id": 16,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:51",
+          "01:00"
+        ],
+        "saturday": [
+          "05:51",
+          "01:30"
+        ],
+        "sunday": [
+          "05:51",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 16,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:43",
+          "00:51"
+        ],
+        "saturday": [
+          "05:43",
+          "01:21"
+        ],
+        "sunday": [
+          "05:43",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 17,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:53",
+          "01:01"
+        ],
+        "saturday": [
+          "05:53",
+          "01:31"
+        ],
+        "sunday": [
+          "05:53",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "stop_id": 17,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:41",
+          "00:49"
+        ],
+        "saturday": [
+          "05:41",
+          "01:19"
+        ],
+        "sunday": [
+          "05:41",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "stop_id": 18,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:54",
+          "01:03"
+        ],
+        "saturday": [
+          "05:54",
+          "01:33"
+        ],
+        "sunday": [
+          "05:54",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "stop_id": 18,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:40",
+          "00:48"
+        ],
+        "saturday": [
+          "05:40",
+          "01:18"
+        ],
+        "sunday": [
+          "05:40",
+          "00:48"
+        ]
+      }
+    },
+    {
+      "stop_id": 19,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:56",
+          "01:04"
+        ],
+        "saturday": [
+          "05:56",
+          "01:34"
+        ],
+        "sunday": [
+          "05:56",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "stop_id": 19,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:39",
+          "00:47"
+        ],
+        "saturday": [
+          "05:39",
+          "01:17"
+        ],
+        "sunday": [
+          "05:39",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 20,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:57",
+          "01:05"
+        ],
+        "saturday": [
+          "05:57",
+          "01:35"
+        ],
+        "sunday": [
+          "05:57",
+          "01:05"
+        ]
+      }
+    },
+    {
+      "stop_id": 20,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:37",
+          "00:45"
+        ],
+        "saturday": [
+          "05:37",
+          "01:15"
+        ],
+        "sunday": [
+          "05:37",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "stop_id": 21,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:58",
+          "01:07"
+        ],
+        "saturday": [
+          "05:58",
+          "01:37"
+        ],
+        "sunday": [
+          "05:58",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "stop_id": 21,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:36",
+          "00:44"
+        ],
+        "saturday": [
+          "05:36",
+          "01:14"
+        ],
+        "sunday": [
+          "05:36",
+          "00:44"
+        ]
+      }
+    },
+    {
+      "stop_id": 22,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:00",
+          "01:08"
+        ],
+        "saturday": [
+          "06:00",
+          "01:38"
+        ],
+        "sunday": [
+          "06:00",
+          "01:08"
+        ]
+      }
+    },
+    {
+      "stop_id": 22,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:34",
+          "00:42"
+        ],
+        "saturday": [
+          "05:34",
+          "01:12"
+        ],
+        "sunday": [
+          "05:34",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "stop_id": 23,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:01",
+          "01:10"
+        ],
+        "saturday": [
+          "06:01",
+          "01:40"
+        ],
+        "sunday": [
+          "06:01",
+          "01:10"
+        ]
+      }
+    },
+    {
+      "stop_id": 23,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:33",
+          "00:41"
+        ],
+        "saturday": [
+          "05:33",
+          "01:11"
+        ],
+        "sunday": [
+          "05:33",
+          "00:41"
+        ]
+      }
+    },
+    {
+      "stop_id": 24,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:02",
+          "01:11"
+        ],
+        "saturday": [
+          "06:02",
+          "01:41"
+        ],
+        "sunday": [
+          "06:02",
+          "01:11"
+        ]
+      }
+    },
+    {
+      "stop_id": 24,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:32",
+          "00:40"
+        ],
+        "saturday": [
+          "05:32",
+          "01:10"
+        ],
+        "sunday": [
+          "05:32",
+          "00:40"
+        ]
+      }
+    },
+    {
+      "stop_id": 25,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:04",
+          "01:12"
+        ],
+        "saturday": [
+          "06:04",
+          "01:42"
+        ],
+        "sunday": [
+          "06:04",
+          "01:12"
+        ]
+      }
+    },
+    {
+      "stop_id": 25,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:31",
+          "00:39"
+        ],
+        "saturday": [
+          "05:31",
+          "01:09"
+        ],
+        "sunday": [
+          "05:31",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "stop_id": 26,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:30",
+          "00:38"
+        ],
+        "saturday": [
+          "05:30",
+          "01:08"
+        ],
+        "sunday": [
+          "05:30",
+          "00:38"
+        ]
+      }
+    },
+    {
+      "stop_id": 27,
+      "direction_id": 0,
+      "times": {
+        "week": [],
+        "saturday": [],
+        "sunday": []
+      }
+    },
+    {
+      "stop_id": 28,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:31",
+          "00:31"
+        ],
+        "saturday": [
+          "05:31",
+          "01:01"
+        ],
+        "sunday": [
+          "05:31",
+          "00:31"
+        ]
+      }
+    },
+    {
+      "stop_id": 28,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:06",
+          "01:20"
+        ],
+        "saturday": [
+          "06:06",
+          "01:50"
+        ],
+        "sunday": [
+          "06:06",
+          "01:20"
+        ]
+      }
+    },
+    {
+      "stop_id": 29,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:32",
+          "00:32"
+        ],
+        "saturday": [
+          "05:32",
+          "01:02"
+        ],
+        "sunday": [
+          "05:32",
+          "00:32"
+        ]
+      }
+    },
+    {
+      "stop_id": 29,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:05",
+          "01:18"
+        ],
+        "saturday": [
+          "06:05",
+          "01:48"
+        ],
+        "sunday": [
+          "06:05",
+          "01:18"
+        ]
+      }
+    },
+    {
+      "stop_id": 30,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:34",
+          "00:34"
+        ],
+        "saturday": [
+          "05:34",
+          "01:04"
+        ],
+        "sunday": [
+          "05:34",
+          "00:34"
+        ]
+      }
+    },
+    {
+      "stop_id": 30,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:03",
+          "01:17"
+        ],
+        "saturday": [
+          "06:03",
+          "01:47"
+        ],
+        "sunday": [
+          "06:03",
+          "01:17"
+        ]
+      }
+    },
+    {
+      "stop_id": 31,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:35",
+          "00:35"
+        ],
+        "saturday": [
+          "05:35",
+          "01:05"
+        ],
+        "sunday": [
+          "05:35",
+          "00:35"
+        ]
+      }
+    },
+    {
+      "stop_id": 31,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:01",
+          "01:15"
+        ],
+        "saturday": [
+          "06:01",
+          "01:45"
+        ],
+        "sunday": [
+          "06:01",
+          "01:15"
+        ]
+      }
+    },
+    {
+      "stop_id": 32,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:37",
+          "00:37"
+        ],
+        "saturday": [
+          "05:37",
+          "01:07"
+        ],
+        "sunday": [
+          "05:37",
+          "00:37"
+        ]
+      }
+    },
+    {
+      "stop_id": 32,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "06:00",
+          "01:14"
+        ],
+        "saturday": [
+          "06:00",
+          "01:44"
+        ],
+        "sunday": [
+          "06:00",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "stop_id": 33,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:38",
+          "00:38"
+        ],
+        "saturday": [
+          "05:38",
+          "01:08"
+        ],
+        "sunday": [
+          "05:38",
+          "00:38"
+        ]
+      }
+    },
+    {
+      "stop_id": 33,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:59",
+          "01:12"
+        ],
+        "saturday": [
+          "05:59",
+          "01:42"
+        ],
+        "sunday": [
+          "05:59",
+          "01:12"
+        ]
+      }
+    },
+    {
+      "stop_id": 34,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:39",
+          "00:39"
+        ],
+        "saturday": [
+          "05:39",
+          "01:09"
+        ],
+        "sunday": [
+          "05:39",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "stop_id": 34,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:58",
+          "01:11"
+        ],
+        "saturday": [
+          "05:58",
+          "01:41"
+        ],
+        "sunday": [
+          "05:58",
+          "01:11"
+        ]
+      }
+    },
+    {
+      "stop_id": 35,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:41",
+          "00:41"
+        ],
+        "saturday": [
+          "05:41",
+          "01:11"
+        ],
+        "sunday": [
+          "05:41",
+          "00:41"
+        ]
+      }
+    },
+    {
+      "stop_id": 35,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:55",
+          "01:09"
+        ],
+        "saturday": [
+          "05:55",
+          "01:39"
+        ],
+        "sunday": [
+          "05:55",
+          "01:09"
+        ]
+      }
+    },
+    {
+      "stop_id": 36,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:43",
+          "00:43"
+        ],
+        "saturday": [
+          "05:43",
+          "01:13"
+        ],
+        "sunday": [
+          "05:43",
+          "00:43"
+        ]
+      }
+    },
+    {
+      "stop_id": 36,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:53",
+          "01:07"
+        ],
+        "saturday": [
+          "05:53",
+          "01:37"
+        ],
+        "sunday": [
+          "05:53",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "stop_id": 37,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:45",
+          "00:45"
+        ],
+        "saturday": [
+          "05:45",
+          "01:15"
+        ],
+        "sunday": [
+          "05:45",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "stop_id": 37,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:52",
+          "01:06"
+        ],
+        "saturday": [
+          "05:52",
+          "01:36"
+        ],
+        "sunday": [
+          "05:52",
+          "01:06"
+        ]
+      }
+    },
+    {
+      "stop_id": 38,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:46",
+          "00:46"
+        ],
+        "saturday": [
+          "05:46",
+          "01:16"
+        ],
+        "sunday": [
+          "05:46",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "stop_id": 38,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:51",
+          "01:04"
+        ],
+        "saturday": [
+          "05:51",
+          "01:34"
+        ],
+        "sunday": [
+          "05:51",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "stop_id": 39,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:47",
+          "00:47"
+        ],
+        "saturday": [
+          "05:47",
+          "01:17"
+        ],
+        "sunday": [
+          "05:47",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 39,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:50",
+          "01:03"
+        ],
+        "saturday": [
+          "05:50",
+          "01:33"
+        ],
+        "sunday": [
+          "05:50",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "stop_id": 40,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:49",
+          "00:49"
+        ],
+        "saturday": [
+          "05:49",
+          "01:19"
+        ],
+        "sunday": [
+          "05:49",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "stop_id": 40,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:49",
+          "01:02"
+        ],
+        "saturday": [
+          "05:49",
+          "01:32"
+        ],
+        "sunday": [
+          "05:49",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "stop_id": 41,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:50",
+          "00:50"
+        ],
+        "saturday": [
+          "05:50",
+          "01:20"
+        ],
+        "sunday": [
+          "05:50",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "stop_id": 41,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:48",
+          "01:01"
+        ],
+        "saturday": [
+          "05:48",
+          "01:31"
+        ],
+        "sunday": [
+          "05:48",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "stop_id": 42,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:51",
+          "00:51"
+        ],
+        "saturday": [
+          "05:51",
+          "01:21"
+        ],
+        "sunday": [
+          "05:51",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 42,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:46",
+          "01:00"
+        ],
+        "saturday": [
+          "05:46",
+          "01:30"
+        ],
+        "sunday": [
+          "05:46",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 43,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:52",
+          "00:52"
+        ],
+        "saturday": [
+          "05:52",
+          "01:22"
+        ],
+        "sunday": [
+          "05:52",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "stop_id": 43,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:45",
+          "00:59"
+        ],
+        "saturday": [
+          "05:45",
+          "01:29"
+        ],
+        "sunday": [
+          "05:45",
+          "00:59"
+        ]
+      }
+    },
+    {
+      "stop_id": 44,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:53",
+          "00:57"
+        ],
+        "saturday": [
+          "05:53",
+          "01:27"
+        ],
+        "sunday": [
+          "05:53",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 44,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:44",
+          "00:57"
+        ],
+        "saturday": [
+          "05:44",
+          "01:27"
+        ],
+        "sunday": [
+          "05:44",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 45,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:55",
+          "00:59"
+        ],
+        "saturday": [
+          "05:55",
+          "01:29"
+        ],
+        "sunday": [
+          "05:55",
+          "00:59"
+        ]
+      }
+    },
+    {
+      "stop_id": 45,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:42",
+          "00:51"
+        ],
+        "saturday": [
+          "05:42",
+          "01:21"
+        ],
+        "sunday": [
+          "05:42",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 46,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:56",
+          "01:00"
+        ],
+        "saturday": [
+          "05:56",
+          "01:30"
+        ],
+        "sunday": [
+          "05:56",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 46,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:41",
+          "00:50"
+        ],
+        "saturday": [
+          "05:41",
+          "01:20"
+        ],
+        "sunday": [
+          "05:41",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "stop_id": 47,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:58",
+          "01:01"
+        ],
+        "saturday": [
+          "05:58",
+          "01:31"
+        ],
+        "sunday": [
+          "05:58",
+          "01:01"
+        ]
+      }
+    },
+    {
+      "stop_id": 47,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:40",
+          "00:49"
+        ],
+        "saturday": [
+          "05:40",
+          "01:19"
+        ],
+        "sunday": [
+          "05:40",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "stop_id": 48,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:59",
+          "01:03"
+        ],
+        "saturday": [
+          "05:59",
+          "01:33"
+        ],
+        "sunday": [
+          "05:59",
+          "01:03"
+        ]
+      }
+    },
+    {
+      "stop_id": 48,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:38",
+          "00:47"
+        ],
+        "saturday": [
+          "05:38",
+          "01:17"
+        ],
+        "sunday": [
+          "05:38",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 49,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:00",
+          "01:04"
+        ],
+        "saturday": [
+          "06:00",
+          "01:34"
+        ],
+        "sunday": [
+          "06:00",
+          "01:04"
+        ]
+      }
+    },
+    {
+      "stop_id": 49,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:37",
+          "00:46"
+        ],
+        "saturday": [
+          "05:37",
+          "01:16"
+        ],
+        "sunday": [
+          "05:37",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "stop_id": 50,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:02",
+          "01:05"
+        ],
+        "saturday": [
+          "06:02",
+          "01:35"
+        ],
+        "sunday": [
+          "06:02",
+          "01:05"
+        ]
+      }
+    },
+    {
+      "stop_id": 50,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:36",
+          "00:45"
+        ],
+        "saturday": [
+          "05:36",
+          "01:15"
+        ],
+        "sunday": [
+          "05:36",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "stop_id": 51,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:03",
+          "01:07"
+        ],
+        "saturday": [
+          "06:03",
+          "01:37"
+        ],
+        "sunday": [
+          "06:03",
+          "01:07"
+        ]
+      }
+    },
+    {
+      "stop_id": 51,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:34",
+          "00:43"
+        ],
+        "saturday": [
+          "05:34",
+          "01:13"
+        ],
+        "sunday": [
+          "05:34",
+          "00:43"
+        ]
+      }
+    },
+    {
+      "stop_id": 52,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:05",
+          "01:08"
+        ],
+        "saturday": [
+          "06:05",
+          "01:39"
+        ],
+        "sunday": [
+          "06:05",
+          "01:08"
+        ]
+      }
+    },
+    {
+      "stop_id": 52,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:33",
+          "00:42"
+        ],
+        "saturday": [
+          "05:33",
+          "01:12"
+        ],
+        "sunday": [
+          "05:33",
+          "00:42"
+        ]
+      }
+    },
+    {
+      "stop_id": 53,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:07",
+          "01:10"
+        ],
+        "saturday": [
+          "06:07",
+          "01:41"
+        ],
+        "sunday": [
+          "06:07",
+          "01:10"
+        ]
+      }
+    },
+    {
+      "stop_id": 53,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:30",
+          "00:39"
+        ],
+        "saturday": [
+          "05:30",
+          "01:09"
+        ],
+        "sunday": [
+          "05:30",
+          "00:39"
+        ]
+      }
+    },
+    {
+      "stop_id": 54,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:09",
+          "01:12"
+        ],
+        "saturday": [
+          "06:09",
+          "01:42"
+        ],
+        "sunday": [
+          "06:09",
+          "01:12"
+        ]
+      }
+    },
+    {
+      "stop_id": 54,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:29",
+          "00:38"
+        ],
+        "saturday": [
+          "05:29",
+          "01:08"
+        ],
+        "sunday": [
+          "05:29",
+          "00:38"
+        ]
+      }
+    },
+    {
+      "stop_id": 55,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:10",
+          "01:14"
+        ],
+        "saturday": [
+          "06:10",
+          "01:44"
+        ],
+        "sunday": [
+          "06:10",
+          "01:14"
+        ]
+      }
+    },
+    {
+      "stop_id": 55,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:27",
+          "00:36"
+        ],
+        "saturday": [
+          "05:27",
+          "01:06"
+        ],
+        "sunday": [
+          "05:27",
+          "00:36"
+        ]
+      }
+    },
+    {
+      "stop_id": 56,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "06:13",
+          "01:17"
+        ],
+        "saturday": [
+          "06:13",
+          "01:47"
+        ],
+        "sunday": [
+          "06:13",
+          "01:17"
+        ]
+      }
+    },
+    {
+      "stop_id": 56,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:25",
+          "00:34"
+        ],
+        "saturday": [
+          "05:25",
+          "01:04"
+        ],
+        "sunday": [
+          "05:25",
+          "00:34"
+        ]
+      }
+    },
+    {
+      "stop_id": 57,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:24",
+          "00:33"
+        ],
+        "saturday": [
+          "05:24",
+          "01:03"
+        ],
+        "sunday": [
+          "05:24",
+          "00:33"
+        ]
+      }
+    },
+    {
+      "stop_id": 58,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:30",
+          "01:00"
+        ],
+        "saturday": [
+          "05:30",
+          "01:30"
+        ],
+        "sunday": [
+          "05:30",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 59,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:32",
+          "01:02"
+        ],
+        "saturday": [
+          "05:32",
+          "01:32"
+        ],
+        "sunday": [
+          "05:32",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "stop_id": 59,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:32",
+          "01:02"
+        ],
+        "saturday": [
+          "05:32",
+          "01:32"
+        ],
+        "sunday": [
+          "05:32",
+          "01:02"
+        ]
+      }
+    },
+    {
+      "stop_id": 60,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:30",
+          "01:00"
+        ],
+        "saturday": [
+          "05:30",
+          "01:30"
+        ],
+        "sunday": [
+          "05:30",
+          "01:00"
+        ]
+      }
+    },
+    {
+      "stop_id": 61,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:30",
+          "00:45"
+        ],
+        "saturday": [
+          "05:30",
+          "01:15"
+        ],
+        "sunday": [
+          "05:30",
+          "00:45"
+        ]
+      }
+    },
+    {
+      "stop_id": 62,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:31",
+          "00:46"
+        ],
+        "saturday": [
+          "05:31",
+          "01:16"
+        ],
+        "sunday": [
+          "05:31",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "stop_id": 62,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:43",
+          "00:58"
+        ],
+        "saturday": [
+          "05:43",
+          "01:28"
+        ],
+        "sunday": [
+          "05:43",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "stop_id": 63,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:32",
+          "00:47"
+        ],
+        "saturday": [
+          "05:32",
+          "01:17"
+        ],
+        "sunday": [
+          "05:32",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 63,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:42",
+          "00:57"
+        ],
+        "saturday": [
+          "05:42",
+          "01:27"
+        ],
+        "sunday": [
+          "05:42",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 64,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:34",
+          "00:49"
+        ],
+        "saturday": [
+          "05:34",
+          "01:19"
+        ],
+        "sunday": [
+          "05:34",
+          "00:49"
+        ]
+      }
+    },
+    {
+      "stop_id": 64,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:40",
+          "00:55"
+        ],
+        "saturday": [
+          "05:40",
+          "01:25"
+        ],
+        "sunday": [
+          "05:40",
+          "00:55"
+        ]
+      }
+    },
+    {
+      "stop_id": 65,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:35",
+          "00:50"
+        ],
+        "saturday": [
+          "05:35",
+          "01:20"
+        ],
+        "sunday": [
+          "05:35",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "stop_id": 65,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:39",
+          "00:54"
+        ],
+        "saturday": [
+          "05:39",
+          "01:24"
+        ],
+        "sunday": [
+          "05:39",
+          "00:54"
+        ]
+      }
+    },
+    {
+      "stop_id": 66,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:36",
+          "00:51"
+        ],
+        "saturday": [
+          "05:36",
+          "01:21"
+        ],
+        "sunday": [
+          "05:36",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 66,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:37",
+          "00:52"
+        ],
+        "saturday": [
+          "05:37",
+          "01:22"
+        ],
+        "sunday": [
+          "05:37",
+          "00:52"
+        ]
+      }
+    },
+    {
+      "stop_id": 67,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:38",
+          "00:53"
+        ],
+        "saturday": [
+          "05:38",
+          "01:23"
+        ],
+        "sunday": [
+          "05:38",
+          "00:53"
+        ]
+      }
+    },
+    {
+      "stop_id": 67,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:36",
+          "00:51"
+        ],
+        "saturday": [
+          "05:36",
+          "01:21"
+        ],
+        "sunday": [
+          "05:36",
+          "00:51"
+        ]
+      }
+    },
+    {
+      "stop_id": 68,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:39",
+          "00:54"
+        ],
+        "saturday": [
+          "05:39",
+          "01:24"
+        ],
+        "sunday": [
+          "05:39",
+          "00:54"
+        ]
+      }
+    },
+    {
+      "stop_id": 68,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:35",
+          "00:50"
+        ],
+        "saturday": [
+          "05:35",
+          "01:20"
+        ],
+        "sunday": [
+          "05:35",
+          "00:50"
+        ]
+      }
+    },
+    {
+      "stop_id": 69,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:40",
+          "00:55"
+        ],
+        "saturday": [
+          "05:40",
+          "01:25"
+        ],
+        "sunday": [
+          "05:40",
+          "00:55"
+        ]
+      }
+    },
+    {
+      "stop_id": 69,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:33",
+          "00:48"
+        ],
+        "saturday": [
+          "05:33",
+          "01:18"
+        ],
+        "sunday": [
+          "05:33",
+          "00:48"
+        ]
+      }
+    },
+    {
+      "stop_id": 70,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:42",
+          "00:57"
+        ],
+        "saturday": [
+          "05:42",
+          "01:27"
+        ],
+        "sunday": [
+          "05:42",
+          "00:57"
+        ]
+      }
+    },
+    {
+      "stop_id": 70,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:32",
+          "00:47"
+        ],
+        "saturday": [
+          "05:32",
+          "01:17"
+        ],
+        "sunday": [
+          "05:32",
+          "00:47"
+        ]
+      }
+    },
+    {
+      "stop_id": 71,
+      "direction_id": 0,
+      "times": {
+        "week": [
+          "05:43",
+          "00:58"
+        ],
+        "saturday": [
+          "05:43",
+          "01:28"
+        ],
+        "sunday": [
+          "05:43",
+          "00:58"
+        ]
+      }
+    },
+    {
+      "stop_id": 71,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:31",
+          "00:46"
+        ],
+        "saturday": [
+          "05:31",
+          "01:16"
+        ],
+        "sunday": [
+          "05:31",
+          "00:46"
+        ]
+      }
+    },
+    {
+      "stop_id": 72,
+      "direction_id": 1,
+      "times": {
+        "week": [
+          "05:30",
+          "00:45"
+        ],
+        "saturday": [
+          "05:30",
+          "01:15"
+        ],
+        "sunday": [
+          "05:30",
+          "00:45"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2021-08-13T03:00:51Z",
+    "origin": "downloaded"
+  }
+}
