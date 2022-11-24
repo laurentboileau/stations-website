@@ -2690,16 +2690,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "06:01",
-					"last": "01:15"
+					"first": "05:35",
+					"last": "00:35"
 				},
 				"saturday": {
-					"first": "06:01",
-					"last": "01:45"
+					"first": "05:35",
+					"last": "01:05"
 				},
 				"sunday": {
-					"first": "06:01",
-					"last": "01:15"
+					"first": "05:35",
+					"last": "00:35"
 				}
 			}
 		},
@@ -2762,16 +2762,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:59",
-					"last": "01:12"
+					"first": "05:38",
+					"last": "00:38"
 				},
 				"saturday": {
-					"first": "05:59",
-					"last": "01:42"
+					"first": "05:38",
+					"last": "01:08"
 				},
 				"sunday": {
-					"first": "05:59",
-					"last": "01:12"
+					"first": "05:38",
+					"last": "00:38"
 				}
 			}
 		},
@@ -2906,16 +2906,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:45",
-					"last": "00:45"
+					"first": "05:52",
+					"last": "01:06"
 				},
 				"saturday": {
-					"first": "05:45",
-					"last": "01:15"
+					"first": "05:52",
+					"last": "01:36"
 				},
 				"sunday": {
-					"first": "05:45",
-					"last": "00:45"
+					"first": "05:52",
+					"last": "01:06"
 				}
 			}
 		},
@@ -2942,16 +2942,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:46",
-					"last": "00:46"
+					"first": "05:51",
+					"last": "01:04"
 				},
 				"saturday": {
-					"first": "05:46",
-					"last": "01:16"
+					"first": "05:51",
+					"last": "01:34"
 				},
 				"sunday": {
-					"first": "05:46",
-					"last": "00:46"
+					"first": "05:51",
+					"last": "01:04"
 				}
 			}
 		},
@@ -3050,16 +3050,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:48",
-					"last": "01:01"
+					"first": "05:50",
+					"last": "00:50"
 				},
 				"saturday": {
-					"first": "05:48",
-					"last": "01:31"
+					"first": "05:50",
+					"last": "01:20"
 				},
 				"sunday": {
-					"first": "05:48",
-					"last": "01:01"
+					"first": "05:50",
+					"last": "00:50"
 				}
 			}
 		},
@@ -3086,16 +3086,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:51",
-					"last": "00:51"
+					"first": "05:46",
+					"last": "01:00"
 				},
 				"saturday": {
-					"first": "05:51",
-					"last": "01:21"
+					"first": "05:46",
+					"last": "01:30"
 				},
 				"sunday": {
-					"first": "05:51",
-					"last": "00:51"
+					"first": "05:46",
+					"last": "01:00"
 				}
 			}
 		},
@@ -3122,16 +3122,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:52",
-					"last": "00:52"
+					"first": "05:45",
+					"last": "00:59"
 				},
 				"saturday": {
-					"first": "05:52",
-					"last": "01:22"
+					"first": "05:45",
+					"last": "01:29"
 				},
 				"sunday": {
-					"first": "05:52",
-					"last": "00:52"
+					"first": "05:45",
+					"last": "00:59"
 				}
 			}
 		},
@@ -3230,16 +3230,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:56",
-					"last": "01:00"
+					"first": "05:41",
+					"last": "00:50"
 				},
 				"saturday": {
-					"first": "05:56",
-					"last": "01:30"
+					"first": "05:41",
+					"last": "01:20"
 				},
 				"sunday": {
-					"first": "05:56",
-					"last": "01:00"
+					"first": "05:41",
+					"last": "00:50"
 				}
 			}
 		},
@@ -3374,16 +3374,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "06:02",
-					"last": "01:05"
+					"first": "05:36",
+					"last": "00:45"
 				},
 				"saturday": {
-					"first": "06:02",
-					"last": "01:35"
+					"first": "05:36",
+					"last": "01:15"
 				},
 				"sunday": {
-					"first": "06:02",
-					"last": "01:05"
+					"first": "05:36",
+					"last": "00:45"
 				}
 			}
 		},
@@ -3482,16 +3482,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:30",
-					"last": "00:39"
+					"first": "06:07",
+					"last": "01:10"
 				},
 				"saturday": {
-					"first": "05:30",
-					"last": "01:09"
+					"first": "06:07",
+					"last": "01:41"
 				},
 				"sunday": {
-					"first": "05:30",
-					"last": "00:39"
+					"first": "06:07",
+					"last": "01:10"
 				}
 			}
 		},
@@ -3518,16 +3518,16 @@
 			"direction": "original",
 			"schedule": {
 				"week": {
-					"first": "05:29",
-					"last": "00:38"
+					"first": "06:09",
+					"last": "01:12"
 				},
 				"saturday": {
-					"first": "05:29",
-					"last": "01:08"
+					"first": "06:09",
+					"last": "01:42"
 				},
 				"sunday": {
-					"first": "05:29",
-					"last": "00:38"
+					"first": "06:09",
+					"last": "01:12"
 				}
 			}
 		},
@@ -4109,7 +4109,7 @@
 		}
 	],
 	"metadata": {
-		"created": "2022-10-15T17:48:16Z",
+		"created": "2022-11-24T16:21:54Z",
 		"origin": "downloaded"
 	}
 }
